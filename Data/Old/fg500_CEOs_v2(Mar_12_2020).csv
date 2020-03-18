@@ -1,0 +1,291 @@
+,CEO,Sector,Industry,HQ Location,Website,Years on Global 500 List,Employees,company
+0,C. Douglas McMillon,Retailing,General Merchandisers,"Bentonville, Ark.",https://www.walmart.com,25,"2,200,000",Walmart
+1,Dai Houliang,Energy,Petroleum Refining,Beijing,https://www.sinopec.com,21,"619,151",Sinopec Group
+2,Ben van Beurden,Energy,Petroleum Refining,The Hague,https://www.shell.com,25,"81,000",Royal Dutch Shell
+3,Zhang Wei,Energy,Petroleum Refining,Beijing,https://www.cnpc.com.cn,19,"1,382,401",China National Petroleum
+4,Xin Baoan,Energy,Utilities,Beijing,https://www.sgcc.com.cn,19,"917,717",State Grid
+5,Amin H. Nasser,Energy,"Mining, Crude-Oil Production","Dhahran, Saudi Arabia",https://www.saudiaramco.com,1,"76,418",Saudi Aramco
+6,Robert W. Dudley,Energy,Petroleum Refining,London,https://www.bp.com,25,"73,000",BP
+7,Darren W. Woods,Energy,Petroleum Refining,"Irving, Texas",https://www.exxonmobil.com,25,"71,000",Exxon Mobil
+8,Herbert Diess,Motor Vehicles & Parts,Motor Vehicles and Parts,"Wolfsburg, Germany",https://www.volkswagenag.com,25,"664,496",Volkswagen
+9,Akio Toyoda,Motor Vehicles & Parts,Motor Vehicles and Parts,"Toyota, Japan",https://www.toyota-global.com,25,"370,870",Toyota Motor
+10,Timothy D. Cook,Technology,"Computers, Office Equipment","Cupertino, Calif.",https://www.apple.com,17,"132,000",Apple
+11,Warren E. Buffett,Financials,Insurance: Property and Casualty (Stock),Omaha,https://www.berkshirehathaway.com,23,"389,000",Berkshire Hathaway
+12,Jeffrey P. Bezos,Retailing,Internet Services and Retailing,Seattle,https://www.amazon.com,11,"647,500",Amazon.com
+13,David S. Wichmann,Health Care,Health Care: Insurance and Managed Care,"Minnetonka, Minn.",https://www.unitedhealthgroup.com,23,"300,000",UnitedHealth Group
+14,Hyun-Suk Kim /Ki-Nam Kim,Technology,"Electronics, Electrical Equip.","Suwon, South Korea",https://www.samsung.com,25,"309,630",Samsung Electronics
+15,Ivan Glasenberg,Energy,"Mining, Crude-Oil Production","Baar, Switzerland",https://www.glencore.com,9,"85,504",Glencore
+16,Brian S. Tyler,Health Care,Wholesalers: Health Care,"Irving, Texas",https://www.mckesson.com,25,"70,000",McKesson
+17,Ola Källenius,Motor Vehicles & Parts,Motor Vehicles and Parts,"Stuttgart, Germany",https://www.daimler.com,25,"298,683",Daimler
+18,Larry J. Merlo,Health Care,Health Care: Pharmacy and Other Services,"Woonsocket, R.I.",https://www.cvshealth.com,24,"295,000",CVS Health
+19,Patrick Pouyanné,Energy,Petroleum Refining,"Courbevoie, France",https://www.total.com,25,"104,460",Total
+20,Guan Qing,Engineering & Construction,"Engineering, Construction",Beijing,https://www.cscec.com,8,"302,827",China State Construction Engineering
+21,Jeremy Weir,Wholesalers,Trading,Singapore,https://www.trafigura.com,5,"4,316",Trafigura Group
+22,Terry Gou,Technology,"Electronics, Electrical Equip.","New Taipei City, Taiwan",https://www.foxconn.com,15,"667,680",Hon Hai Precision Industry
+23,John Elkann,Financials,Diversified Financials,Amsterdam,https://www.exor.com,9,"314,790",EXOR Group
+24,Randall L. Stephenson,Telecommunications,Telecommunications,Dallas,https://www.att.com,25,"268,220",AT&T
+25,Gu Shu,Financials,Banks: Commercial and Savings,Beijing,https://www.icbc-ltd.com,21,"449,296",Industrial & Commercial Bank of China
+26,Steven H. Collis,Health Care,Wholesalers: Health Care,"Chesterbrook, Pa.",https://www.amerisourcebergen.com,20,"20,500",AmerisourceBergen
+27,Michael K. Wirth,Energy,Petroleum Refining,"San Ramon, Calif.",https://www.chevron.com,25,"48,600",Chevron
+28,Ma Mingzhe,Financials,"Insurance: Life, Health (stock)","Shenzhen, China",https://www.pingan.com,10,"376,900",Ping An Insurance
+29,James P. Hackett,Motor Vehicles & Parts,Motor Vehicles and Parts,"Dearborn, Mich.",https://www.corporate.ford.com,25,"199,000",Ford Motor
+30,Tian Guoli,Financials,Banks: Commercial and Savings,Beijing,https://www.ccb.com,20,"366,996",China Construction Bank
+31,Mary T. Barra,Motor Vehicles & Parts,Motor Vehicles and Parts,Detroit,https://www.gm.com,25,"173,000",General Motors
+32,Takehiko Kakiuchi,Wholesalers,Trading,Tokyo,https://www.mitsubishicorp.com,25,"79,994",Mitsubishi
+33,Takahiro Hachigo,Motor Vehicles & Parts,Motor Vehicles and Parts,Tokyo,https://www.honda.com,25,"219,722",Honda Motor
+34,W. Craig Jelinek,Retailing,General Merchandisers,"Issaquah, Wash.",https://www.costco.com,25,"194,000",Costco Wholesale
+35,Zhou Mubing,Financials,Banks: Commercial and Savings,Beijing,https://www.abchina.com,20,"477,526",Agricultural Bank of China
+36,Sundar Pichai,Technology,Internet Services and Retailing,"Mountain View, Calif.",https://www.abc.xyz,11,"98,771",Alphabet
+37,Michael C. Kaufmann,Health Care,Wholesalers: Health Care,"Dublin, Ohio",https://www.cardinalhealth.com,22,"50,200",Cardinal Health
+38,Chen Zhixin,Motor Vehicles & Parts,Motor Vehicles and Parts,Shanghai,https://www.saicmotor.com,8,"147,738",SAIC Motor
+39,Stefano Pessina,Food & Drug Stores,Food and Drug Stores,"Deerfield, Ill.",https://www.walgreensbootsalliance.com,25,"299,000",Walgreens Boots Alliance
+40,James Dimon,Financials,Banks: Commercial and Savings,New York City,https://www.jpmorganchase.com,25,"256,105",JPMorgan Chase & Co.
+41,Alexey B. Miller,Energy,Energy,Moscow,https://www.gazprom.com,23,"466,100",Gazprom
+42,Hans E. Vestberg,Telecommunications,Telecommunications,New York City,https://www.verizon.com,25,"144,500",Verizon Communications
+43,Liu Liange,Financials,Banks: Commercial and Savings,Beijing,https://www.boc.cn,25,"310,119",Bank of China
+44,Oliver Bäte,Financials,"Insurance: Life, Health (stock)",Munich,https://www.allianz.com,25,"142,460",Allianz
+45,Thomas Buberl,Financials,"Insurance: Life, Health (stock)",Paris,https://www.axa.com,25,"104,065",AXA
+46,W. Rodney McMullen,Food & Drug Stores,Food and Drug Stores,Cincinnati,https://www.thekrogerco.com,25,"453,000",Kroger
+47,H. Lawrence Culp Jr.,Industrials,Industrial Machinery,Boston,https://www.ge.com,25,"283,000",General Electric
+48,Hugh R. Frater,Financials,Diversified Financials,Washington DC,https://www.fanniemae.com,22,"7,400",Fannie Mae
+49,Vagit Y. Alekperov,Energy,Petroleum Refining,Moscow,https://www.lukoil.com,20,"102,500",Lukoil
+50,Wang Bin,Financials,"Insurance: Life, Health (stock)",Beijing,https://www.chinalife.com.cn,17,"175,077",China Life Insurance
+51,Masatsugu Nagato,Financials,"Insurance: Life, Health (stock)",Tokyo,https://www.japanpost.jp,23,"245,922",Japan Post Holdings
+52,Harald Krüger,Motor Vehicles & Parts,Motor Vehicles and Parts,Munich,https://www.bmwgroup.com,25,"134,682",BMW Group
+53,Greg C. Garland,Energy,Petroleum Refining,Houston,https://www.phillips66.com,7,"14,200",Phillips 66
+54,Zhang Zongyan,Engineering & Construction,"Engineering, Construction",Beijing,https://www.crecg.com,5,"307,992",China Railway Engineering Group
+55,Li Yue,Telecommunications,Telecommunications,Beijing,https://www.10086.cn,19,"462,046",China Mobile Communications
+56,Joseph W. Gorder,Energy,Petroleum Refining,San Antonio,https://www.valero.com,19,"10,261",Valero Energy
+57,Brian T. Moynihan,Financials,Banks: Commercial and Savings,"Charlotte, N.C.",https://www.bankofamerica.com,25,"204,489",Bank of America Corp.
+58,Chen Fenjian,Engineering & Construction,"Engineering, Construction",Beijing,https://www.crcc.cn,8,"356,326",China Railway Construction
+59,Satya Nadella,Technology,Computer Software,"Redmond, Wash.",https://www.microsoft.com,22,"131,000",Microsoft
+60,Ren Zhengfei,Technology,Network and Other Communications Equipment,"Shenzhen, China",https://www.huawei.com,10,"188,000",Huawei Investment & Holding
+61,Craig A. Menear,Retailing,Specialty Retailers,Atlanta,https://www.homedepot.com,25,"413,000",Home Depot
+62,Yang Hua,Energy,"Mining, Crude-Oil Production",Beijing,https://www.cnooc.com.cn,13,"93,601",China National Offshore Oil
+63,Jun Sawada,Telecommunications,Telecommunications,Tokyo,https://www.ntt.co.jp,25,"303,351",Nippon Telegraph & Telephone
+64,Masahiro Okafuji,Wholesalers,Trading,"Osaka, Japan",https://www.itochu.co.jp,25,"139,157",Itochu
+65,Hiroto Saikawa,Motor Vehicles & Parts,Motor Vehicles and Parts,"Yokohama, Japan",https://www.nissan-global.com,25,"148,513",Nissan Motor
+66,Zheng Zhijie,Financials,Banks: Commercial and Savings,Beijing,https://www.cdb.com.cn,3,"9,507",China Development Bank
+67,David L. Calhoun,Aerospace & Defense,Aerospace and Defense,Chicago,https://www.boeing.com,25,"153,000",Boeing
+68,Charles W. Scharf,Financials,Banks: Commercial and Savings,San Francisco,https://www.wellsfargo.com,22,"258,700",Wells Fargo
+69,Josef Kaeser,Industrials,Industrial Machinery,Munich,https://www.siemens.com,25,"379,000",Siemens
+70,Michael L. Corbat,Financials,Banks: Commercial and Savings,New York City,https://www.citigroup.com,25,"204,000",Citigroup
+71,Gary R. Heminger,Energy,Petroleum Refining,"Findlay, Ohio",https://www.marathonpetroleum.com,8,"60,350",Marathon Petroleum
+72,Tae-Won Chey/Dong-Hyun Jang,Energy,Petroleum Refining,Seoul,https://www.sk.co.kr,4,"104,374",SK Holdings
+73,Roberto da Cunha Castello Branco,Energy,Petroleum Refining,Rio de Janeiro,https://www.petrobras.com.br,25,"63,361",Petrobras
+74,Brian L. Roberts,Telecommunications,Telecommunications,Philadelphia,https://www.comcastcorporation.com,17,"184,000",Comcast
+75,Ulf Mark Schneider,"Food, Beverages & Tobacco",Food Consumer Products,"Vevey, Switzerland",https://www.nestle.com,25,"308,000",Nestlé
+76,Volkmar Denner,Motor Vehicles & Parts,Motor Vehicles and Parts,"Stuttgart, Germany",https://www.bosch.com,25,"409,881",Bosch Group
+77,Andreas Schierenbeck,Energy,Energy,"Düsseldorf, Germany",https://www.uniper.energy,3,"11,828",Uniper
+78,Gail K. Boudreaux,Health Care,Health Care: Insurance and Managed Care,Indianapolis,https://www.antheminc.com,18,"63,900",Anthem
+79,Wang Xiangming,Health Care,Pharmaceuticals,Hong Kong,https://www.crc.com.hk,10,"421,274",China Resources
+80,Alexandre Bompard,Food & Drug Stores,Food and Drug Stores,"Massey, France",https://www.carrefour.com,25,"363,862",Carrefour
+81,Li Shaozhu,Motor Vehicles & Parts,Motor Vehicles and Parts,"Wuhan, China",https://www.dfmc.com.cn,10,"167,528",Dongfeng Motor
+82,Claudio Descalzi,Energy,Petroleum Refining,Rome,https://www.eni.com,25,"31,701",ENI
+83,Michael S. Dell,Technology,"Computers, Office Equipment","Round Rock, Texas",https://www.delltechnologies.com,19,"157,000",Dell Technologies
+84,José Antonio Álvarez,Financials,Banks: Commercial and Savings,Madrid,https://www.santander.com,25,"194,015",Banco Santander
+85,Igor I. Sechin,Energy,Petroleum Refining,Moscow,https://www.rosneft.com,14,"308,000",Rosneft Oil
+86,Xu Liuping,Motor Vehicles & Parts,Motor Vehicles and Parts,"Changchun, China",https://www.faw.com.cn,15,"142,451",China FAW Group
+87,Ning Gaoning,Wholesalers,Trading,Beijing,https://www.sinochem.com,24,"66,713",Sinochem Group
+88,Francesco Starace,Energy,Utilities,Rome,https://www.enel.com,25,"69,272",Enel
+89,Timotheus Höttges,Telecommunications,Telecommunications,"Bonn, Germany",https://www.telekom.com,25,"215,675",Deutsche Telekom
+90,Philippe Brassac,Financials,Banks: Commercial and Savings,Paris,https://www.credit-agricole.com,25,"73,346",Crédit Agricole
+91,Philippe R. Donnet,Financials,"Insurance: Life, Health (stock)","Trieste, Italy",https://www.generali.com,25,"70,734",Assicurazioni Generali
+92,Liu Qitao,Engineering & Construction,"Engineering, Construction",Beijing,https://www.ccccltd.cn,12,"178,572",China Communications Construction
+93,Won-Hee Lee /Mong-Koo Chung,Motor Vehicles & Parts,Motor Vehicles and Parts,Seoul,https://www.hyundai.com/worldwide/,24,"122,217",Hyundai Motor
+94,Octavio Romero Oropeza,Energy,"Mining, Crude-Oil Production",Mexico City,https://www.pemex.com,25,"131,108",Pemex
+95,Carlos Tavares,Motor Vehicles & Parts,Motor Vehicles and Parts,"Rueil-Malmaison, France",https://www.groupe-psa.com,25,"216,539",Peugeot
+96,Yan Hao,Engineering & Construction,"Engineering, Construction","Urumqi, China",https://www.cpcg.com.cn,6,"387,525",Pacific Construction Group
+97,Masayoshi Son,Telecommunications,Telecommunications,Tokyo,https://group.softbank/en/,12,"76,866",SoftBank Group
+98,John Flint,Financials,Banks: Commercial and Savings,London,https://www.hsbc.com,25,"235,217",HSBC Holdings
+99,C. Marc Doyle,Chemicals,Chemicals,"Wilmington, Del.",https://www.dupont.com,25,"98,000",DuPont
+100,Liu Aili,Transportation,"Mail, Package, and Freight Delivery",Beijing,https://www.chinapost.com.cn,9,"935,191",China Post Group
+101,Toshiaki Higashihara,Technology,"Electronics, Electrical Equip.",Tokyo,https://www.hitachi.com,25,"295,941",Hitachi
+102,Dave J. Lewis,Food & Drug Stores,Food and Drug Stores,"Welwyn Garden City, Britain",https://www.tescoplc.com,25,"321,490",Tesco
+103,Jean-Laurent Bonnafé,Financials,Banks: Commercial and Savings,Paris,https://group.bnpparibas/,25,"197,162",BNP Paribas
+104,Tsutomu Sugimori,Energy,Petroleum Refining,Tokyo,https://www.hd.jxtg-group.co.jp,25,"40,695",JXTG Holdings
+105,Mukesh D. Ambani,Energy,Petroleum Refining,Mumbai,https://www.ril.com,16,"194,056",Reliance Industries
+106,Wang Xiangxi,Energy,"Mining, Crude-Oil Production",Beijing,https://www.shenhuagroup.com.cn,10,"338,472",China Energy Investment
+107,Michael L. Tipsord,Financials,Insurance: Property and Casualty (Mutual),"Bloomington, Ill.",https://www.statefarm.com,25,"56,788",State Farm Insurance Cos.
+108,Alex Gorsky,Health Care,Pharmaceuticals,"New Brunswick, N.J.",https://www.jnj.com,19,"135,100",Johnson & Johnson
+109,Jean-Bernard Lévy,Energy,Utilities,Paris,https://www.edf.fr,25,"165,790",Electricité de France
+110,Meng Zhenping,Energy,Utilities,"Guangzhou, China",https://www.csg.cn,15,"289,735",China Southern Power Grid
+111,Tang Fuping,Materials,Metals,Beijing,https://www.minmetals.com,13,"199,442",China Minmetals
+112,Eldar Saetre,Energy,Petroleum Refining,"Stavanger, Norway",https://www.equinor.com,25,"20,525",Equinor
+113,Virginia M. Rometty,Technology,Information Technology Services,"Armonk, N.Y.",https://www.ibm.com,25,"381,100",International Business Machines
+114,Martin Bruderm?ller,Chemicals,Chemicals,"Ludwigshafen, Germany",https://www.basf.com,25,"122,404",BASF
+115,Kenichiro Yoshida,Technology,"Electronics, Electrical Equip.",Tokyo,https://www.sony.net,25,"114,400",Sony
+116,Sanjiv Singh,Energy,Petroleum Refining,New Delhi,https://www.iocl.com,25,"35,442",Indian Oil
+117,Motoya Okada,Food & Drug Stores,Food and Drug Stores,"Chiba, Japan",https://www.aeon.info,25,"288,326",AEON
+118,Wang Wenyin,Materials,Metals,"Shenzhen, China",https://www.amer.com.cn,7,"16,901",Amer International Group
+119,Lakshmi N. Mittal,Materials,Metals,Luxembourg,https://www.arcelormittal.com,15,"208,583",ArcelorMittal
+120,Miao Jianmin,Financials,Insurance: Property and Casualty (Stock),Beijing,https://www.picc.com.cn,10,"198,457",People’s Insurance Co. of China
+121,Brian C. Cornell,Retailing,General Merchandisers,Minneapolis,https://www.target.com,25,"360,000",Target
+122,Guillaume Faury,Aerospace & Defense,Aerospace and Defense,"Leiden, Netherlands",https://www.airbus.com,25,"133,671",Airbus
+123,Frank Appel,Transportation,"Mail, Package, and Freight Delivery","Bonn, Germany",https://www.dpdhl.com,25,"499,018",Deutsche Post DHL Group
+124,Hiroshi Shimizu,Financials,"Insurance: Life, Health (Mutual)","Osaka, Japan",https://www.nissay.co.jp,25,"89,198",Nippon Life Insurance
+125,Isabelle Kocher,Energy,Energy,"Courbevoie, France",https://www.engie.com,24,"160,301",Engie
+126,Frans Muller,Food & Drug Stores,Food and Drug Stores,"Zaandam, Netherlands",https://www.aholddelhaize.com,25,"225,000",Royal Ahold Delhaize
+127,David M. Brickman,Financials,Diversified Financials,"McLean, Va.",https://www.freddiemac.com,23,"6,621",Freddie Mac
+128,Xu Heyi,Motor Vehicles & Parts,Motor Vehicles and Parts,Beijing,https://www.baicgroup.com.cn,7,"127,163",Beijing Automotive Group
+129,Chansin Treenuchagron,Energy,Petroleum Refining,Bangkok,https://www.pttplc.com,16,"26,613",PTT
+130,Kazuhiro Tsuga,Technology,"Electronics, Electrical Equip.","Osaka, Japan",https://www.panasonic.com/global,25,"271,869",Panasonic
+131,David P. Abney,Transportation,"Mail, Package, and Freight Delivery",Atlanta,https://www.ups.com,25,"364,575",United Parcel Service
+132,Marvin R. Ellison,Retailing,Specialty Retailers,"Mooresville, N.C.",https://www.lowes.com,22,"245,000",Lowe’s
+133,Yu Xubo,Wholesalers,Trading,Beijing,https://www.cofco.com,25,"117,842",COFCO
+134,Robert H. Swan,Technology,Semiconductors and Other Electronic Components,"Santa Clara, Calif.",https://www.intel.com,25,"107,400",Intel
+135,Megan J. Brennan,Transportation,"Mail, Package, and Freight Delivery",Washington DC,https://www.usps.com,25,"565,802",U.S. Postal Service
+136,Chang Zhenming,Financials,Diversified Financials,Beijing,https://www.group.citic,11,"287,500",CITIC Group
+137,Hui Ka Yan,Financials,Real estate,"Shenzen, China",https://www.evergrande.com,4,"131,694",China Evergrande Group
+138,Richard Qiangdong Liu,Retailing,Internet Services and Retailing,Beijing,https://www.jd.com,4,"178,927",JD.com
+139,Jiao Kaihe,Aerospace & Defense,Aerospace and Defense,Beijing,https://www.norincogroup.com.cn,10,"210,507",China North Industries Group
+140,Ke Ruiwen,Telecommunications,Telecommunications,Beijing,https://www.chinatelecom.com.cn,20,"403,014",China Telecommunications
+141,Michel A. Khalaf,Financials,"Insurance: Life, Health (stock)",New York City,https://www.metlife.com,25,"48,000",MetLife
+142,Thierry Bolloré,Motor Vehicles & Parts,Motor Vehicles and Parts,"Boulogne-Billancourt, France",https://www.groupe.renault.com,25,"183,002",Renault
+143,Yang Xingqiang,Chemicals,Chemicals,Beijing,https://www.chemchina.com,9,"138,652",ChemChina
+144,Joachim Wenning,Financials,Insurance: Property and Casualty (Stock),Munich,https://www.munichre.com,25,"41,410",Munich Re Group
+145,David S. Taylor,Household Products,Household and Personal Products,Cincinnati,https://www.pg.com,25,"92,000",Procter & Gamble
+146,Masumi Kakinoki,Wholesalers,Trading,Tokyo,https://www.marubeni.com,25,"46,711",Marubeni
+147,Gregory J. Hayes,Aerospace & Defense,Aerospace and Defense,"Farmington, Conn.",https://www.utc.com,25,"240,200",United Technologies
+148,Chen Derong,Materials,Metals,Shanghai,https://www.baowugroup.com,16,"161,399",China Baowu Steel Group
+149,Ren Deqi,Financials,Banks: Commercial and Savings,Shanghai,https://www.bankcomm.com,11,"92,714",Bank of Communications
+150,Luo Ronghuai,Aerospace & Defense,Aerospace and Defense,Beijing,https://www.avic.com,11,"446,613",Aviation Industry Corp. of China
+151,Frederick W. Smith,Transportation,"Mail, Package, and Freight Delivery",Memphis,https://www.fedex.com,25,"359,530",FedEx
+152,Seiji Inagaki,Financials,"Insurance: Life, Health (stock)",Tokyo,https://www.dai-ichi-life-hd.com,25,"62,938",Dai-ichi Life Holdings
+153,Ramon L. Laguarta,"Food, Beverages & Tobacco",Food Consumer Products,"Purchase, N.Y.",https://www.pepsico.com,25,"267,000",PepsiCo
+154,Juan R. Luciano,"Food, Beverages & Tobacco",Food Production,Chicago,https://www.adm.com,25,"31,600",Archer Daniels Midland
+155,Charles F. Lowrey,Financials,"Insurance: Life, Health (stock)","Newark, N.J.",https://www.prudential.com,25,"50,492",Prudential Financial
+156,Tatsuo Yasunaga,Wholesalers,Trading,Tokyo,https://www.mitsui.com,25,"43,993",Mitsui
+157,Wan Zulkiflee Wan Ariffin,Energy,Petroleum Refining,Kuala Lumpur,https://www.petronas.com,23,"48,001",Petronas
+158,Ryuichi Isaka,Food & Drug Stores,Food and Drug Stores,Tokyo,https://www.7andi.com,14,"58,165",Seven & I Holdings
+159,Shashi Shanker,Energy,"Mining, Crude-Oil Production",New Delhi,https://www.ongcindia.com,13,"43,743",Oil & Natural Gas
+160,Yan Zhiyong,Engineering & Construction,"Engineering, Construction",Beijing,https://www.powerchina.cn,8,"185,269",PowerChina
+161,Ichiro Kashitani,Wholesalers,Trading,"Nagoya, Japan",https://www.toyota-tsusho.com,11,"58,565",Toyota Tsusho
+162,Severin Schwan,Health Care,Pharmaceuticals,"Basel, Switzerland",https://www.roche.com,25,"94,442",Roche Group
+163,Edgard Bonte,Food & Drug Stores,Food and Drug Stores,"Croix, France",https://www.auchan-holding.com,23,"340,577",Auchan Holding
+164,Vivek Sankaran,Food & Drug Stores,Food and Drug Stores,"Boise, Idaho",https://www.albertsonscompanies.com,15,"267,000",Albertsons Cos.
+165,Mike Kanetsugu,Financials,Banks: Commercial and Savings,Tokyo,https://www.mufg.jp,18,"119,390",Mitsubishi UFJ Financial Group
+166,Alan W. Jope,Household Products,Household and Personal Products,London,https://www.unilever.com,25,"154,848",Unilever
+167,Michael F. Neidorff,Health Care,Health Care: Insurance and Managed Care,St. Louis,https://www.centene.com,4,"47,300",Centene
+168,She Lulin,Health Care,Pharmaceuticals,Beijing,https://www.sinopharm.com,7,"128,600",Sinopharm
+169,Robert A. Iger,Media,Entertainment,"Burbank, Calif.",https://www.thewaltdisneycompany.com,25,"201,000",Walt Disney
+170,Jeong-Woo Choi,Materials,Metals,Seoul,https://www.posco.com,25,"33,784",POSCO
+171,Kevin P. Hourican,Wholesalers,Wholesalers: Food and Grocery,Houston,https://www.sysco.com,25,"67,000",Sysco
+172,Enrique J. Lores,Technology,"Computers, Office Equipment","Palo Alto, Calif.",https://www.hp.com,25,"55,000",HP
+173,Frédéric Oudéa,Financials,Banks: Commercial and Savings,Paris,https://www.societegenerale.com,23,"140,250",Société Générale
+174,Nicke Widyawati,Energy,Petroleum Refining,Jakarta,https://www.pertamina.com,7,"31,569",Pertamina
+175,José María Álvarez-Pallete López,Telecommunications,Telecommunications,Madrid,https://www.telefonica.com,25,"120,138",Telefónica
+176,Mo Bin,Financials,Real estate,"Foshan, China",https://www.countrygarden.com.cn,3,"131,387",Country Garden Holdings
+177,Tomoaki Kobayakawa,Energy,Utilities,Tokyo,https://www.tepco.co.jp,25,"41,086",Tokyo Electric Power
+178,Bruce D. Broussard,Health Care,Health Care: Insurance and Managed Care,"Louisville, Ky.",https://www.humana.com,21,"41,600",Humana
+179,J. Bruce Flatt,Financials,Diversified Financials,"Toronto, Ontario, Canada",https://www.brookfield.com,3,"100,750",Brookfield Asset Management
+180,Chen Jianhua,Industrials,Textiles,"Suzhou City, China",https://www.hengli.com,3,"81,350",Hengli Group
+181,Daniel Zhang,Retailing,Internet Services and Retailing,"Hangzhou, China",https://www.alibabagroup.com,3,"101,958",Alibaba Group Holding
+182,Rolf Martin Schmitz,Energy,Utilities,"Essen, Germany",https://www.rwe.com,25,"58,441",RWE
+183,Mark Zuckerberg,Technology,Internet Services and Retailing,"Menlo Park, Calif.",https://www.facebook.com,3,"35,587",Facebook
+184,Seoung-Jin Jo,Technology,"Electronics, Electrical Equip.",Seoul,https://www.lg.com,19,"72,600",LG Electronics
+185,Eiji Hashimoto,Materials,Metals,Tokyo,https://www.nipponsteel.com,25,"115,878",Nippon Steel Corporation
+186,Sidney Toledano,Apparel,Apparel,Paris,https://www.dior-finance.com,19,"141,914",Christian Dior
+187,Tian Huiyu,Financials,Banks: Commercial and Savings,"Shenzhen, China",https://www.cmbchina.com,8,"74,590",China Merchants Bank
+188,Zeng Qinghong,Motor Vehicles & Parts,Motor Vehicles and Parts,"Guangzhou, China",https://www.gagc.com.cn,7,"113,474",Guangzhou Automobile Industry Group
+189,D. James Umpleby III,Industrials,Construction and Farm Machinery,"Deerfield, Ill.",https://www.caterpillar.com,25,"104,000",Caterpillar
+190,C?ndido Botelho Bracher,Financials,Banks: Commercial and Savings,São Paulo,https://www.itau.com.br,6,"100,335",Itaú Unibanco Holding
+191,Carlos Brito,"Food, Beverages & Tobacco",Beverages,"Leuven, Belgium",https://www.ab-inbev.com,14,"172,603",Anheuser-Busch InBev
+192,JongKap Kim,Energy,Utilities,"Jeollanam-do, South Korea",https://www.kepco.co.kr,25,"46,377",Korea Electric Power
+193,Kelcy L. Warren,Energy,Pipelines,Dallas,https://www.energytransfer.com,6,"11,768",Energy Transfer
+194,Robert G. Scott,Food & Drug Stores,Food and Drug Stores,"Perth, Australia",https://www.wesfarmers.com.au,11,"217,000",Wesfarmers
+195,Daniel Hajj Aboumrad,Telecommunications,Telecommunications,Mexico City,https://www.americamovil.com,13,"194,431",América Móvil
+196,Marillyn A. Hewson,Aerospace & Defense,Aerospace and Defense,"Bethesda, Md.",https://www.lockheedmartin.com,25,"105,000",Lockheed Martin
+197,Albert Bourla,Health Care,Pharmaceuticals,New York City,https://www.pfizer.com,25,"92,400",Pfizer
+198,He Qing,Financials,"Insurance: Life, Health (stock)",Shanghai,https://www.cpic.com.cn,9,"107,741",China Pacific Insurance (Group)
+199,Josu Jon Imaz San Miguel,Energy,Petroleum Refining,Madrid,https://www.repsol.com,25,"22,735",Repsol
+200,Vasant Narasimhan,Health Care,Pharmaceuticals,"Basel, Switzerland",https://www.novartis.com,25,"125,161",Novartis
+201,Zhang Yuliang,Financials,Real estate,Shanghai,https://www.ldjt.com.cn,8,"39,091",Greenland Holding Group
+202,Song Zhiping,Materials,"Building Materials, Glass",Beijing,https://www.cnbm.com.cn,9,"207,958",China National Building Material Group
+203,David M. Solomon,Financials,Banks: Commercial and Savings,New York City,https://www.goldmansachs.com,20,"36,600",Goldman Sachs Group
+204,Elmar Degenhart,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hanover, Germany",https://www.continental-corporation.com,17,"243,226",Continental
+205,Xavier Huillard,Engineering & Construction,"Engineering, Construction","Rueil-Malmaison, France",https://www.vinci.com,19,"211,233",Vinci
+206,Didier Lévêque,Food & Drug Stores,Food and Drug Stores,Paris,https://www.finatis.fr,5,"218,923",Finatis
+207,Richard Lutz,Transportation,Railroads,Berlin,https://www.deutschebahn.com,25,"318,528",Deutsche Bahn
+208,Jun Ohta,Financials,Banks: Commercial and Savings,Tokyo,https://www.smfg.co.jp,25,"86,659",Sumitomo Mitsui Financial Group
+209,Brian P. Hannasch,Food & Drug Stores,Food and Drug Stores,"Laval, Quebec, Canada",https://corpo.couche-tard.com,6,"130,000",Alimentation Couche-Tard
+210,Li Weimin,Energy,"Mining, Crude-Oil Production","Jinan , China",https://www.snjt.com,8,"160,064",Shandong Energy Group
+211,Yang Yuanqing,Technology,"Computers, Office Equipment",Hong Kong,https://www.lenovo.com,10,"57,000",Lenovo Group
+212,Tao Yiping,Financials,Banks: Commercial and Savings,"Fuzhou, China",https://www.cib.com.cn,7,"59,659",Industrial Bank
+213,Yu Yong,Materials,Metals,"Shijiazhuang, China",https://www.hbisco.com,11,"118,656",HBIS Group
+214,Guido Kerkhoff,Materials,Metals,"Essen, Germany",https://www.thyssenkrupp.com,25,"161,096",ThyssenKrupp
+215,Gao Guofu,Financials,Banks: Commercial and Savings,Shanghai,https://www.spdb.com.cn,7,"55,692",Shanghai Pudong Development Bank
+216,Nick Read,Telecommunications,Telecommunications,"Newbury, Britain",https://www.vodafone.com,20,"98,996",Vodafone Group
+217,James P. Gorman,Financials,Banks: Commercial and Savings,New York City,https://www.morganstanley.com,22,"60,348",Morgan Stanley
+218,Gilberto Tomazoni,"Food, Beverages & Tobacco",Food Production,São Paulo,https://jbss.infoinvest.com.br/,10,"230,086",JBS
+219,Li Shufu,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hangzhou, China",https://www.geely.com,8,"124,846",Zhejiang Geely Holding Group
+220,Octavio de Lazari,Financials,Banks: Commercial and Savings,"Osasco, Brazil",https://www.bradesco.com.br,23,"86,772",Banco Bradesco
+221,Yasuyoshi Karasawa,Financials,Insurance: Property and Casualty (Stock),Tokyo,https://www.ms-ad-hd.com,21,"41,467",MS&AD Insurance Group Holdings
+222,Laurent Mignon,Financials,Banks: Commercial and Savings,Paris,https://www.groupebpce.com,10,"100,245",Groupe BPCE
+223,Tsuyoshi Nagano,Financials,Insurance: Property and Casualty (Stock),Tokyo,https://www.tokiomarinehd.com,25,"40,848",Tokio Marine Holdings
+224,Charles H. Robbins,Technology,Network and Other Communications Equipment,"San Jose, Calif.",https://www.cisco.com,20,"74,200",Cisco Systems
+225,Pierre-André de Chalendar,Materials,"Building Materials, Glass","Courbevoie, France",https://www.saint-gobain.com,25,"181,001",Saint-Gobain
+226,Han-Woo Park,Motor Vehicles & Parts,Motor Vehicles and Parts,Seoul,https://www.kia.com,8,"52,578",Kia Motors
+227,Stéphane Richard,Telecommunications,Telecommunications,Paris,https://www.orange.com,25,"150,711",Orange
+228,David M. Cordani,Health Care,Health Care: Insurance and Managed Care,"Bloomfield, Conn.",https://www.cigna.com,24,"73,800",Cigna
+229,Koji Arima,Motor Vehicles & Parts,Motor Vehicles and Parts,"Kariya, Japan",https://www.denso.com/global,25,"171,992",Denso
+230,Masayuki Hyodo,Wholesalers,Trading,Tokyo,https://www.sumitomocorp.co.jp,25,"65,662",Sumitomo
+231,Zheng Wanchun,Financials,Banks: Commercial and Savings,Beijing,https://www.cmbc.com.cn%20,7,"58,338",China Minsheng Banking
+232,Brad Banducci,Food & Drug Stores,Food and Drug Stores,"Bella Vista, Australia",https://www.woolworthslimited.com.au,23,"201,522",Woolworths Group
+233,Onur Genç,Financials,Banks: Commercial and Savings,"Bilbao, Spain",https://www.bbva.com,25,"125,627",Banco Bilbao Vizcaya Argentaria
+234,Brian Duperreault,Financials,Insurance: Property and Casualty (Stock),New York City,https://www.aig.com,24,"49,600",American International Group
+235,Rajnish Kumar,Financials,Banks: Commercial and Savings,Mumbai,https://www.sbi.co.in,14,"257,252",State Bank of India
+236,Pony Ma,Technology,Internet Services and Retailing,"Shenzhen, China",https://www.tencent.com,3,"54,309",Tencent Holdings
+237,Mario Greco,Financials,Insurance: Property and Casualty (Stock),Zurich,https://www.zurich.com,25,"52,267",Zurich Insurance Group
+238,Christian Sewing,Financials,Banks: Commercial and Savings,Frankfurt,https://www.db.com,25,"91,737",Deutsche Bank
+239,Werner Baumann,Health Care,Pharmaceuticals,"Leverkusen, Germany",https://www.bayer.com,25,"116,998",Bayer
+240,Samuel N. Hazen,Health Care,Health Care: Medical Facilities,Nashville,https://www.hcahealthcare.com,25,"229,000",HCA Healthcare
+241,Zhang Zhengao,Financials,Real estate,Beijing,https://www.poly.com.cn,5,"97,527",China Poly Group
+242,Hu Wenming,Transportation,Shipping,Beijing,https://www.csic.com.cn,9,"165,274",China Shipbuilding Industry
+243,Li Jianhong,Transportation,"Mail, Package, and Freight Delivery",Hong Kong,https://www.cmhk.com,2,"115,281",China Merchants Group
+244,Makoto Takahashi,Telecommunications,Telecommunications,Tokyo,https://www.kddi.com,22,"41,996",KDDI
+245,Andrew Mackenzie,Energy,"Mining, Crude-Oil Production",Melbourne,https://www.bhp.com,25,"27,161",BHP Group
+246,Gregory A. Heckman,"Food, Beverages & Tobacco",Food Production,"White Plains, N.Y.",https://www.bunge.com,17,"31,000",Bunge
+247,Antoine Lissowski,Financials,"Insurance: Life, Health (stock)",Paris,https://www.cnp.fr,25,"5,243",CNP Assurances
+248,Wang Tingge,Wholesalers,Trading,"Hangzhou, China",https://www.wzgroup.com,9,"20,142",Wuchan Zhongda Group
+249,Zhang Xiaolum,Industrials,Industrial Machinery,Beijing,https://www.sinomach.com.cn,9,"147,099",Sinomach
+250,Yu Dehui,Materials,Metals,Beijing,https://www.chalco.com.cn,12,"124,965",Aluminum Corp. of China
+251,Yousef Abdullah Al-Benyan,Chemicals,Chemicals,Riyadh,https://www.sabic.com,15,"33,000",SABIC
+252,Martin Lundstedt,Motor Vehicles & Parts,Motor Vehicles and Parts,"Göteborg, Sweden",https://www.volvogroup.com,25,"98,652",Volvo
+253,Zhu Jiusheng,Financials,Real estate,"Shenzhen, China",https://www.vanke.com,4,"104,300",China Vanke
+254,Herman O. Gref,Financials,Banks: Commercial and Savings,Moscow,https://www.sberbank.ru,12,"293,752",Sberbank
+255,David I. McKay,Financials,Banks: Commercial and Savings,"Toronto, Ontario, Canada",https://www.rbc.com,25,"81,870",Royal Bank of Canada
+256,W. Douglas Parker,Transportation,Airlines,Fort Worth,https://www.aa.com,25,"128,900",American Airlines Group
+257,Kuok Khoon Hong,"Food, Beverages & Tobacco",Food Production,Singapore,https://www.wilmar-international.com,11,"90,000",Wilmar International
+258,Syh-Jang Liao,Technology,"Electronics, Electrical Equip.",Taipei,https://www.pegatroncorp.com,7,"156,477",Pegatron
+259,Edward H. Bastian,Transportation,Airlines,Atlanta,https://www.delta.com,25,"88,680",Delta Air Lines
+260,Tae-Jong Lee,Financials,"Insurance: Life, Health (stock)",Seoul,https://www.hanwhacorp.co.kr,14,"58,070",Hanwha
+261,Wang Xiaochu,Telecommunications,Telecommunications,Beijing,https://www.chinaunicom-a.com,11,"246,299",China United Network Communications
+262,Yang Yue,Energy,"Mining, Crude-Oil Production","""Xi'an, China""",https://www.sxycpc.com,7,"136,016",Shaanxi Yanchang Petroleum (Group)
+263,Thomas M. Rutledge,Telecommunications,Telecommunications,"Stamford, Conn.",https://www.charter.com,3,"98,000",Charter Communications
+264,Guenter Butschek,Motor Vehicles & Parts,Motor Vehicles and Parts,Mumbai,https://www.tatamotors.com,10,"81,090",Tata Motors
+265,Wolf-Henning Scheider,Motor Vehicles & Parts,Motor Vehicles and Parts,"Friedrichshafen, Germany",https://www.zf.com,6,"148,969",ZF Friedrichshafen
+266,Jörn H. Werner,Retailing,Specialty Retailers,"Düsseldorf, Germany",https://www.ceconomy.de,24,"53,954",Ceconomy
+267,Florent Menrgaux,Motor Vehicles & Parts,Motor Vehicles and Parts,"Clermont-Ferrand, France",https://www.michelin.com,25,"111,117",Michelin
+268,Philip W. Chronican,Financials,Banks: Commercial and Savings,"Docklands, Australia",https://www.nab.com.au,24,"33,283",National Australia Bank
+269,Dirk Van de Put,"Food, Beverages & Tobacco",Food Consumer Products,"Deerfield, Ill.",https://www.mondelezinternational.com,12,"80,000",Mondelez International
+270,Kasper Rorsted,Apparel,Apparel,"Herzogenaurach, Germany",https://www.adidas-group.com,2,"57,016",Adidas
+271,Li Hongshuang,Energy,"Mining, Crude-Oil Production","Jincheng, China",https://www.jamg.cn,7,"128,795",Shanxi Jincheng Anthracite Coal Mining Group
+272,Wiebe Draijer,Financials,Banks: Commercial and Savings,"Utrecht, Netherlands",https://www.rabobank.com,25,"41,861",Rabobank Group
+273,Liu Yinzhi,Energy,"Mining, Crude-Oil Production","Zhengzhou, China",https://www.hnecgc.com.cn,7,"171,334",Henan Energy & Chemical
+274,Xu Xianping,Engineering & Construction,"Engineering, Construction",Beijing,https://www.genertec.com.cn,5,"34,752",China General Technology
+275,Andrew J. Cecere,Financials,Banks: Commercial and Savings,Minneapolis,https://www.usbank.com,14,"75,772",U.S. Bancorp
+276,Jeffrey Gennette,Retailing,General Merchandisers,Cincinnati,https://www.macysinc.com,25,"130,000",Macy’s
+277,Miguel Eduardo Padilla Silva,"Food, Beverages & Tobacco",Beverages,"Monterrey, Mexico",https://www.femsa.com,2,"297,073",Fomento Económico Mexicano
+278,Todd J. Vasos,Retailing,Specialty Retailers,"Goodlettsville, Tennessee",https://www.dollargeneral.com,2,"135,000",Dollar General
+279,H.C. Shin,Chemicals,Chemicals,Seoul,https://www.lgchem.co.kr,1,"33,694",LG Chem
+280,Gerald W. Schwartz,Financials,Diversified Financials,"Toronto, Ontario, Canada",https://www.onex.com,20,"217,000",Onex
+281,Bao Lang Chen,Energy,Petroleum Refining,"Mailiao, Taiwan",https://www.fpcc.com.tw,10,"5,285",Formosa Petrochemical
+282,Philippe Petitcolin,Aerospace & Defense,Aerospace and Defense,Paris,https://www.safran-group.com,1,"92,639",Safran
+283,Willem A.J. van Duin,Financials,"Insurance: Life, Health (Mutual)","Zeist, Netherlands",https://www.achmea.com,6,"13,714",Achmea
+284,Rajesh J. Mehta,Wholesalers,Trading,"Bengaluru, India",https://www.rajeshindia.com,4,383,Rajesh Exports
+285,Leon J. Topalian,Materials,Metals,"Charlotte, N.C.",https://www.nucor.com,2,"26,300",Nucor
+286,Darryl White,Financials,Banks: Commercial and Savings,"Toronto, Ontario, Canada",https://www.bmo.com,10,"45,454",Bank of Montreal
+287,Chen Dongsheng,Financials,"Insurance: Life, Health (Mutual)",Beijing,https://www.taikang.com,2,"57,406",Taikang Insurance Group
+288,Frederico Pinheiro Fleury Curado,Energy,Pipelines,São Paulo,https://www.ultra.com.br,10,"17,034",Ultrapar Holdings
+289,Benoît Potier,Chemicals,Chemicals,Paris,https://www.airliquide.com,2,"66,000",Air Liquide
