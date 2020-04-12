@@ -1,38 +1,35 @@
 CREATE DEFINER=`root`@`localhost` PROCEDURE `ceo_procedure`()
 BEGIN
+SET foreign_key_checks = 0;
 TRUNCATE TABLE  ceo_culture_dwh.ceo;
 
 insert into ceo_culture_dwh.ceo 
 	(
-	 ceo, 
-	 born, 
-	 nationality,
+	 ceo,
+     company_rank,
 	 BoY,
-	 company
+     born
+     
 	)
 select
 	
     a.CEO_ as ceo,
-	a.company as company,
-	a.Born as born,
-	a.Nationality as nationality,
-	a.BoY as BoY            
+    a.company_rank as company_rank,
+	a.BoY as BoY,
+    a.Born as born
 			
 from (
-		select distinct CEO_, company, Born, Nationality, BoY   
+		select distinct f.CEO_, f.Born, f.BoY, f.company_rank   
 		from 
-			(select id, CEO as CEO_, company
-			from ceo_culture_stg.fg500_ceo) fc
-				left join ceo_culture_stg.ceo_bio cb
-				on fc.id = cb.`index`
-			order by fc.id
+			(select CEO as CEO_, Born, BoY, company_rank
+				from ceo_culture_stg.ceo_bio 
+			) f
 	  ) a
 
 left join ceo_culture_dwh.ceo ceo 
-		on a.CEO_ = ceo.ceo
-			AND a.company = ceo.company AND a.Born = ceo.born
-            AND a.Nationality = ceo.nationality AND a.BoY = ceo.BoY
-
+		on a.CEO_ = ceo.ceo AND a.Born = ceo.born
+        AND a.BoY = ceo.BoY AND a.company_rank = ceo.company_rank
 ;
 
+SET foreign_key_checks = 1;
 END

@@ -1,10 +1,12 @@
-CREATE PROCEDURE `g_leadership_procedure` ()
+CREATE DEFINER=`root`@`localhost` PROCEDURE `g_leadership_procedure`()
 BEGIN
+SET foreign_key_checks = 0;
+
 TRUNCATE TABLE  ceo_culture_dwh.g_leadership;
 
 insert into ceo_culture_dwh.g_leadership 
 	(
-	country, 
+	`Country Name`, 
 	`Performance Oriented`,
     `Autocratic`,
     `Modesty`,
@@ -36,7 +38,7 @@ insert into ceo_culture_dwh.g_leadership
 	)
 select
 	
-    a.Country as country,
+    a.`Country Name` as `Country Name`,
 	a.`Performance Oriented` as `Performance Oriented`,
     a.`Autocratic` as `Autocratic`,
     a.`Modesty` as `Modesty`,
@@ -69,34 +71,37 @@ select
 from ceo_culture_stg.globe_leadership a
 
 left join ceo_culture_dwh.g_leadership b 
-		on  a.Country = b.country AND 
-        a.`Performance Oriented` = b.`Performance Oriented` AND
-        a.`Autocratic` = b.`Autocratic` AND
-		a.`Modesty` = b.`Modesty`AND
-		a.`Charismatic 3: Self-sacrifice` = b.`Charismatic 3: Self-sacrifice` AND
-		a.`Team 1: Collaborative Team Orientation` = b.`Team 1: Collaborative Team Orientation` AND
-		a.`Decisive` = b.`Decisive` AND
-    a.`Diplomatic` = b.`Diplomatic` AND
-    a.`Face-saver` = b.`Diplomatic` AND
-    a.`Charismatic 1: Visionary` = b.`Charismatic 1: Visionary` AND
-    a.`Humane-oriented` = b.`Humane-oriented` AND
-    a.`Integrity` = b.`Integrity` AND
-    a.`Bureaucratic, Originally Labeled ??Procedural??` = b.`Bureaucratic, Originally Labeled ??Procedural??` AND
-    a.`Administratively Competent` = b.`Administratively Competent`AND
-    a.`Self-centred` = b.`Self-centred` AND
-    a.`Autonomous` = b.`Autonomous` AND
-    a.`Status Conscious` = b.`Status Conscious` AND
-    a.`Charismatic 2: Inspirational` = b.`Charismatic 2: Inspirational` AND
-    a.`Malevolent` = b.`Malevolent` AND
-    a.`Team 2: Team Integrator` = b.`Team 2: Team Integrator` AND
-    a.`Internally Competitive, Originally Labeled ??Conflict Inducer??` = b.`Internally Competitive, Originally Labeled ??Conflict Inducer??`AND
-    a.`Participative` = b.`Participative` AND
-    a.`Charismatic/Value-based Global Leadership Dimension` = b.`Charismatic/Value-based Global Leadership Dimension` AND
-    a.`Team-Oriented Global Leadership Dimension` = b.`Team-Oriented Global Leadership Dimension` AND
-    a.`Self-Protective Global Leadership Dimension` = b.`Self-Protective Global Leadership Dimension`AND
-    a.`Participative Global Leadership Dimension` = b.`Participative Global Leadership Dimension` AND
-    a.`Humane-Oriented Global Leadership Dimension` = b.`Humane-Oriented Global Leadership Dimension`AND
-    a.`Autonomous Global Leadership Dimension` = b.`Autonomous Global Leadership Dimension` AND
-    a.`Country Cluster` = b.`Country Cluster` 
+		on  a.`Country Name` = b.`Country Name` AND 
+			a.`Performance Oriented` = b.`Performance Oriented` AND
+			a.`Autocratic` = b.`Autocratic` AND
+			a.`Modesty` = b.`Modesty`AND
+			a.`Charismatic 3: Self-sacrifice` = b.`Charismatic 3: Self-sacrifice` AND
+			a.`Team 1: Collaborative Team Orientation` = b.`Team 1: Collaborative Team Orientation` AND
+			a.`Decisive` = b.`Decisive` AND
+			a.`Diplomatic` = b.`Diplomatic` AND
+			a.`Face-saver` = b.`Diplomatic` AND
+			a.`Charismatic 1: Visionary` = b.`Charismatic 1: Visionary` AND
+			a.`Humane-oriented` = b.`Humane-oriented` AND
+			a.`Integrity` = b.`Integrity` AND
+			a.`Bureaucratic, Originally Labeled ??Procedural??` = b.`Bureaucratic, Originally Labeled ??Procedural??` AND
+			a.`Administratively Competent` = b.`Administratively Competent`AND
+			a.`Self-centred` = b.`Self-centred` AND
+			a.`Autonomous` = b.`Autonomous` AND
+			a.`Status Conscious` = b.`Status Conscious` AND
+			a.`Charismatic 2: Inspirational` = b.`Charismatic 2: Inspirational` AND
+			a.`Malevolent` = b.`Malevolent` AND
+			a.`Team 2: Team Integrator` = b.`Team 2: Team Integrator` AND
+			a.`Internally Competitive, Originally Labeled ??Conflict Inducer??` = b.`Internally Competitive, Originally Labeled ??Conflict Inducer??`AND
+			a.`Participative` = b.`Participative` AND
+			a.`Charismatic/Value-based Global Leadership Dimension` = b.`Charismatic/Value-based Global Leadership Dimension` AND
+			a.`Team-Oriented Global Leadership Dimension` = b.`Team-Oriented Global Leadership Dimension` AND
+			a.`Self-Protective Global Leadership Dimension` = b.`Self-Protective Global Leadership Dimension`AND
+			a.`Participative Global Leadership Dimension` = b.`Participative Global Leadership Dimension` AND
+			a.`Humane-Oriented Global Leadership Dimension` = b.`Humane-Oriented Global Leadership Dimension`AND
+			a.`Autonomous Global Leadership Dimension` = b.`Autonomous Global Leadership Dimension` AND
+			a.`Country Cluster` = b.`Country Cluster` 
 ;
+
+SET foreign_key_checks = 1;
+
 END

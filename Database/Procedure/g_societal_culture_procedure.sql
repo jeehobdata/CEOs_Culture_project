@@ -1,10 +1,12 @@
-CREATE PROCEDURE `g_societal_culture_procedure` ()
+CREATE DEFINER=`root`@`localhost` PROCEDURE `g_societal_culture_procedure`()
 BEGIN
+SET foreign_key_checks = 0;
+
 TRUNCATE TABLE  ceo_culture_dwh.g_societal_culture;
 
 insert into ceo_culture_dwh.g_societal_culture 
 	(
-	country, 
+	`Country Name`, 
 	`Uncertainty Avoidance Societal Practices`, 
 	`Future Orientation Societal Practices`,
     `Power Distance Societal Practices`,
@@ -27,7 +29,7 @@ insert into ceo_culture_dwh.g_societal_culture
 	)
 select
 	
-    a.Country as country, 
+    a.`Country Name` as `Country Name`, 
 	a.`Uncertainty Avoidance Societal Practices` as `Uncertainty Avoidance Societal Practices`, 
 	a.`Future Orientation Societal Practices` as `Future Orientation Societal Practices`,
     a.`Power Distance Societal Practices` as `Power Distance Societal Practices`,
@@ -51,7 +53,7 @@ select
 from ceo_culture_stg.globe_societal_culture a
 
 left join ceo_culture_dwh.g_societal_culture b 
-		on a.Country = b.country AND 
+		on a.`Country Name` = b.`Country Name` AND 
 	a.`Uncertainty Avoidance Societal Practices` = b.`Uncertainty Avoidance Societal Practices`AND 
     a.`Future Orientation Societal Practices` = b.`Future Orientation Societal Practices` AND
     a.`Power Distance Societal Practices` = b.`Power Distance Societal Practices` AND
@@ -71,6 +73,8 @@ left join ceo_culture_dwh.g_societal_culture b
     a.`Gender Egalitarianism Societal Values` = b.`Gender Egalitarianism Societal Values`AND
     a.`Assertiveness Societal Values` = b.`Assertiveness Societal Values` AND
     a.`Country Cluster` = b.`Country Cluster`
-
 ;
+
+SET foreign_key_checks = 1;
+
 END

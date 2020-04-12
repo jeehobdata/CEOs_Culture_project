@@ -1,5 +1,7 @@
 CREATE DEFINER=`root`@`localhost` PROCEDURE `hofstede_procedure`()
 BEGIN
+SET foreign_key_checks = 0;
+
 TRUNCATE TABLE  ceo_culture_dwh.hofstede;
 
 insert into ceo_culture_dwh.hofstede 
@@ -31,6 +33,8 @@ left join ceo_culture_dwh.hofstede b
         AND a.pdi = b.pdi AND a.idv = b.idv 
         AND a.mas = b.mas AND a.uai = b.uai 
         AND a.ltowvs = b.ltowvs AND a.ivr = b.ivr
-
 ;
+
+SET foreign_key_checks = 1;
+
 END

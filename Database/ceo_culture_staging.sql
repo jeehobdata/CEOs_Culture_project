@@ -1,10 +1,13 @@
-CREATE DATABASE  IF NOT EXISTS `ceo_culture_stg`;
+CREATE DATABASE  IF NOT EXISTS `ceo_culture_stg`/*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `ceo_culture_stg`;
+
 
  -- Create ceo_bio table
+Drop table if exists `ceo_bio`;
 CREATE table ceo_bio(
 id int(255) not null,
-`index` int(255) not null,
 ceo varchar(255),
+company_rank int(255) not null,
 Born varchar(500),
 Nationality varchar(255),
 Education varchar(10000),
@@ -17,6 +20,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
  -- Create fg500-ceo table
+Drop table if exists `fg500_ceo`;
 CREATE table fg500_ceo(
 id int(255) not null,
 CEO varchar(255) ,
@@ -98,6 +102,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
  -- Create hofstede table
+Drop table if exists `hofstede`;
 CREATE table hofstede(
 ctr varchar(150) ,
 country varchar(255), 
@@ -144,7 +149,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
 -- Import data into ceo_bio table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CEOs_info_v4(Apr_2_2020).csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CEOs_info_v6.1(Apr_10_2020).csv' 
 INTO TABLE ceo_bio 
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -152,7 +157,7 @@ IGNORE 1 ROWS;
 
 
 -- Import data into fg500_ceo table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/fg500_CEOs_v3_all(Mar_14_2020).csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/fg500_CEOs_v4_all(Apr_10_2020).csv' 
 INTO TABLE fg500_ceo 
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -166,7 +171,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Import data into financial_values table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all.csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all_v1.csv' 
 INTO TABLE financial_values
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -195,3 +200,10 @@ INTO TABLE hofstede
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+
+
+ -- Add auto_increment primary key column to hofstede table
+ 
+ Alter table hofstede
+ add column hofstede_id int not null auto_increment Primary Key;
