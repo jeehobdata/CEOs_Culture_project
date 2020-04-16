@@ -12,6 +12,7 @@ Drop table if exists `company_info`;
 create table `company_info`(
 `company_info_id` int(255) not null auto_increment  primary key,
 `rank` varchar(255), 
+`company` varchar(255),
 `employees` varchar(255),
 `sector` varchar(255),
 `industry` varchar(255),
@@ -84,7 +85,6 @@ Drop table if exists `country`;
 create table `country`(
 `country_id` int(255) not null auto_increment primary key,
 `country` varchar(255),
-`company_info_id` int(255),
 `ceo_id` int(255),
 `g_leadership_id` int(255),
 `g_societal_culture_id` int(255),
@@ -97,7 +97,6 @@ ALTER TABLE `country`
   ADD CONSTRAINT `country_ibfk_1` FOREIGN KEY (`ceo_id`) REFERENCES `ceo` (`ceo_id`) on update cascade on delete cascade,
   ADD CONSTRAINT `country_ibfk_2` FOREIGN KEY (`g_leadership_id`) REFERENCES `g_leadership` (`g_leadership_id`) on update cascade on delete cascade,
   ADD CONSTRAINT `country_ibfk_3` FOREIGN KEY (`g_societal_culture_id`) REFERENCES `g_societal_culture` (`g_societal_culture_id`) on update cascade on delete cascade,
-  ADD CONSTRAINT `country_ibfk_4` FOREIGN KEY (`company_info_id`) REFERENCES `company_info` (`company_info_id`) on update cascade on delete cascade,
   ADD CONSTRAINT `country_ibfk_5` FOREIGN KEY (`hofstede_id`) REFERENCES `hofstede` (`hofstede_id`) on update cascade on delete cascade;
 SET foreign_key_checks = 1;
 

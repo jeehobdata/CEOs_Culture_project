@@ -115,8 +115,10 @@ ivr varchar(50))
 COLLATE 'utf8mb4_0900_ai_ci';
 
 
- -- Create financial_values table
-CREATE table financial_values(
+ -- Create financial_values tables
+ -- financial values in 2019
+Drop table if exists `financial_values_2019`;
+CREATE table financial_values_2019(
 `id` int(255) not null,
 `Revenues_$M` varchar(300),
 `Profits_$M` varchar(300),
@@ -126,6 +128,7 @@ CREATE table financial_values(
 `Profits_as_%_of_Assets` varchar(300),
 `Profits_as_%_of_Stockholder_Equity` varchar(300),
 `company` varchar(255),
+`year` int(255),
 PRIMARY KEY (`id`))
 COLLATE 'utf8mb4_0900_ai_ci';
 
@@ -170,12 +173,22 @@ FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
--- Import data into financial_values table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all_v1.csv' 
-INTO TABLE financial_values
+-- Import data into financial_values_2019 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all_2019_v1.csv' 
+INTO TABLE financial_values_2019
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+-- Import data into financial_values_2018 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all_2018_v1.csv' 
+INTO TABLE financial_values_2018
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+
+
 
 
 -- Import data into globe_leadership table

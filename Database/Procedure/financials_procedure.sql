@@ -35,7 +35,7 @@ from
 				`Profit_as_%_of_Revenues` as `Profit_as_%_of_Revenues_`,
 				`Profits_as_%_of_Assets` as `Profits_as_%_of_Assets_`,
 				`Profits_as_%_of_Stockholder_Equity` as `Profits_as_%_of_Stockholder_Equity_`
-		from ceo_culture_stg.financial_values) a
+		from ceo_culture_stg.financial_values_2019) a
 
 left join ceo_culture_dwh.financials b 
 		on a.`id_` = b.`company_info_id`
