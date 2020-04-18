@@ -107,7 +107,7 @@ SET foreign_key_checks = 1;
  -- create g_societal_culture table
 Drop table if exists `g_societal_culture`;
 create table `g_societal_culture`(
-`g_societal_culture_id` int(255) not null auto_increment primary key,
+`g_societal_culture_id` int(255) not null primary key,
 `Country Name` varchar(255) not null,
 `Uncertainty Avoidance Societal Practices` varchar(50),
 `Future Orientation Societal Practices` varchar(50),
@@ -135,7 +135,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 -- create g_leadership table
 Drop table if exists `g_leadership`;
 create table `g_leadership`(
-`g_leadership_id` int(255) not null auto_increment primary key,
+`g_leadership_id` int(255) not null primary key,
 `Country Name` varchar(255) not null,
 `Performance Oriented` varchar(50),
 `Autocratic` varchar(50),

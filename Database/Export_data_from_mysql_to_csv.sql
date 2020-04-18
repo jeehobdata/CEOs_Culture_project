@@ -38,6 +38,6 @@ left join ceo_culture_dwh.g_leadership leader on ctry.`g_leadership_id` = leader
 left join ceo_culture_dwh.g_societal_culture culture on ctry.`g_societal_culture_id` = culture.`g_societal_culture_id`
 left join ceo_culture_dwh.hofstede hof on ctry.`hofstede_id` = hof.`hofstede_id`
 group by `company_info_id`
-into outfile "C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\full_data_set_v7(Apr17).csv"
+into outfile "C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\full_data_set_v9(Apr18).csv"
 FIELDS TERMINATED BY ';' ENCLOSED BY '"' lines terminated by '\n';
 

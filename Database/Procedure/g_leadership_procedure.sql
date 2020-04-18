@@ -6,6 +6,7 @@ TRUNCATE TABLE  ceo_culture_dwh.g_leadership;
 
 insert into ceo_culture_dwh.g_leadership 
 	(
+    `g_leadership_id`,
 	`Country Name`, 
 	`Performance Oriented`,
     `Autocratic`,
@@ -38,6 +39,7 @@ insert into ceo_culture_dwh.g_leadership
 	)
 select
 	
+    a.`Country` as `g_leadership_id`,
     a.`Country Name` as `Country Name`,
 	a.`Performance Oriented` as `Performance Oriented`,
     a.`Autocratic` as `Autocratic`,
@@ -71,7 +73,8 @@ select
 from ceo_culture_stg.globe_leadership a
 
 left join ceo_culture_dwh.g_leadership b 
-		on  a.`Country Name` = b.`Country Name` AND 
+		on  a.`Country` = b.`g_leadership_id` AND
+			a.`Country Name` = b.`Country Name` AND 
 			a.`Performance Oriented` = b.`Performance Oriented` AND
 			a.`Autocratic` = b.`Autocratic` AND
 			a.`Modesty` = b.`Modesty`AND

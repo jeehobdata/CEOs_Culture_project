@@ -12,7 +12,6 @@ Born varchar(500),
 Nationality varchar(255),
 Education varchar(10000),
 BoY varchar(50),
-
 PRIMARY KEY (`id`))
 COLLATE 'utf8mb4_0900_ai_ci';
 
@@ -37,6 +36,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
  -- Create globe_leadership table
+Drop table if exists `globe_leadership`;
 CREATE table globe_leadership(
 Country int(255) not null,
 `Country Name` varchar(255),
@@ -74,6 +74,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
  -- Create globe_societal-culture table
+Drop table if exists `globe_societal_culture`;
 CREATE table globe_societal_culture(
 Country int(255) not null,
 `Country Name` varchar(255),
@@ -152,7 +153,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
 -- Import data into ceo_bio table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CEOs_info_v6.1(Apr_10_2020).csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CEOs_info_v8.1(Apr_17_2020).csv' 
 INTO TABLE ceo_bio 
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -192,7 +193,7 @@ IGNORE 1 ROWS;
 
 
 -- Import data into globe_leadership table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/GLOBE_Phase_2_Aggregated_Leadership.csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/GLOBE_Phase_2_Aggregated_Leadership_v2.csv' 
 INTO TABLE globe_leadership
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -200,7 +201,7 @@ IGNORE 1 ROWS;
 
 
 -- Import data into globe_societal_culture table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/GLOBE_Phase_2_Aggregated_Societal_Culture.csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/GLOBE_Phase_2_Aggregated_Societal_Culture_v2.csv' 
 INTO TABLE globe_societal_culture
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
@@ -208,7 +209,7 @@ IGNORE 1 ROWS;
 
 
 -- Import data into hofstede table
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Hofstede_6D_v2(Mar_16_2020).csv' 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Hofstede_6D_v3(Apr_18_2020).csv' 
 INTO TABLE hofstede
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'

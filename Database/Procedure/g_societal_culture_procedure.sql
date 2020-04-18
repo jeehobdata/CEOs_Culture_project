@@ -6,6 +6,7 @@ TRUNCATE TABLE  ceo_culture_dwh.g_societal_culture;
 
 insert into ceo_culture_dwh.g_societal_culture 
 	(
+    `g_societal_culture_id`,
 	`Country Name`, 
 	`Uncertainty Avoidance Societal Practices`, 
 	`Future Orientation Societal Practices`,
@@ -28,7 +29,7 @@ insert into ceo_culture_dwh.g_societal_culture
     `Country Cluster`
 	)
 select
-	
+	a.`Country` as `g_societal_culture_id`,
     a.`Country Name` as `Country Name`, 
 	a.`Uncertainty Avoidance Societal Practices` as `Uncertainty Avoidance Societal Practices`, 
 	a.`Future Orientation Societal Practices` as `Future Orientation Societal Practices`,
@@ -53,7 +54,8 @@ select
 from ceo_culture_stg.globe_societal_culture a
 
 left join ceo_culture_dwh.g_societal_culture b 
-		on a.`Country Name` = b.`Country Name` AND 
+		on a.`Country` = b.`g_societal_culture_id` AND
+	a.`Country Name` = b.`Country Name` AND 
 	a.`Uncertainty Avoidance Societal Practices` = b.`Uncertainty Avoidance Societal Practices`AND 
     a.`Future Orientation Societal Practices` = b.`Future Orientation Societal Practices` AND
     a.`Power Distance Societal Practices` = b.`Power Distance Societal Practices` AND
