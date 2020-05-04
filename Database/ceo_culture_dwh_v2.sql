@@ -53,7 +53,8 @@ Drop table if exists `education`;
 create table `education`(
 `education_id` int(255) not null auto_increment primary key,
 `education` varchar(10000),
-`ceo_id` int(255) not null)
+`ceo_id` int(255) not null,
+`year` int(255))
 COLLATE 'utf8mb4_0900_ai_ci';
 
 SET foreign_key_checks = 0;
@@ -90,7 +91,8 @@ create table `country`(
 `ceo_id` int(255),
 `g_leadership_id` int(255),
 `g_societal_culture_id` int(255),
-`hofstede_id` int(255)
+`hofstede_id` int(255),
+`year` int(255)
 )
 COLLATE 'utf8mb4_0900_ai_ci';
 
