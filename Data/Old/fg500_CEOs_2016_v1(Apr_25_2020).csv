@@ -1,0 +1,501 @@
+,CEO,Sector,Industry,HQ Location,Website,Years on Global 500 List,Employees,company,year
+1,C. Douglas McMillon,Retailing,General Merchandisers,"Bentonville, AR","2,300,000",http://www.walmart.com,22,Walmart,2016
+2,Shu Yinbiao,Energy,Utilities,"Beijing, China","927,839",http://www.sgcc.com.cn,16,State Grid,2016
+3,Wang Yilin,Energy,Petroleum Refining,"Beijing, China","1,589,508",http://www.cnpc.com.cn,16,China National Petroleum,2016
+4,Wang Yupu,Energy,Petroleum Refining,"Beijing, China","810,538",http://www.sinopec.com,18,Sinopec Group,2016
+5,Ben van Beurden,Energy,Petroleum Refining,"The Hague, Netherlands","90,000",http://www.shell.com,22,Royal Dutch Shell,2016
+6,Darren W. Woods,Energy,Petroleum Refining,"Irving, TX","75,600",http://www.exxonmobil.com,22,Exxon Mobil,2016
+7,Matthias Muller,Motor Vehicles & Parts,Motor Vehicles and Parts,"Wolfsburg, Germany","610,076",http://www.volkswagen.com,22,Volkswagen,2016
+8,Akio Toyoda,Motor Vehicles & Parts,Motor Vehicles and Parts,"Toyota, Japan","348,877",http://www.toyota-global.com,22,Toyota Motor,2016
+9,Timothy D. Cook,Technology,"Computers, Office Equipment","Cupertino, CA","110,000",http://www.apple.com,14,Apple,2016
+10,Robert W. Dudley,Energy,Petroleum Refining,"London, Britain","79,800",http://www.bp.com,22,BP,2016
+11,Warren E. Buffett,Financials,Insurance: Property and Casualty (Stock),"Omaha, NE","331,000",http://www.berkshirehathaway.com,20,Berkshire Hathaway,2016
+12,John H. Hammergren,Wholesalers,Wholesalers: Health Care,"San Francisco, CA","68,000",http://www.mckesson.com,22,McKesson,2016
+13,Oh-Hyun Kwon,Technology,"Electronics, Electrical Equip.","Suwon, South Korea","319,000",http://www.samsung.com,22,Samsung Electronics,2016
+14,Ivan Glasenberg,Energy,"Mining, Crude-Oil Production","Baar, Switzerland","102,388",http://www.glencore.com,6,Glencore,2016
+15,Yi Huiman,Financials,Banks: Commercial and Savings,"Beijing, China","466,346",http://www.icbc-ltd.com,18,Industrial & Commercial Bank of China,2016
+16,Dieter Zetsche,Motor Vehicles & Parts,Motor Vehicles and Parts,"Stuttgart, Germany","284,015",http://www.daimler.com,22,Daimler,2016
+17,Stephen J. Hemsley,Health Care,Health Care: Insurance and Managed Care,"Minnetonka, MN","200,000",http://www.unitedhealthgroup.com,20,UnitedHealth Group,2016
+18,Larry J. Merlo,Food & Drug Stores,Food and Drug Stores,"Woonsocket, RI","199,000",http://www.cvshealth.com,21,CVS Health,2016
+19,John Elkann,Financials,Diversified Financials,"Turin, Italy","303,247",http://www.exor.com,6,EXOR Group,2016
+20,Mary T. Barra,Motor Vehicles & Parts,Motor Vehicles and Parts,"Detroit, MI","215,000",http://www.gm.com,22,General Motors,2016
+21,Mark Fields,Motor Vehicles & Parts,Motor Vehicles and Parts,"Dearborn, MI","199,000",http://www.ford.com,22,Ford Motor,2016
+22,Wang Zuji,Financials,Banks: Commercial and Savings,"Beijing, China","369,183",http://www.ccb.com,17,China Construction Bank,2016
+23,Randall L. Stephenson,Telecommunications,Telecommunications,"Dallas, TX","281,450",http://www.att.com,22,AT&T,2016
+24,Patrick Pouyanné,Energy,Petroleum Refining,"Courbevoie, France","96,019",http://www.total.com,22,Total,2016
+25,Terry Gou,Technology,"Electronics, Electrical Equip.","New Taipei City, Taiwan","1,060,000",http://www.foxconn.com,12,Hon Hai Precision Industry,2016
+26,Jeffrey R. Immelt,Industrials,Industrial Machinery,"Fairfield, CT","333,000",http://www.ge.com,22,General Electric,2016
+27,Guan Qing,Engineering & Construction,"Engineering, Construction","Beijing, China","241,474",http://www.cscec.com,5,China State Construction Engineering,2016
+28,Steven H. Collis,Wholesalers,Wholesalers: Health Care,"Chesterbrook, PA","17,000",http://www.amerisourcebergen.com,17,AmerisourceBergen,2016
+29,Zhao Huan,Financials,Banks: Commercial and Savings,"Beijing, China","508,726",http://www.abchina.com,17,Agricultural Bank of China,2016
+30,Lowell C. McAdam,Telecommunications,Telecommunications,"New York, NY","177,700",http://www.verizon.com,22,Verizon,2016
+31,John S. Watson,Energy,Petroleum Refining,"San Ramon, CA","61,500",http://www.chevron.com,22,Chevron,2016
+32,Johannes Teyssen,Energy,Energy,"Essen, Germany","56,490",http://www.eon.com,22,E.ON,2016
+33,Henri de Castries,Financials,"Insurance: Life, Health (stock)","Paris, France","98,279",http://www.axa.com,22,AXA,2016
+34,Oliver Bäte,Financials,Insurance: Property and Casualty (Stock),"Munich, Germany","142,459",http://www.allianz.com,22,Allianz,2016
+35,Chen Siqing,Financials,Banks: Commercial and Savings,"Beijing, China","310,042",http://www.boc.cn,22,Bank of China,2016
+36,Takahiro Hachigo,Motor Vehicles & Parts,Motor Vehicles and Parts,"Tokyo, Japan","208,399",http://www.honda.com,22,Honda Motor,2016
+37,Masatsugu Nagato,Financials,"Insurance: Life, Health (stock)","Tokyo, Japan","250,876",http://www.japanpost.jp,20,Japan Post Holdings,2016
+38,W. Craig Jelinek,Retailing,Specialty Retailers,"Issaquah, WA","161,000",http://www.costco.com,22,Costco,2016
+39,Jean-Laurent Bonnafe,Financials,Banks: Commercial and Savings,"Paris, France","181,551",http://www.bnpparibas.com,22,BNP Paribas,2016
+40,Timothy J. Mayopoulos,Financials,Diversified Financials,"Washington, DC","7,300",http://www.fanniemae.com,19,Fannie Mae,2016
+41,Ma Mingzhe,Financials,"Insurance: Life, Health (stock)","Shenzhen, China","275,011",http://www.pingan.com,7,Ping An Insurance,2016
+42,W. Rodney McMullen,Food & Drug Stores,Food and Drug Stores,"Cincinnati, OH","431,000",http://www.thekrogerco.com,22,Kroger,2016
+43,Frédéric Oudéa,Financials,Banks: Commercial and Savings,"Paris, France","151,149",http://www.societegenerale.com,20,Société Générale,2016
+44,Jeffrey P. Bezos,Technology,Internet Services and Retailing,"Seattle, WA","230,800",http://www.amazon.com,8,Amazon.com,2016
+45,Li Yue,Telecommunications,Telecommunications,"Beijing, China","436,651",http://www.10086.cn%20,16,China Mobile Communications,2016
+46,Chen Zhixin,Motor Vehicles & Parts,Motor Vehicles and Parts,"Shanghai, China","92,780",http://www.saicmotor.com,5,SAIC Motor,2016
+47,Stefano Pessina,Food & Drug Stores,Food and Drug Stores,"Deerfield, IL","302,500",http://www.walgreensbootsalliance.com,22,Walgreens Boots Alliance,2016
+48,Dion J. Weisler,Technology,"Computers, Office Equipment","Palo Alto, CA","287,000",http://www.hp.com,22,HP,2016
+49,Philippe Donnet,Financials,"Insurance: Life, Health (stock)","Trieste, Italy","76,191",http://www.generali.com,22,Assicurazioni Generali,2016
+50,George S. Barrett,Wholesalers,Wholesalers: Health Care,"Dublin, OH","34,500",http://www.cardinalhealth.com,19,Cardinal Health,2016
+51,Harald Krüger,Motor Vehicles & Parts,Motor Vehicles and Parts,"Munich, Germany","122,244",http://www.bmwgroup.com,22,BMW,2016
+52,Timothy C. Wentworth,Health Care,Miscellaneous,"St. Louis, MO","25,900",http://www.express-scripts.com,14,Express Scripts Holding,2016
+53,Carlos Ghosn,Motor Vehicles & Parts,Motor Vehicles and Parts,"Yokohama, Japan","152,421",http://www.nissan-global.com,22,Nissan Motor,2016
+54,Yang Mingsheng,Financials,"Insurance: Life, Health (stock)","Beijing, China","130,732",http://www.chinalife.com.cn,14,China Life Insurance,2016
+55,James Dimon,Financials,Banks: Commercial and Savings,"New York, NY","234,598",http://www.jpmorganchase.com,22,J.P. Morgan Chase,2016
+56,Alexey B. Miller,Energy,Energy,"Moscow, Russia","462,400",http://www.gazprom.com,20,Gazprom,2016
+57,Yao Guiqing,Engineering & Construction,"Engineering, Construction","Beijing, China","281,824",http://www.crecg.com,2,China Railway Engineering,2016
+58,Pedro Pullen Parente,Energy,Petroleum Refining,"Rio de Janeiro, Brazil","78,470",http://www.petrobras.com.br,22,Petrobras,2016
+59,Jeremy Weir,Wholesalers,Trading,"Singapore, Singapore","5,248",http://www.trafigura.com,2,Trafigura Group,2016
+60,Hiroo Unoura,Telecommunications,Telecommunications,"Tokyo, Japan","241,450",http://www.ntt.co.jp,22,Nippon Telegraph & Telephone,2016
+61,Dennis A. Muilenburg,Aerospace & Defense,Aerospace and Defense,"Chicago, IL","161,400",http://www.boeing.com,22,Boeing,2016
+62,Meng Fengchao,Engineering & Construction,"Engineering, Construction","Beijing, China","284,100",http://www.crcc.cn,5,China Railway Construction,2016
+63,Satya Nadella,Technology,Computer Software,"Redmond, WA","118,000",http://www.microsoft.com,19,Microsoft,2016
+64,Brian T. Moynihan,Financials,Banks: Commercial and Savings,"Charlotte, NC","213,280",http://www.bankofamerica.com,22,Bank of America Corp.,2016
+65,Claudio Descalzi,Energy,Petroleum Refining,"Rome, Italy","81,954",http://www.eni.com,22,ENI,2016
+66,Paul Bulcke,"Food, Beverages & Tobacco",Food Consumer Products,"Vevey, Switzerland","335,000",http://www.nestle.com,22,Nestlé,2016
+67,Timothy J. Sloan,Financials,Banks: Commercial and Savings,"San Francisco, CA","264,700",http://www.wellsfargo.com,19,Wells Fargo,2016
+68,Stuart T. Gulliver,Financials,Banks: Commercial and Savings,"London, Britain","264,000",http://www.hsbc.com,22,HSBC Holdings,2016
+69,Craig A. Menear,Retailing,Specialty Retailers,"Atlanta, GA","385,000",http://www.homedepot.com,22,Home Depot,2016
+70,Michael L. Corbat,Financials,Banks: Commercial and Savings,"New York, NY","231,000",http://www.citigroup.com,22,Citigroup,2016
+71,Josef Kaeser,Industrials,"Electronics, Electrical Equip.","Munich, Germany","348,000",http://www.siemens.com,22,Siemens,2016
+72,David J. Lewis,Food & Drug Stores,Food and Drug Stores,"Welwyn Garden City, Britain","357,835",http://www.tescoplc.com,22,Tesco,2016
+73,Georges Plassat,Food & Drug Stores,Food and Drug Stores,"Boulogne-Billancourt, France","380,920",http://www.carrefour.com,22,Carrefour,2016
+74,Greg C. Garland,Energy,Petroleum Refining,"Houston, TX","14,000",http://www.phillips66.com,4,Phillips 66,2016
+75,José Antonio Álvarez,Financials,Banks: Commercial and Savings,"Madrid, Spain","191,038",http://www.santander.com,22,Banco Santander,2016
+76,Vagit Y. Alekperov,Energy,Petroleum Refining,"Moscow, Russia","106,200",http://www.lukoil.com,17,Lukoil,2016
+77,Philippe Brassac,Financials,Banks: Commercial and Savings,"Paris, France","71,499",http://www.credit-agricole.com,22,Crédit Agricole,2016
+78,Francesco Starace,Energy,Utilities,"Rome, Italy","67,914",http://www.enel.com,22,Enel,2016
+79,Toshiaki Higashihara,Industrials,"Electronics, Electrical Equip.","Tokyo, Japan","335,244",http://www.hitachi.com,22,Hitachi,2016
+80,Jean-Bernard Lévy,Energy,Utilities,"Paris, France","156,312",http://www.edf.fr,22,Électricité de France,2016
+81,Zhu YanFeng,Motor Vehicles & Parts,Motor Vehicles and Parts,"Wuhan, China","191,950",http://www.dfmc.com.cn,7,Dongfeng Motor Group,2016
+82,Virginia M. Rometty,Technology,Information Technology Services,"Armonk, NY","411,798",http://www.ibm.com,22,IBM,2016
+83,Joseph Gorder,Energy,Petroleum Refining,"San Antonio, TX","10,103",http://www.valero.com,16,Valero Energy,2016
+84,Mong-Koo Chung,Motor Vehicles & Parts,Motor Vehicles and Parts,"Seoul, South Korea","129,315",http://worldwide.hyundai.com,21,Hyundai Motor,2016
+85,Joseph R. Swedish,Health Care,Health Care: Insurance and Managed Care,"Indianapolis, IN","53,000",http://www.antheminc.com,15,Anthem,2016
+86,David S. Taylor,Household Products,Household and Personal Products,"Cincinnati, OH","110,000",http://www.pg.com,22,Procter & Gamble,2016
+87,Volkmar Denner,Motor Vehicles & Parts,Motor Vehicles and Parts,"Stuttgart, Germany","374,778",http://www.bosch.com,22,Robert Bosch,2016
+88,Kurt W. Bock,Chemicals,Chemicals,"Ludwigshafen, Germany","108,048",http://www.basf.com,22,BASF,2016
+89,Isabelle Kocher,Energy,Energy,"Courbevoie, France","154,935",http://www.engie.com,21,Engie,2016
+90,Timotheus Höttges,Telecommunications,Telecommunications,"Bonn, Germany","226,000",http://www.telekom.com,22,Deutsche Telekom,2016
+91,Xi Luo,Retailing,General Merchandisers,"Hong Kong, China","447,348",http://www.crc.com.hk,7,China Resources National,2016
+92,Masayoshi Son,Telecommunications,Telecommunications,"Tokyo, Japan","63,591",http://www.softbank.jp,9,SoftBank Group,2016
+93,Michael L. Tipsord,Financials,Insurance: Property and Casualty (Mutual),"Bloomington, IL","70,425",http://www.statefarm.com,22,State Farm Insurance Cos.,2016
+94,Larry Page,Technology,Internet Services and Retailing,"Mountain View, CA","61,814",http://www.abc.xyz,8,Alphabet,2016
+95,Zhao Jianguo,Energy,Utilities,"Guangzhou, China","303,301",http://www.csg.cn,12,China Southern Power Grid,2016
+96,Brian L. Roberts,Telecommunications,Telecommunications,"Philadelphia, PA","153,000",http://www.comcastcorporation.com,14,Comcast,2016
+97,Brian C. Cornell,Retailing,General Merchandisers,"Minneapolis, MN","341,000",http://www.target.com,22,Target,2016
+98,José Antonio González Anaya,Energy,"Mining, Crude-Oil Production","Mexico City, Mexico","130,447",http://www.pemex.com,22,Pemex,2016
+99,Yan Hao,Engineering & Construction,"Engineering, Construction","Nanjing, China","351,679",http://www.cpcg.com.cn,3,Pacific Construction Group,2016
+100,Thomas Enders,Aerospace & Defense,Aerospace and Defense,"Leiden, Netherlands","136,574",http://www.airbusgroup.com,22,Airbus Group,2016
+101,Olaf Koch,Food & Drug Stores,Food and Drug Stores,"Düsseldorf, Germany","203,773",http://www.metrogroup.de,21,Metro,2016
+102,Xu Liuping,Aerospace & Defense,Aerospace and Defense,"Beijing, China","238,287",http://www.chinasouth.com.cn,7,China South Industries Group,2016
+103,Alex Gorsky,Health Care,Pharmaceuticals,"New Brunswick, NJ","127,100",http://www.jnj.com,16,Johnson & Johnson,2016
+104,Steven A. Kandarian,Financials,"Insurance: Life, Health (stock)","New York, NY","69,000",http://www.metlife.com,22,MetLife,2016
+105,Li Guohua,Transportation,"Mail, Package, and Freight Delivery","Beijing, China","938,494",http://www.chinapost.com.cn,6,China Post Group,2016
+106,Nikolaus von Bomhard,Financials,Insurance: Property and Casualty (Stock),"Munich, Germany","43,554",http://www.munichre.com,22,Munich Re Group,2016
+107,Megan J. Brennan,Transportation,"Mail, Package, and Freight Delivery","Washington, DC","556,850",http://www.usps.com,22,U.S. Postal Service,2016
+108,Frank Appel,Transportation,"Mail, Package, and Freight Delivery","Bonn, Germany","450,508",http://www.dpdhl.com,22,Deutsche Post,2016
+109,Yang Hua,Energy,"Mining, Crude-Oil Production","Beijing, China","110,200",http://www.cnooc.com.cn,10,China National Offshore Oil,2016
+110,Liu Qitao,Engineering & Construction,"Engineering, Construction","Beijing, China","136,655",http://www.ccccltd.cn,9,China Communications Construction,2016
+111,Motoya Okada,Retailing,General Merchandisers,"Chiba, Japan","265,736",http://www.aeon.info,22,AEON,2016
+112,Juan R. Luciano,"Food, Beverages & Tobacco",Food Production,"Chicago, IL","32,300",http://www.adm.com,22,Archer Daniels Midland,2016
+113,Kazuo Hirai,Technology,"Electronics, Electrical Equip.","Tokyo, Japan","125,300",http://www.sony.net,22,Sony,2016
+114,Yoshinobu Tsutsui,Financials,"Insurance: Life, Health (Mutual)","Osaka, Japan","73,578",http://www.nissay.co.jp,22,Nippon Life Insurance,2016
+115,Alexandre Corrêa Abreu,Financials,Banks: Commercial and Savings,"Brasília, Brazil","109,191",http://www.bb.com.br,22,Banco do Brasil,2016
+116,William J. Randall,Wholesalers,Trading,"Hong Kong, China","1,500",http://www.thisisnoble.com,9,Noble Group,2016
+117,Ralph Hamers,Financials,Banks: Commercial and Savings,"Amsterdam, Netherlands","57,553",http://www.ing.com,22,ING Group,2016
+118,Igor I. Sechin,Energy,Petroleum Refining,"Moscow, Russia","261,500",http://www.rosneft.com,11,Rosneft Oil,2016
+119,Wu Yan,Financials,Insurance: Property and Casualty (Stock),"Beijing, China","172,213",http://www.picc.com.cn,7,People’s Insurance Co. of China,2016
+120,Gary R. Heminger,Energy,Petroleum Refining,"Findlay, OH","45,440",http://www.marathonpetroleum.com%20,5,Marathon Petroleum,2016
+121,Yu Xubo,Wholesalers,Trading,"Beijing, China","121,767",http://www.cofco.com,22,COFCO,2016
+122,Wang Yuzhu,Wholesalers,Trading,"Tianjin, China","17,860",http://www.tewoo.com,5,Tewoo Group,2016
+123,Lakshmi N. Mittal,Materials,Metals,Luxembourg,"209,404",http://www.arcelormittal.com,12,ArcelorMittal,2016
+124,Donald H. Layton,Financials,Diversified Financials,"McLean, VA","5,439",http://www.freddiemac.com,20,Freddie Mac,2016
+125,Wan Zulkiflee Wan Ariffin,Energy,Petroleum Refining,"Kuala Lumpur, Malaysia","53,149",http://www.petronas.com.my,20,Petronas,2016
+126,Michael A. Wells,Financials,"Insurance: Life, Health (stock)","London, Britain","23,924",http://www.prudential.co.uk,21,Prudential,2016
+127,Indra K. Nooyi,"Food, Beverages & Tobacco",Food Consumer Products,"Purchase, NY","263,000",http://www.pepsico.com,22,PepsiCo,2016
+128,Kazuhiro Tsuga,Technology,"Electronics, Electrical Equip.","Osaka, Japan","249,520",http://www.panasonic.com/global,22,Panasonic,2016
+129,Ren Zhengfei,Technology,Network and Other Communications Equipment,"Shenzhen, China","170,000",http://www.huawei.com,7,Huawei Investment & Holding,2016
+130,Xu Ping,Motor Vehicles & Parts,Motor Vehicles and Parts,"Changchun, China","132,083",http://www.faw.com.,12,China FAW Group,2016
+131,Yukio Uchida,Energy,Petroleum Refining,"Tokyo, Japan","26,339",http://www.hd.jx-group.co.jp,22,JX Holdings,2016
+132,Yang Jie,Telecommunications,Telecommunications,"Beijing, China","417,101",http://www.chinatelecom.com.cn,17,China Telecommunications,2016
+133,Vittorio Colao,Telecommunications,Telecommunications,"Newbury, Britain","111,684",http://www.vodafone.com,17,Vodafone Group,2016
+134,Yin Jiaxu,Aerospace & Defense,Aerospace and Defense,"Beijing, China","241,309",http://www.norincogroup.com.cn,7,China North Industries Group,2016
+135,Koichiro Watanabe,Financials,"Insurance: Life, Health (stock)","Tokyo, Japan","54,617",http://www.dai-ichi-life.co.jp,22,Dai-ichi Life Insurance,2016
+136,Gregory J. Hayes,Aerospace & Defense,Aerospace and Defense,"Farmington, CT","197,200",http://www.utc.com,22,United Technologies,2016
+137,José María Álvarez-Pallete López,Telecommunications,Telecommunications,"Madrid, Spain","129,890",http://www.telefonica.com,22,Telefónica,2016
+138,Fumiya Kokubu,Wholesalers,Trading,"Tokyo, Japan","39,914",http://www.marubeni.com,22,Marubeni,2016
+139,Ning Gaoning,Wholesalers,Trading,"Beijing, China","53,432",http://www.sinochem.com,21,Sinochem Group,2016
+140,Carlos Tavares,Motor Vehicles & Parts,Motor Vehicles and Parts,"Paris, France","187,347",http://www.psa-peugeot-citroen.com,22,Peugeot,2016
+141,Mario Greco,Financials,Insurance: Property and Casualty (Stock),"Zurich, Switzerland","54,335",http://www.zurich.com,22,Zurich Insurance Group,2016
+142,Mark T. Bertolini,Health Care,Health Care: Insurance and Managed Care,"Hartford, CT","50,100",http://www.aetna.com,16,Aetna,2016
+143,Tan Ruisong,Aerospace & Defense,Aerospace and Defense,"Beijing, China","542,236",http://www.avic.com.cn,8,Aviation Industry Corp. of China,2016
+144,Vianney Mulliez,Food & Drug Stores,Food and Drug Stores,"Croix, France","337,737",http://www.auchan.com,20,Auchan Holding,2016
+145,Eldar Saetre,Energy,Petroleum Refining,"Stavanger, Norway","21,581",http://www.statoil.com,22,Statoil,2016
+146,Tevin Vongvanich,Energy,Petroleum Refining,"Bangkok, Thailand","24,790",http://www.pttplc.com,13,PTT,2016
+147,Paul Polman,Household Products,Household and Personal Products,"London, Britain/Netherlands","171,000",http://www.unilever.com,22,Unilever,2016
+148,Robert A. Niblock,Retailing,Specialty Retailers,"Mooresville, NC","225,000",http://www.lowes.com,19,Lowe’s,2016
+149,David P. Abney,Transportation,"Mail, Package, and Freight Delivery","Atlanta, GA","341,240",http://www.ups.com,22,UPS,2016
+150,Peter D. Hancock,Financials,Insurance: Property and Casualty (Stock),"New York, NY","66,400",http://www.aig.com,21,AIG,2016
+151,Takehiko Kakiuchi,Wholesalers,Trading,"Tokyo, Japan","68,247",http://www.mitsubishicorp.com,22,Mitsubishi,2016
+152,John R. Strangfeld Jr.,Financials,"Insurance: Life, Health (stock)","Newark, NJ","49,384",http://www.prudential.com,22,Prudential Financial,2016
+153,Niu Ximing,Financials,Banks: Commercial and Savings,"Shanghai, China","93,770",http://www.bankcomm.com,8,Bank of Communications,2016
+154,Daniel Hajj Aboumrad,Telecommunications,Telecommunications,"Mexico City, Mexico","195,475",http://www.americamovil.com,10,América Móvil,2016
+155,François Pérol,Financials,Banks: Commercial and Savings,"Paris, France","102,886",http://www.groupebpce.fr,7,Groupe BPCE,2016
+156,Chang Zhenming,Financials,Diversified Financials,"Beijing, China","194,795",http://www.group.citic,8,CITIC Group,2016
+157,Gonzalo Ramirez Martiarena,"Food, Beverages & Tobacco",Food Production,"Rotterdam, Netherlands","17,555",http://www.ldcom.com,3,Louis Dreyfus,2016
+158,Brian M. Krzanich,Technology,Semiconductors and Other Electronic Components,"Santa Clara, CA","107,300",http://www.intel.com,22,Intel,2016
+159,Roberto Egydio Setubal,Financials,Banks: Commercial and Savings,"São Paulo, Brazil","90,320",http://www.itau.com.br,3,Itaú Unibanco Holding,2016
+160,Xu Heyi,Motor Vehicles & Parts,Motor Vehicles and Parts,"Beijing, China","126,000",http://www.baicgroup.com.cn%20%20%20,4,Beijing Automotive Group,2016
+161,B. Ashok,Energy,Petroleum Refining,"New Delhi, India","34,659",http://www.iocl.com,22,Indian Oil,2016
+162,Bruce D. Broussard,Health Care,Health Care: Insurance and Managed Care,"Louisville, KY","50,100",http://www.humana.com,18,Humana,2016
+163,Zhang Shiping,Apparel,Miscellaneous,"Shandong, China","140,358",http://www.weiqiaocy.com,5,Shandong Weiqiao Pioneering Group,2016
+164,Robert A. Iger,Media,Entertainment,"Burbank, CA","185,000",http://www.disney.com,22,Disney,2016
+165,Werner Baumann,Health Care,Pharmaceuticals,"Leverkusen, Germany","116,800",http://www.bayer.com,22,Bayer,2016
+166,John Cryan,Financials,Banks: Commercial and Savings,"Frankfurt, Germany","101,104",http://www.db.com,22,Deutsche Bank,2016
+167,Severin Schwan,Health Care,Pharmaceuticals,"Basel, Switzerland","91,747",http://www.roche.com,22,Roche Group,2016
+168,Andrew Mackenzie,Energy,"Mining, Crude-Oil Production","Melbourne, Australia","42,829",http://www.bhpbilliton.com,22,BHP Billiton,2016
+169,Satoshi Tsunakawa,Industrials,"Electronics, Electrical Equip.","Tokyo, Japan","188,000",http://www.toshiba.co.jp,22,Toshiba,2016
+170,Didier Lévêque,Food & Drug Stores,Food and Drug Stores,"Paris, France","330,433",http://www.finatis.fr,2,Finatis,2016
+171,Richard J.B. Goyder,Food & Drug Stores,Food and Drug Stores,"Perth, Australia","205,000",http://www.wesfarmers.com.au,8,Wesfarmers,2016
+172,Hwan-Eik Cho,Energy,Utilities,"Jeollanam-do, South Korea","41,949",http://www.kepco.co.kr,22,Korea Electric Power,2016
+173,Oh-Joon Kwon,Materials,Metals,"Seoul, South Korea","34,327",http://www.posco.com,22,POSCO,2016
+174,Peter Terium,Energy,Utilities,"Essen, Germany","59,762",http://www.rwe.com,22,RWE,2016
+175,Joseph Jimenez,Health Care,Pharmaceuticals,"Basel, Switzerland","118,700",http://www.novartis.com,22,Novartis,2016
+176,Brad Banducci,Food & Drug Stores,Food and Drug Stores,"Bella Vista, Australia","197,000",http://www.woolworthslimited.com.au,20,Woolworths,2016
+177,Naomi Hirose,Energy,Utilities,"Tokyo, Japan","42,855",http://www.tepco.co.jp,22,Tokyo Electric Power,2016
+178,Carlos Ghosn,Motor Vehicles & Parts,Motor Vehicles and Parts,"Boulogne-Billancourt, France","120,136",http://www.groupe.renault.com,22,Renault,2016
+179,Ryuichi Isaka,Food & Drug Stores,Food and Drug Stores,"Tokyo, Japan","53,993",http://www.7andi.com,11,Seven & I Holdings,2016
+180,Do-Hyun Jung,Technology,"Electronics, Electrical Equip.","Seoul, South Korea","77,000",http://www.lg.com,16,LG Electronics,2016
+181,James E. Staley,Financials,Banks: Commercial and Savings,"London, Britain","129,400",http://www.barclays.com,22,Barclays,2016
+182,Frédéric Lavenir,Financials,"Insurance: Life, Health (stock)","Paris, France","4,740",http://www.cnp.fr,22,CNP Assurances,2016
+183,Charles H. Robbins,Technology,Network and Other Communications Equipment,"San Jose, CA","71,833",http://www.cisco.com,17,Cisco Systems,2016
+184,Heinrich Hiesinger,Materials,Metals,"Essen, Germany","154,906",http://www.thyssenkrupp.com,22,ThyssenKrupp,2016
+185,Wesley Mendonça Batista,"Food, Beverages & Tobacco",Food Production,"São Paulo, Brazil","238,020",http://jbss.infoinvest.com.br,7,JBS,2016
+186,Ian C. Read,Health Care,Pharmaceuticals,"New York, NY","97,900",http://www.pfizer.com,22,Pfizer,2016
+187,Andrew N. Liveris,Chemicals,Chemicals,"Midland, MI","49,495",http://www.dow.com,22,Dow Chemical,2016
+188,William J. DeLaney III,Wholesalers,Wholesalers: Food and Grocery,"Houston, TX","51,700",http://www.sysco.com,22,Sysco,2016
+189,Tian Huiyu,Financials,Banks: Commercial and Savings,"Shenzhen, China","76,192",http://www.cmbchina.com,5,China Merchants Bank,2016
+190,Wang Wenyin,Industrials,"Electronics, Electrical Equip.","Shenzhen, China","17,683",http://www.amer.com.cn,4,Amer International Group,2016
+191,Nobuyuki Hirano,Financials,Banks: Commercial and Savings,"Tokyo, Japan","110,936",http://www.mufg.jp,15,Mitsubishi UFJ Financial Group,2016
+192,Frederick W. Smith,Transportation,"Mail, Package, and Freight Delivery","Memphis, TN","323,035",http://www.fedex.com,22,FedEx,2016
+193,António Horta-Osório,Financials,Banks: Commercial and Savings,"London, Britain","75,306",http://www.lloydsbankinggroup.com,22,Lloyds Banking Group,2016
+194,D. James Umpleby III,Industrials,Construction and Farm Machinery,"Peoria, IL","112,200",http://www.caterpillar.com,22,Caterpillar,2016
+195,Tao Yiping,Financials,Banks: Commercial and Savings,"Fuzhou, China","52,016",http://www.cib.com.cn,4,Industrial Bank,2016
+196,Pierre-André de Chalendar,Materials,"Building Materials, Glass","Courbevoie, France","168,114",http://www.saint-gobain.com,22,Saint-Gobain,2016
+197,Marillyn A. Hewson,Aerospace & Defense,Aerospace and Defense,"Bethesda, MD","126,000",http://www.lockheedmartin.com,22,Lockheed Martin,2016
+198,Theodore A. Mathas,Financials,"Insurance: Life, Health (Mutual)","New York, NY","11,463",http://www.newyorklife.com,22,New York Life Insurance,2016
+199,Herman O. Gref,Financials,Banks: Commercial and Savings,"Moscow, Russia","330,677",http://www.sberbank.ru,9,Sberbank,2016
+200,Yan Zhiyong,Engineering & Construction,"Engineering, Construction","Beijing, China","196,368",http://www.powerchina.cn,5,PowerChina,2016
+201,Yu Yong,Materials,Metals,"Shijiazhuang, China","128,798",http://www.hbisco.com,8,HeSteel Group,2016
+202,Yang Yuanqing,Technology,"Computers, Office Equipment","Hong Kong, China","60,000",http://www.lenovo.com,7,Lenovo Group,2016
+203,Rudiger Grube,Transportation,Railroads,"Berlin, Germany","297,202",http://www.deutschebahn.com,22,Deutsche Bahn,2016
+204,Stéphane Richard,Telecommunications,Telecommunications,"Paris, France","156,191",http://www.orange.com,22,Orange,2016
+205,She Lulin,Health Care,Pharmaceuticals,"Beijing, China","104,464",http://www.sinopharm.com,4,Sinopharm,2016
+206,Muhtar Kent,"Food, Beverages & Tobacco",Beverages,"Atlanta, GA","123,200",http://www.coca-colacompany.com,22,Coca-Cola,2016
+207,Wang Xiaochu,Telecommunications,Telecommunications,"Shanghai, China","231,299",http://www.chinaunicom-a.com,8,China United Network Communications,2016
+208,Hyoung-Keun Lee,Motor Vehicles & Parts,Motor Vehicles and Parts,"Seoul, South Korea","50,348",http://www.kia.com,5,Kia Motors,2016
+209,Luiz Carlos Trabuco Cappi,Financials,Banks: Commercial and Savings,"Osasco, Brazil","79,782",http://www.bradesco.com.br,20,Banco Bradesco,2016
+210,Xavier Huillard,Engineering & Construction,"Engineering, Construction","Rueil-Malmaison, France","185,452",http://www.vinci.com,16,Vinci,2016
+211,Carlos Brito,"Food, Beverages & Tobacco",Beverages,"Leuven, Belgium","152,321",http://www.ab-inbev.com,11,Anheuser-Busch InBev,2016
+212,R. Milton Johnson,Health Care,Health Care: Medical Facilities,"Nashville, TN","203,500",http://www.hcahealthcare.com,22,HCA Holdings,2016
+213,Elmar Degenhart,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hanover, Germany","207,899",http://www.continental-corporation.com,14,Continental,2016
+214,Soren W. Schroder,"Food, Beverages & Tobacco",Food Production,"White Plains, NY","33,000",http://www.bunge.com,14,Bunge,2016
+215,Mukesh D. Ambani,Energy,Petroleum Refining,"Mumbai, India","24,930",http://www.ril.com,13,Reliance Industries,2016
+216,Alistair Phillips-Davies,Energy,Utilities,"Perth, Britain","21,118",http://www.sse.com,11,SSE,2016
+217,Cao Peixi,Energy,Energy,"Beijing, China","142,910",http://www.chng.com.cn,8,China Huaneng Group,2016
+218,Alain Monié,Wholesalers,Wholesalers: Electronics and Office Equipment,"Irvine, CA","27,700",http://www.ingrammicro.com,20,Ingram Micro,2016
+219,Carlos Torres Vila,Financials,Banks: Commercial and Savings,"Bilbao, Spain","137,968",http://www.bbva.com,22,Banco Bilbao Vizcaya Argentaria,2016
+220,Iain Conn,Energy,Utilities,"Windsor, Britain","38,848",http://www.centrica.com,19,Centrica,2016
+221,Zheng Wanchun,Financials,Banks: Commercial and Savings,"Beijing, China","59,510",http://www.cmbc.com.cn%20,4,China Minsheng Banking,2016
+222,Dick Boer,Food & Drug Stores,Food and Drug Stores,"Zaandam, Netherlands","129,000",http://www.ahold.com,22,Royal Ahold,2016
+223,Masahiro Okafuji,Wholesalers,Trading,"Osaka, Japan","120,413",http://www.itochu.co.jp,22,Itochu,2016
+224,Carlo Messina,Financials,Banks: Commercial and Savings,"Turin, Italy","90,807",http://www.group.intesasanpaolo.com,18,Intesa Sanpaolo,2016
+225,John W. McReynolds,Energy,Pipelines,"Dallas, TX","30,078",http://www.energytransfer.com,3,Energy Transfer Equity,2016
+226,Guenter Butschek,Motor Vehicles & Parts,Motor Vehicles and Parts,"Mumbai, India","76,500",http://www.tatamotors.com,7,Tata Motors,2016
+227,Ji Xiaohui,Financials,Banks: Commercial and Savings,"Shanghai, China","48,427",http://www.spdb.com.cn,4,Shanghai Pudong Development Bank,2016
+228,Sidney Toledano,Apparel,Apparel,"Paris, France","113,208",http://www.dior-finance.com,16,Christian Dior,2016
+229,Chan Chauto,Energy,Energy,"Shanghai, China","23,055",http://www.cefc.co,3,CEFC China Energy,2016
+230,Dwi Soetjipto,Energy,Petroleum Refining,"Jakarta, Indonesia","27,971",http://www.pertamina.com,4,Pertamina,2016
+231,Yasuyoshi Karasawa,Financials,Insurance: Property and Casualty (Stock),"Tokyo, Japan","40,617",http://www.ms-ad-hd.com,18,MS&AD Insurance Group Holdings,2016
+232,Arundhati Bhattacharya,Financials,Banks: Commercial and Savings,"Mumbai, India","293,459",http://www.sbi.co.in,11,State Bank of India,2016
+233,Olivier Brandicourt,Health Care,Pharmaceuticals,"Paris, France","115,631",http://www.sanofi.com,12,Sanofi,2016
+234,Ren Jianxin,Chemicals,Chemicals,"Beijing, China","129,836",http://www.chemchina.com,6,ChemChina,2016
+235,Thomas P. Hayes,"Food, Beverages & Tobacco",Food Production,"Springdale, AR","113,000",http://www.tysonfoods.com,15,Tyson Foods,2016
+236,W. Douglas Parker,Transportation,Airlines,"Fort Worth, TX","118,500",http://www.aa.com,22,American Airlines Group,2016
+237,Kil-Seon Choi,Industrials,Industrial Machinery,"Ulsan, South Korea","35,195",http://www.hyundaiheavy.com,10,Hyundai Heavy Industries,2016
+238,Kosei Shindo,Materials,Metals,"Tokyo, Japan","92,504",http://www.nssmc.com,22,Nippon Steel & Sumitomo Metal,2016
+239,Edward H. Bastian,Transportation,Airlines,"Atlanta, GA","82,949",http://www.delta.com,22,Delta Air Lines,2016
+240,Soren Skou,Transportation,Shipping,"Copenhagen, Denmark","88,355",http://www.maersk.com,13,Maersk Group,2016
+241,Stephen S. Rasmussen,Financials,Insurance: Property and Casualty (Mutual),"Columbus, OH","34,032",http://www.nationwide.com,22,Nationwide,2016
+242,Alex A. Molinaroli,Motor Vehicles & Parts,Motor Vehicles and Parts,"Milwaukee, WI","139,000",http://www.johnsoncontrols.com,20,Johnson Controls,2016
+243,Koichi Miyata,Financials,Banks: Commercial and Savings,"Tokyo, Japan","73,652",http://www.smfg.co.jp,22,Sumitomo Mitsui Financial Group,2016
+244,Hubert B. Joly,Retailing,Specialty Retailers,"Richfield, MN","125,000",http://www.bestbuy.com,18,Best Buy,2016
+245,Tatsuo Yasunaga,Wholesalers,Trading,"Tokyo, Japan","43,611",http://www.mitsui.com,22,Mitsui,2016
+246,Kenneth C. Frazier,Health Care,Pharmaceuticals,"Kenilworth, NJ","68,000",http://www.merck.com,22,Merck,2016
+247,Yousef Abdullah Al-Benyan,Chemicals,Chemicals,"Riyadh, Saudi Arabia","40,000",http://www.sabic.com,12,SABIC,2016
+248,Tatsuya Tanaka,Technology,Information Technology Services,"Tokyo, Japan","156,515",http://www.fujitsu.com,22,Fujitsu,2016
+249,David H. Long,Financials,Insurance: Property and Casualty (Stock),"Boston, MA","50,000",http://www.libertymutual.com,22,Liberty Mutual Insurance Group,2016
+250,Josu Jon Imaz San Miguel,Energy,Petroleum Refining,"Madrid, Spain","25,917",http://www.repsol.com,22,Repsol,2016
+251,"Huo, Lianhong",Financials,"Insurance: Life, Health (stock)","Shanghai, China","91,761",http://www.cpic.com.cn,6,China Pacific Insurance (Group),2016
+252,Lloyd C. Blankfein,Financials,Banks: Commercial and Savings,"New York, NY","36,800",http://www.gs.com,17,Goldman Sachs Group,2016
+253,Alexander R. Wynaendts,Financials,"Insurance: Life, Health (stock)","The Hague, Netherlands","31,530",http://www.aegon.com,21,Aegon,2016
+254,Kuok Khoon Hong,"Food, Beverages & Tobacco",Food Production,"Singapore, Singapore","92,000",http://www.wilmar-international.com,8,Wilmar International,2016
+255,Florentino Pérez Rodríguez,Engineering & Construction,"Engineering, Construction","Madrid, Spain","127,362",http://www.grupoacs.com,12,ACS,2016
+256,David M. Cote,Industrials,"Electronics, Electrical Equip.","Morris Plains, NJ","129,000",http://www.honeywell.com,22,Honeywell International,2016
+257,Sergio P. Ermotti,Financials,Banks: Commercial and Savings,"Zurich, Switzerland","60,099",http://www.ubs.com,22,UBS Group,2016
+258,Roger W. Crandall,Financials,"Insurance: Life, Health (Mutual)","Springfield, MA","11,593",http://www.massmutual.com,20,Massachusetts Mutual Life Insurance,2016
+259,Jian-Jong Cheng,Technology,"Computers, Office Equipment","Taipei, Taiwan","196,251",http://www.pegatroncorp.com,4,Pegatron,2016
+260,Safra A. Catz,Technology,Computer Software,"Redwood City, CA","132,000",http://www.oracle.com,10,Oracle,2016
+261,Tsuyoshi Nagano,Financials,Insurance: Property and Casualty (Stock),"Tokyo, Japan","36,902",http://www.tokiomarinehd.com,22,Tokio Marine Holdings,2016
+262,Yu Dehui,Materials,Metals,"Beijing, China","133,799",http://www.chalco.com.cn,9,Aluminum Corp. of China,2016
+263,James P. Gorman,Financials,Banks: Commercial and Savings,"New York, NY","56,218",http://www.morganstanley.com,19,Morgan Stanley,2016
+264,David M. Cordani,Health Care,Health Care: Insurance and Managed Care,"Bloomfield, CT","39,300",http://www.cigna.com,21,Cigna,2016
+265,Oscar Munoz,Transportation,Airlines,"Chicago, IL","84,000",http://www.unitedcontinentalholdings.com,21,United Continental Holdings,2016
+266,Cui Dianguo,Industrials,Industrial Machinery,"Beijing, China","186,963",http://www.crrcgc.cc,1,CRRC,2016
+267,Yang GuoZhan,Energy,"Mining, Crude-Oil Production","Xingtai, China","128,372",http://www.jznyjt.com,6,Jizhong Energy Group,2016
+268,Koji Arima,Motor Vehicles & Parts,Motor Vehicles and Parts,"Kariya, Japan","151,775",http://www.globaldenso.com,22,Denso,2016
+269,Ian M. Narev,Financials,Banks: Commercial and Savings,"Sydney, Australia","45,948",http://www.commbank.com.au,12,Commonwealth Bank of Australia,2016
+270,Ling Wen,Energy,"Mining, Crude-Oil Production","Beijing, China","208,432",http://www.shenhuagroup.com.cn,7,Shenhua Group,2016
+271,Takashi Tanaka,Telecommunications,Telecommunications,"Tokyo, Japan","31,834",http://www.kddi.com,19,KDDI,2016
+272,Martin Lundstedt,Motor Vehicles & Parts,Motor Vehicles and Parts,"Göteborg, Sweden","93,983",http://www.volvogroup.com,22,Volvo,2016
+273,Ben Keswick,Retailing,Specialty Retailers,"Hong Kong, China","440,000",http://www.jardines.com,17,Jardine Matheson,2016
+274,Paviter S. Binning,Food & Drug Stores,Food and Drug Stores,"Toronto, Ontario, Canada","196,000",http://www.weston.ca,22,George Weston,2016
+275,Xu Lejiang,Materials,Metals,"Shanghai, China","124,310",http://www.baosteel.com,13,Baosteel Group,2016
+276,Masaki Sakuyama,Industrials,"Electronics, Electrical Equip.","Tokyo, Japan","135,160",http://www.mitsubishielectric.com,22,Mitsubishi Electric,2016
+277,Jae Hong Park,Financials,"Insurance: Life, Health (stock)","Seoul, South Korea","46,000",http://www.hanwhacorp.co.kr,11,Hanwha,2016
+278,Andrew Witty,Health Care,Pharmaceuticals,"Brentford, Britain","101,255",http://www.gsk.com,22,GlaxoSmithKline,2016
+279,Mark Wilson,Financials,"Insurance: Life, Health (stock)","London, Britain","29,639",http://www.aviva.com,22,Aviva,2016
+280,Martin Bouygues,Engineering & Construction,"Engineering, Construction","Paris, France","120,254",http://www.bouygues.com,22,Bouygues,2016
+281,Hu Wenming,Industrials,Industrial Machinery,"Beijing, China","181,781",http://www.csic.com.cn,6,China Shipbuilding Industry,2016
+282,Christian Mumenthaler,Financials,Insurance: Property and Casualty (Stock),"Zurich, Switzerland","12,767",http://www.swissre.com,22,Swiss Re,2016
+283,Thomas J. Wilson,Financials,Insurance: Property and Casualty (Stock),"Northbrook, IL","41,350",http://www.allstate.com,21,Allstate,2016
+284,Akio Negishi,Financials,"Insurance: Life, Health (Mutual)","Tokyo, Japan","41,045",http://www.meijiyasuda.co.jp,22,Meiji Yasuda Life Insurance,2016
+285,Carsten Spohr,Transportation,Airlines,"Cologne, Germany","103,158",http://www.lufthansagroup.com,22,Lufthansa Group,2016
+286,Ulrich Spiesshofer,Industrials,Industrial Machinery,"Zurich, Switzerland","135,800",http://www.abb.com,22,ABB,2016
+287,Paal Kibsgaard,Energy,"Oil and Gas Equipment, Services","Houston, TX","95,000",http://www.slb.com,16,Schlumberger,2016
+288,Michael Coupe,Food & Drug Stores,Food and Drug Stores,"London, Britain","108,300",http://www.j-sainsbury.co.uk,22,J. Sainsbury,2016
+289,Herbert K. Haas,Financials,Insurance: Property and Casualty (Stock),"Hanover, Germany","20,334",http://www.talanx.com,3,Talanx,2016
+290,Guo Wenqing,Engineering & Construction,"Engineering, Construction","Beijing, China","136,104",http://www.mcc.com.cn,9,China Metallurgical Group,2016
+291,Roger W. Ferguson Jr.,Financials,"Insurance: Life, Health (Mutual)","New York, NY","12,735",http://www.tiaa.org,19,TIAA,2016
+292,Tidjane Thiam,Financials,Banks: Commercial and Savings,"Zurich, Switzerland","48,200",http://www.credit-suisse.com,22,Credit Suisse Group,2016
+293,Ren Hongbin,Industrials,Industrial Machinery,"Beijing, China","116,722",http://www.sinomach.com.cn,6,Sinomach,2016
+294,Tae Won Chey,Energy,Petroleum Refining,"Seoul, South Korea","83,000",http://www.sk.co.kr,1,SK Holdings,2016
+295,José Ignacio Sánchez Galán,Energy,Utilities,"Bilbao, Spain","27,169",http://www.iberdrola.com,12,Iberdrola,2016
+296,Jean-Sébastien Jacques,Energy,"Mining, Crude-Oil Production","London, Britain","54,938",http://www.riotinto.com,11,Rio Tinto Group,2016
+297,David I. McKay,Financials,Banks: Commercial and Savings,"Toronto, Ontario, Canada","72,839",http://www.rbc.com,22,Royal Bank of Canada,2016
+298,"""Sean M. O'Connor""",Financials,Diversified Financials,"New York, NY","1,231",http://www.intlfcstone.com,7,INTL FCStone,2016
+299,Carl M. Casale,"Food, Beverages & Tobacco",Food Production,"Inver Grove Heights, MN","12,511",http://www.chsinc.com,9,CHS,2016
+300,Jean Pierre Mustier,Financials,Banks: Commercial and Savings,"Milan, Italy","125,510",http://www.unicreditgroup.eu,21,UniCredit Group,2016
+301,Brian P. Hannasch,Retailing,Specialty Retailers,"Laval, Quebec, Canada","80,000",http://www.couche-tard.com,3,Alimentation Couche-Tard,2016
+302,Kenneth I. Chenault,Financials,Diversified Financials,"New York, NY","54,800",http://www.americanexpress.com,22,American Express,2016
+303,Zeng Qinghong,Motor Vehicles & Parts,Motor Vehicles and Parts,"Guangzhou, China","67,426",http://www.gaig.com.cn,4,Guangzhou Automobile Industry Group,2016
+304,Andrew Thorburn,Financials,Banks: Commercial and Savings,"Docklands, Australia","41,826",http://www.nab.com.au,21,National Australia Bank,2016
+305,Francesco Caio,Financials,"Insurance: Life, Health (stock)","Rome, Italy","142,798",http://www.poste.it,11,Poste Italiane,2016
+306,Donald J. Walker,Motor Vehicles & Parts,Motor Vehicles and Parts,"Aurora, Ontario, Canada","128,975",http://www.magna.com,16,Magna International,2016
+307,Shunichi Miyanaga,Industrials,Industrial Machinery,"Tokyo, Japan","83,932",http://www.mhi-global.com,22,Mitsubishi Heavy Industries,2016
+308,Kuniharu Nakamura,Wholesalers,Trading,"Tokyo, Japan","66,860",http://www.sumitomocorp.co.jp,22,Sumitomo,2016
+309,Wang Jianping,Engineering & Construction,"Engineering, Construction","Beijing, China","169,823",http://www.ceec.net.cn,3,China Energy Engineering Group,2016
+310,Young-Deuk Lim,Motor Vehicles & Parts,Motor Vehicles and Parts,"Seoul, South Korea","25,216",http://www.mobis.co.kr,5,Hyundai Mobis,2016
+311,Zhang Yuliang,Financials,Real estate,"Shanghai, China","25,621",http://www.ldjt.com.cn,5,Greenland Holding Group,2016
+312,Pierre Nanterme,Technology,Information Technology Services,"Dublin, Ireland","358,000",http://www.accenture.com,15,Accenture,2016
+313,Tang Shuangning,Financials,Banks: Commercial and Savings,"Beijing, China","59,500",http://www.ebchina.com,2,China Everbright Group,2016
+314,Shen Wenrong,Materials,Metals,"Zhangjiagang, China","36,710",http://www.shasteel.cn,8,Jiangsu Shagang Group,2016
+315,Bhavesh V. Patel,Chemicals,Chemicals,"Rotterdam, Netherlands","13,000",http://www.lyb.com,9,LyondellBasell Industries,2016
+316,John F. Milligan,Health Care,Pharmaceuticals,"Foster City, CA","8,000",http://www.gilead.com,2,Gilead Sciences,2016
+317,Todd Jones,Food & Drug Stores,Food and Drug Stores,"Lakeland, FL","180,000",http://www.publix.com,22,Publix Super Markets,2016
+318,Liu Mingzhong,Materials,Metals,"Beijing, China","64,487",http://english.xxcig.com,5,Xinxing Cathay International Group,2016
+319,Guillaume Pepy,Transportation,Railroads,"St. Denis, France","196,152",http://www.sncf.com,22,SNCF Mobilités,2016
+320,Stefan Sommer,Motor Vehicles & Parts,Motor Vehicles and Parts,"Friedrichshafen, Germany","138,269",http://www.zf.com,3,ZF Friedrichshafen,2016
+321,Markus Mosa,Wholesalers,Wholesalers: Food and Grocery,"Hamburg, Germany","346,800",http://www.edeka-verbund.de,18,Edeka Zentrale,2016
+322,Zhang Youxi,Energy,"Mining, Crude-Oil Production","Datong, China","164,365",http://www.datongcoalmine.com,4,Datong Coal Mine Group,2016
+323,He Wenbo,Materials,Metals,"Beijing, China","90,653",http://www.minmetals.com,10,China Minmetals,2016
+324,Hitoshi Ochi,Chemicals,Chemicals,"Tokyo, Japan","68,988",http://www.mitsubishichem-hd.co.jp,22,Mitsubishi Chemical Holdings,2016
+325,He Jiuchang,Energy,"Mining, Crude-Oil Production","""Xi'an, China""","135,225",http://www.sxycpc.com,4,Shaanxi Yanchang Petroleum (Group),2016
+326,Barry Lam,Technology,"Computers, Office Equipment","Taoyuan, Taiwan","90,167",http://www.quantatw.com,11,Quanta Computer,2016
+327,Song Zhiping,Materials,"Building Materials, Glass","Beijing, China","171,690",http://www.cnbm.com.cn,6,China National Building Materials Group,2016
+328,Li Baomin,Energy,"Mining, Crude-Oil Production","Guixi, China","26,258",http://www.jxcc.com,4,Jiangxi Copper,2016
+329,Rui Xiaowu,Technology,"Electronics, Electrical Equip.","Beijing, China","127,875",http://www.cec.com.cn,6,China Electronics,2016
+330,Phebe N. Novakovic,Aerospace & Defense,Aerospace and Defense,"Falls Church, VA","99,900",http://www.generaldynamics.com,16,General Dynamics,2016
+331,Li Qingkui,Energy,Utilities,"Beijing, China","109,431",http://www.chd.com.cn,5,China Huadian,2016
+332,Masaya Maeda,Technology,"Computers, Office Equipment","Tokyo, Japan","189,571",http://www.canon.com,22,Canon,2016
+333,Masaaki Tsuya,Motor Vehicles & Parts,Motor Vehicles and Parts,"Tokyo, Japan","144,303",http://www.bridgestone.com,22,Bridgestone,2016
+334,Wolfgang Kirsch,Financials,Banks: Commercial and Savings,"Frankfurt, Germany","28,213",http://www.dzbank.com,22,DZ Bank,2016
+335,Masahiro Hashimoto,Financials,"Insurance: Life, Health (Mutual)","Osaka, Japan","42,115",http://www.sumitomolife.co.jp,22,Sumitomo Life Insurance,2016
+336,Brian C. Hartzer,Financials,Banks: Commercial and Savings,"Sydney, Australia","35,241",http://www.westpac.com.au,12,Westpac Banking,2016
+337,Wu Huatai,Energy,"Mining, Crude-Oil Production","Taiyuan, China","218,602",http://www.sxcc.com.cn,4,Shanxi Coking Coal Group,2016
+338,Ernie L. Herrman,Retailing,Specialty Retailers,"Framingham, MA","216,000",http://www.tjx.com,15,TJX,2016
+339,Ryan M. Lance,Energy,"Mining, Crude-Oil Production","Houston, TX","15,900",http://www.conocophillips.com,22,ConocoPhillips,2016
+340,John T. Standley,Food & Drug Stores,Food and Drug Stores,"Camp Hill, PA","70,580",http://www.riteaid.com,18,Rite Aid,2016
+341,Stephan Sturm,Health Care,Health Care: Medical Facilities,"Bad Homburg, Germany","222,305",http://www.fresenius.com,7,Fresenius,2016
+342,Wang Binghua,Energy,Energy,"Beijing, China","126,878",http://www.spic.com.cn,5,State Power Investment,2016
+343,Mark G. Parker,Apparel,Apparel,"Beaverton, OR","62,600",http://www.nike.com,10,Nike,2016
+344,Lei Fanpei,Aerospace & Defense,Aerospace and Defense,"Beijing, China","161,022",http://www.spacechina.com,2,China Aerospace Science & Technology,2016
+345,Qiao Baoping,Energy,Energy,"Beijing, China","126,502",http://www.cgdc.com.cn,7,China Guodian,2016
+346,Michael J. Kasbar,Wholesalers,Wholesalers: Diversified,"Miami, FL","4,700",http://www.wfscorp.com,5,World Fuel Services,2016
+347,Yang Zhaoqian,Energy,"Mining, Crude-Oil Production","""Xi'an, China""","132,007",http://www.shccig.com,2,Shaanxi Coal & Chemical Industry,2016
+348,Inge G. Thulin,Industrials,Miscellaneous,"St. Paul, MN","89,446",http://www.3m.com,22,3M,2016
+349,Wu Qiang,Industrials,Industrial Machinery,"Beijing, China","71,257",http://www.cssc.net.cn,1,China State Shipbuilding,2016
+350,Bharat B. Masrani,Financials,Banks: Commercial and Savings,"Toronto, Ontario, Canada","81,483",http://www.td.com,17,Toronto-Dominion Bank,2016
+351,Paul Desmarais Jr.,Financials,"Insurance: Life, Health (stock)","Montreal, Quebec, Canada","26,500",http://www.powercorporation.com,18,Power Corp. of Canada,2016
+352,Irene B. Rosenfeld,"Food, Beverages & Tobacco",Food Consumer Products,"Deerfield, IL","99,000",http://www.mondelezinternational.com,9,Mondelez International,2016
+353,Tan Xiangdong,Transportation,Airlines,"Haikou City, China","175,600",http://www.hnagroup.com,2,HNA Group,2016
+354,Jean-Pascal Tricoire,Industrials,"Electronics, Electrical Equip.","Rueil-Malmaison, France","160,843",http://www.schneider-electric.com,15,Schneider Electric,2016
+355,Christopher M. Crane,Energy,Utilities,"Chicago, IL","29,762",http://www.exeloncorp.com,13,Exelon,2016
+356,Yu Liang,Financials,Real estate,"Shenzhen, China","42,295",http://www.vanke.com,1,China Vanke,2016
+357,Jan Frykhammar,Technology,Network and Other Communications Equipment,"Stockholm, Sweden","116,988",http://www.ericsson.com,22,LM Ericsson,2016
+358,S. Varadarajan,Energy,Petroleum Refining,"Mumbai, India","13,535",http://www.bharatpetroleum.in,13,Bharat Petroleum,2016
+359,Wang Tingge,Wholesalers,Trading,"Hangzhou, China","18,218",http://www.wuchanzhongda.cn,6,Wuchan Zhongda Group,2016
+360,James R. Murdoch,Media,Entertainment,"New York, NY","20,500",http://www.21cf.com,22,Twenty-First Century Fox,2016
+361,Ross McEwan,Financials,Banks: Commercial and Savings,"Edinburgh, Britain","93,659",http://www.rbs.com,18,Royal Bank of Scotland Group,2016
+362,Shayne Elliott,Financials,Banks: Commercial and Savings,"Docklands, Australia","50,152",http://www.anz.com,13,Australia & New Zealand Banking Group,2016
+363,Jean-Marc Janaillac,Transportation,Airlines,"Paris, France","93,300",http://www.airfranceklm.com,20,Air France-KLM Group,2016
+364,Samuel R. Allen,Industrials,Construction and Farm Machinery,"Moline, IL","57,180",http://www.johndeere.com,22,Deere,2016
+365,Rafael Villaseca Marco,Energy,Energy,"Barcelona, Spain","19,939",http://www.gasnaturalfenosa.com,8,Gas Natural Fenosa,2016
+366,Richard Qiangdong Liu,Technology,Internet Services and Retailing,"Beijing, China","105,963",http://www.jd.com,1,JD.com,2016
+367,Mukesh Kumar Surana,Energy,Petroleum Refining,"Mumbai, India","10,538",http://www.hindustanpetroleum.com,13,Hindustan Petroleum,2016
+368,Frans A. van Houten,Industrials,"Electronics, Electrical Equip.","Amsterdam, Netherlands","112,959",http://www.philips.com,22,Royal Philips,2016
+369,Gavin E. Patterson,Telecommunications,Telecommunications,"London, Britain","102,500",http://www.bt.com,22,BT Group,2016
+370,Li Jinping,Energy,"Mining, Crude-Oil Production","Changzhi, China","99,739",http://www.chinaluan.com,4,Shanxi LuAn Mining Group,2016
+371,Eiji Hayashida,Materials,Metals,"Tokyo, Japan","59,460",http://www.jfe-holdings.co.jp,14,JFE Holdings,2016
+372,Herbert Bolliger,Food & Drug Stores,Food and Drug Stores,"Zurich, Switzerland","76,183",http://www.migros.ch,22,Migros Group,2016
+373,Masamichi Kogai,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hiroshima, Japan","46,398",http://www.mazda.com,22,Mazda Motor,2016
+374,Zhai Hong,Energy,"Mining, Crude-Oil Production","Yangquan, China","155,306",http://www.ymjt.com.cn%20,4,Yangquan Coal Industry Group,2016
+375,Gregory J. Goff,Energy,Petroleum Refining,"San Antonio, TX","6,016",http://www.tsocorp.com,10,Tesoro,2016
+376,Jeffrey L. Bewkes,Media,Entertainment,"New York, NY","24,800",http://www.timewarner.com,15,Time Warner,2016
+377,John E. Schlifske,Financials,"Insurance: Life, Health (Mutual)","Milwaukee, WI","5,530",http://www.northwesternmutual.com,22,Northwestern Mutual,2016
+378,Jean-Paul Agon,Household Products,Household and Personal Products,"Clichy, France","82,881",http://www.loreal.com,22,L’Oréal,2016
+379,Edward D. Breen,Chemicals,Chemicals,"Wilmington, DE","52,000",http://www.dupont.com,22,DuPont,2016
+380,William J. Amelio,Wholesalers,Wholesalers: Electronics and Office Equipment,"Phoenix, AZ","18,800",http://www.avnet.com,6,Avnet,2016
+381,Gao Hongwei,Aerospace & Defense,Aerospace and Defense,"Beijing, China","142,709",http://www.casic.com.cn,1,China Aerospace Science & Industry,2016
+382,Antoine Frérot,Energy,Utilities,"Paris, France","158,780",http://www.veolia.com,14,Veolia Environnement,2016
+383,He Tongxin,Engineering & Construction,"Engineering, Construction","Beijing, China","39,829",http://www.genertec.com.cn,3,China General Technology,2016
+384,He Tiancai,Energy,"Mining, Crude-Oil Production","Jincheng, China","145,890",http://www.jamg.cn,4,Shanxi Jincheng Anthracite Coal Mining Group,2016
+385,Wang Jianlin,Financials,Real estate,"Beijing, China","128,518",http://www.wanda-group.com,1,Dalian Wanda Group,2016
+386,Zhang Keli,Energy,"Mining, Crude-Oil Production","Beijing, China","51,263",http://www.cnmc.com.cn,4,China Nonferrous Metal Mining (Group),2016
+387,Richard J. Cousins,"Hotels, Resturants & Leisure",Food Services,"Chertsey, Britain","515,864",http://www.compass-group.com,15,Compass Group,2016
+388,Kengo Sakurada,Financials,Insurance: Property and Casualty (Stock),"Tokyo, Japan","45,326",http://www.sompo-hd.com,20,Sompo Japan Nipponkoa Holdings,2016
+389,Terry J. Lundgren,Retailing,General Merchandisers,"Cincinnati, OH","157,500",http://www.macysinc.com,22,Macy’s,2016
+390,Frans W.H. Muller,Food & Drug Stores,Food and Drug Stores,"Brussels, Belgium","116,646",http://www.delhaizegroup.com,22,Delhaize Group,2016
+391,Shigeki Iwane,Energy,Utilities,"Osaka, Japan","33,089",http://www.kepco.co.jp,22,Kansai Electric Power,2016
+392,A. J. Teague,Energy,Pipelines,"Houston, TX","6,800",http://www.enterpriseproducts.com,6,Enterprise Products Partners,2016
+393,Yasumori Ihara,Motor Vehicles & Parts,Motor Vehicles and Parts,"Kariya, Japan","99,389",http://www.aisin.com,15,Aisin Seiki,2016
+394,Donald A. Guloien,Financials,"Insurance: Life, Health (stock)","Toronto, Ontario, Canada","33,500",http://www.manulife.com,14,Manulife Financial,2016
+395,Yasuyuki Yoshinaga,Motor Vehicles & Parts,Motor Vehicles and Parts,"Tokyo, Japan","34,735",http://www.fhi.co.jp,14,Fuji Heavy Industries,2016
+396,Joos Sutter,Food & Drug Stores,Food and Drug Stores,"Basel, Switzerland","67,877",http://www.coop.ch,7,Coop Group,2016
+397,Alan D. Schnitzer,Financials,Insurance: Property and Casualty (Stock),"New York, NY","30,900",http://www.travelers.com,13,Travelers Cos.,2016
+398,André Calantzopoulos,"Food, Beverages & Tobacco",Miscellaneous,"New York, NY","80,200",http://www.pmi.com,8,Philip Morris International,2016
+399,Yasuhiro Sato,Financials,Banks: Commercial and Savings,"Tokyo, Japan","56,375",http://www.mizuho-fg.co.jp,16,Mizuho Financial Group,2016
+400,Jui-Tsung Chen,Technology,"Computers, Office Equipment","Taipei, Taiwan","72,796",http://www.compal.com,5,Compal Electronics,2016
+401,Zhang Zhengao,Financials,Real estate,"Beijing, China","70,437",http://www.poly.com.cn,2,China Poly Group,2016
+402,Takeo Higuchi,Engineering & Construction,"Engineering, Construction","Osaka, Japan","47,143",http://www.daiwahouse.co.jp,12,Daiwa House Industry,2016
+403,Mark Liu,Technology,Semiconductors and Other Electronic Components,"Hsinchu, Taiwan","45,272",http://www.tsmc.com,2,Taiwan Semiconductor Manufacturing,2016
+404,Flavio Cattaneo,Telecommunications,Telecommunications,"Milan, Italy","82,094",http://www.telecomitalia.com,17,Telecom Italia,2016
+405,Toshihiro Suzuki,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hamamatsu, Japan","61,601",http://www.globalsuzuki.com,22,Suzuki Motor,2016
+406,Chen Jinhang,Energy,Energy,"Beijing, China","96,204",http://www.china-cdt.com,7,China Datang,2016
+407,Al Monaco,Energy,Pipelines,"Calgary, Alberta, Canada","8,652",http://www.enbridge.com,3,Enbridge,2016
+408,Xiong Qun Li,Aerospace & Defense,Aerospace and Defense,"Beijing, China","140,493",http://www.cetc.com.cn,1,China Electronics Technology Group,2016
+409,Robert M. Dutkowsky,Wholesalers,Wholesalers: Electronics and Office Equipment,"Clearwater, FL","9,000",http://www.techdata.com,18,Tech Data,2016
+410,Li Shufu,Motor Vehicles & Parts,Motor Vehicles and Parts,"Hangzhou, China","45,720",http://www.geely.com,5,Zhejiang Geely Holding Group,2016
+411,Albert Manifold,Materials,"Building Materials, Glass","Dublin, Ireland","78,106",http://www.crh.com,13,CRH,2016
+412,Takashi Tsukioka,Energy,Petroleum Refining,"Tokyo, Japan","9,203",http://www.idemitsu.com,22,Idemitsu Kosan,2016
+413,Willem A.J. van Duin,Financials,"Insurance: Life, Health (Mutual)","Zeist, Netherlands","15,412",http://www.achmea.nl,3,Achmea,2016
+414,Lee Won-Joon,Retailing,General Merchandisers,"Seoul, South Korea","26,030",http://www.lotteshopping.com%20,3,Lotte Shopping,2016
+415,Ian G. King,Aerospace & Defense,Aerospace and Defense,"London, Britain","75,000",http://www.baesystems.com,22,BAE Systems,2016
+416,Oliver Windholz,Wholesalers,Wholesalers: Health Care,"Mannheim, Germany","24,842",http://www.phoenixgroup.eu,6,Phoenix Pharmahandel,2016
+417,Murilo Pinto de Oliveira Ferreira,Energy,"Mining, Crude-Oil Production","Rio de Janeiro, Brazil","74,098",http://www.vale.com,10,Vale,2016
+418,Philippe Wahl,Transportation,"Mail, Package, and Freight Delivery","Paris, France","245,424",http://www.laposte.fr,21,La Poste,2016
+419,Levent Çakıroğlu,Energy,Energy,"Istanbul, Turkey","91,304",http://www.koc.com.tr,15,Koç Holding,2016
+420,Stephen J. Easterbrook,"Hotels, Resturants & Leisure",Food Services,"Oak Brook, IL","420,000",http://www.aboutmcdonalds.com,22,McDonald’s,2016
+421,William M. Walsh,Transportation,Airlines,"Hounslow, Britain","60,862",http://www.iairgroup.com,19,International Airlines Group,2016
+422,Steven M. Mollenkopf,Technology,Network and Other Communications Equipment,"San Diego, CA","33,000",http://www.qualcomm.com,3,Qualcomm,2016
+423,Rajesh J. Mehta,Wholesalers,Trading,"Bangalore, India",358,http://www.rajeshindia.com,1,Rajesh Exports,2016
+424,Shuichi Watanabe,Wholesalers,Wholesalers: Health Care,"Tokyo, Japan","14,697",http://www.medipal.co.jp,14,Medipal Holdings,2016
+425,Edward S. Lampert,Retailing,General Merchandisers,"Hoffman Estates, IL","178,000",http://www.shos.com,22,Sears Holdings,2016
+426,Li Weimin,Energy,"Mining, Crude-Oil Production","Jinan , China","196,435",http://www.snjt.com,5,Shandong Energy Group,2016
+427,Wan Feng,Financials,"Insurance: Life, Health (stock)","Beijing, China","52,474",http://www.newchinalife.com,1,New China Life Insurance,2016
+428,Brian J. Porter,Financials,Banks: Commercial and Savings,"Toronto, Ontario, Canada","89,214",http://www.scotiabank.com,19,Bank of Nova Scotia,2016
+429,Sang-Beom Han,Technology,"Electronics, Electrical Equip.","Seoul, South Korea","49,205",http://www.lgdisplay.com,5,LG Display,2016
+430,Richard D. Fairbank,Financials,Banks: Commercial and Savings,"McLean, VA","45,400",http://www.capitalone.com,6,Capital One Financial,2016
+431,Jin-Soo Huh,Energy,Petroleum Refining,"Seoul, South Korea","3,969",http://www.gscaltex.com,5,GS Caltex,2016
+432,Rainer Seele,Energy,Petroleum Refining,"Vienna, Austria","24,124",http://www.omv.com,11,OMV Group,2016
+433,Emmanuel Faber,"Food, Beverages & Tobacco",Food Consumer Products,"Paris, France","99,781",http://www.danone.com,22,Danone,2016
+434,Antonio Huertas Mejías,Financials,Insurance: Property and Casualty (Stock),"Madrid, Spain","38,405",http://www.mapfre.com,9,Mapfre Group,2016
+435,Pascal Soriot,Health Care,Pharmaceuticals,"London, Britain","61,500",http://www.astrazeneca.com,18,AstraZeneca,2016
+436,Joseph M. Tucci,Technology,"Computers, Office Equipment","Hopkinton, MA","72,000",http://www.emc.com,2,EMC,2016
+437,David T. Potts,Food & Drug Stores,Food and Drug Stores,"Bradford, Britain","82,992",http://www.morrisons.com,12,Wm. Morrison Supermarkets,2016
+438,Eric Olsen,Materials,"Building Materials, Glass","Jona, Switzerland","100,956",http://www.lafargeholcim.com,8,LafargeHolcim,2016
+439,Chang-Soo Kim,Financials,"Insurance: Life, Health (stock)","Seoul, South Korea","5,348",http://www.samsunglife.com,20,Samsung Life Insurance,2016
+440,Masayoshi Matsumoto,Motor Vehicles & Parts,Motor Vehicles and Parts,"Osaka, Japan","240,865",http://global-sei.com/,22,Sumitomo Electric Industries,2016
+441,Michael M. McNamara,Technology,Semiconductors and Other Electronic Components,"Singapore, Singapore","200,000",http://www.flextronics.com,16,Flextronics International,2016
+442,Alain Dehaze,Business Services,Temporary Help,"Glattbrugg, Switzerland","32,000",http://www.adecco.com,18,Adecco Group,2016
+443,Lie-Way Chen,Energy,Petroleum Refining,"Taipei, Taiwan","14,685",http://www.cpc.com.tw,17,CPC,2016
+444,Stuart Parker,Financials,Insurance: Property and Casualty (Stock),"San Antonio, TX","28,681",http://www.usaa.com,3,USAA,2016
+445,Wiebe Draijer,Financials,Banks: Commercial and Savings,"Utrecht, Netherlands","45,658",http://www.rabobank.com,22,Rabobank Group,2016
+446,Lynn J. Good,Energy,Utilities,"Charlotte, NC","29,188",http://www.duke-energy.com,13,Duke Energy,2016
+447,Tetsuro Tomita,Transportation,Railroads,"Tokyo, Japan","86,127",http://www.jreast.co.jp,22,East Japan Railway,2016
+448,Satoru Katsuno,Energy,Utilities,"Nagoya, Japan","30,659",http://www.chuden.co.jp,22,Chubu Electric Power,2016
+449,David J. Lesar,Energy,"Oil and Gas Equipment, Services","Houston, TX","65,000",http://www.halliburton.com,14,Halliburton,2016
+450,Wesley G. Bush,Aerospace & Defense,Aerospace and Defense,"Falls Church, VA","65,000",http://www.northropgrumman.com,17,Northrop Grumman,2016
+451,Jean-Dominique Senard,Motor Vehicles & Parts,Motor Vehicles and Parts,"Clermont-Ferrand, France","105,798",http://www.michelin.com,22,Michelin,2016
+452,Takashi Niino,Technology,Information Technology Services,"Tokyo, Japan","98,726",http://www.nec.com,22,NEC,2016
+453,Frank Mastiaux,Energy,Utilities,"Karlsruhe, Germany","18,763",http://www.enbw.com,10,Energie Baden-Württemberg,2016
+454,Wojciech Jasinski,Energy,Petroleum Refining,"Plock, Poland","19,932",http://www.orlen.pl,10,PKN ORLEN Group,2016
+455,Michael J. Long,Wholesalers,Wholesalers: Electronics and Office Equipment,"Centennial, CO","18,500",http://www.arrow.com,3,Arrow Electronics,2016
+456,Mark Edward Tucker,Financials,"Insurance: Life, Health (stock)","Hong Kong, China","20,000",http://www.aia.com,2,AIA Group,2016
+457,Thomas A. Kennedy,Aerospace & Defense,Aerospace and Defense,"Waltham, MA","61,000",http://www.raytheon.com,21,Raytheon,2016
+458,Steven W. Williams,Energy,Petroleum Refining,"Calgary, Alberta, Canada","13,190",http://www.suncor.com,8,Suncor Energy,2016
+459,Jean-François van Boxmeer,"Food, Beverages & Tobacco",Beverages,"Amsterdam, Netherlands","73,767",http://www.theheinekencompany.com,10,Heineken Holding,2016
+460,Greg L. Armstrong,Energy,Pipelines,"Houston, TX","5,400",http://www.plainsallamerican.com,3,Plains GP Holdings,2016
+461,Pietro Satriano,Wholesalers,Wholesalers: Food and Grocery,"Rosemont, IL","25,000",http://www.usfoods.com,1,US Foods Holding,2016
+462,William R. McDermott,Technology,Computer Software,"Walldorf, Germany","76,986",http://www.sap.com,1,SAP,2016
+463,Pablo Isla Alvarez de Tejera,Retailing,Specialty Retailers,"Arteixo, Spain","152,854",http://www.inditex.com,1,Inditex,2016
+464,Seung-Hoon Lee,Energy,Energy,"Daegu, South Korea","3,412",http://www.kogas.or.kr,7,Korea Gas,2016
+465,Xu Lirong,Transportation,Shipping,"Shanghai, China","82,708",http://www.coscocs.com,9,China COSCO Shipping,2016
+466,Michel Landel,"Hotels, Resturants & Leisure",Food Services,"Issy-les-Moulineaux, France","422,844",http://www.sodexo.com,17,Sodexo,2016
+467,Friedrich Joussen,Business Services,Miscellaneous,"Hanover, Germany","76,036",http://www.tuigroup.com,22,TUI,2016
+468,Ming-Ho Hsiung,Financials,"Insurance: Life, Health (stock)","Taipei, Taiwan","32,296",http://www.cathaylife.com.tw,15,Cathay Life Insurance,2016
+469,Richard A. Gonzalez,Health Care,Pharmaceuticals,"North Chicago, IL","28,000",http://www.abbvie.com,1,AbbVie,2016
+470,Michael F. Neidorff,Health Care,Health Care: Insurance and Managed Care,"St. Louis, MO","18,200",http://www.centene.com,1,Centene,2016
+471,John Pettigrew,Energy,Utilities,"London, Britain","25,068",http://www.nationalgrid.com,11,National Grid,2016
+472,Sheikh Ahmed bin Saeed Al Maktoum,Transportation,Airlines,"Dubai, U.A.E.","61,205",http://www.theemiratesgroup.com,1,Emirates Group,2016
+473,"Li Tzar Kuoi, Victor",Retailing,Specialty Retailers,"Hong Kong, China","270,000",http://www.ckh.com.hk,1,CK Hutchison Holdings,2016
+474,Thilo Mannhardt,Energy,Energy,"São Paulo, Brazil","14,597",http://www.ultra.com.br,7,Ultrapar Holdings,2016
+475,Wayne T. Smith,Health Care,Health Care: Medical Facilities,"Franklin, TN","123,000",http://www.chs.net,1,Community Health Systems,2016
+476,Klaus Kleinfeld,Materials,Metals,"New York, NY","60,000",http://www.alcoa.com,21,Arconic,2016
+477,Andrew Owens,Energy,Energy,"London, Britain",594,http://www.greenergy.com,2,Greenergy Fuels Holdings,2016
+478,Andrey Leonidovich Kostin,Financials,Banks: Commercial and Savings,"Moscow, Russia","92,882",http://www.vtb.com,3,VTB Bank,2016
+479,Mark S. Sutton,Materials,Miscellaneous,"Memphis, TN","56,000",http://www.internationalpaper.com,22,International Paper,2016
+480,David N. Farr,Industrials,"Electronics, Electrical Equip.","St. Louis, MO","110,800",http://www.emerson.com,22,Emerson Electric,2016
+481,Fang Hongbo,Industrials,"Electronics, Electrical Equip.","Foshan, China","93,299",http://www.midea.com,1,Midea Group,2016
+482,Andrew R. Penn,Telecommunications,Telecommunications,"Melbourne, Australia","36,165",http://www.telstra.com.au,19,Telstra,2016
+483,Gerald W. Schwartz,Technology,Semiconductors and Other Electronic Components,"Toronto, Ontario, Canada","144,000",http://www.onex.com,17,Onex,2016
+484,Zhou Mingchun,Wholesalers,Wholesalers: Diversified,"Beijing, China","11,481",http://www.cnaf.com,6,China National Aviation Fuel Group,2016
+485,Lance M. Fritz,Transportation,Railroads,"Omaha, NE","47,457",http://www.up.com,13,Union Pacific,2016
+486,John W. Martin,Wholesalers,Wholesalers: Diversified,"Zug, Switzerland","38,464",http://www.wolseley.com,11,Wolseley,2016
+487,Robert A. Bradway,Health Care,Pharmaceuticals,"Thousand Oaks, CA","17,900",http://www.amgen.com,1,Amgen,2016
+488,Karl-Johan Persson,Retailing,Specialty Retailers,"Stockholm, Sweden","104,634",http://www.hm.com,1,H & M Hennes & Mauritz,2016
+489,Zhang Gongyan,Materials,Metals,"Beijing, China","114,807",http://www.shougang.com.cn,6,Shougang Group,2016
+490,Richard K. Davis,Financials,Banks: Commercial and Savings,"Minneapolis, MN","65,433",http://www.usbank.com,11,U.S. Bancorp,2016
+491,Carlo Cimbri,Financials,"Insurance: Life, Health (stock)","Bologna, Italy","13,242",http://www.unipol.it,3,Unipol Group,2016
+492,Taizo Kubo,Wholesalers,Wholesalers: Health Care,"Tokyo, Japan","11,788",http://www.alfresa.com,7,Alfresa Holdings,2016
+493,Patrick Frost,Financials,"Insurance: Life, Health (stock)","Zurich, Switzerland","7,595",http://www.swisslife.com,15,Swiss Life,2016
+494,Jacques van den Broek,Business Services,Temporary Help,"Diemen, Netherlands","29,750",http://www.randstad.com,4,Randstad Holding,2016
+495,Wan Long,"Food, Beverages & Tobacco",Food Consumer Products,"Hong Kong, China","105,000",http://www.wh-group.com,1,WH Group,2016
+496,Hui Kayan,Financials,Real estate,"Guangzhou, China","83,372",http://www.evergrande.com,1,Evergrande Real Estate Group,2016
+497,Shira Goodman,Retailing,Specialty Retailers,"Framingham, MA","58,963",http://www.staples.com,14,Staples,2016
+498,William T. Winters,Financials,Banks: Commercial and Savings,"London, Britain","84,076",http://www.sc.com,9,Standard Chartered,2016
+499,Warren East,Aerospace & Defense,Aerospace and Defense,"London, Britain","50,500",http://www.rolls-royce.com,3,Rolls-Royce Holdings,2016
+500,Bruce Hemphill,Financials,"Insurance: Life, Health (stock)","London, Britain","64,043",http://www.oldmutual.com,15,Old Mutual,2016
