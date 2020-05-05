@@ -69,6 +69,7 @@ Drop table if exists `ceo`;
 create table `ceo`(
 `ceo_id` int(255) not null auto_increment primary key,
 `ceo` varchar(255),
+`ceo_no` int(255),
 `company_rank` int(255),
 `BoY` varchar(50),
 `Born` varchar(500),
@@ -79,6 +80,7 @@ COLLATE 'utf8mb4_0900_ai_ci';
 SET foreign_key_checks = 0;
 ALTER TABLE `ceo`
   ADD CONSTRAINT `ceo_ibfk_1` FOREIGN KEY (`company_rank`) REFERENCES `company_info` (`company_info_id`) on update cascade on delete cascade;
+-- alter table `ceo` add constraint uq1 unique (`ceo_no`); <-- duplicate entry '7' for ket 'uq1'
 SET foreign_key_checks = 1;
 
 
