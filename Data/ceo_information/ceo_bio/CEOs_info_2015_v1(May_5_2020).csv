@@ -1,0 +1,308 @@
+id,ceo,company_rank,Born,Nationality,Education,BoY,ceo_year
+1,Doug McMillon,1,"October 17, 1966 (age 53 years), Memphis, TN",United States,"Bentonville High School, Sam M. Walton College of Business, The University of Tulsa, University of Arkansas",1966.0,2015.0
+2,Wang Yupu,2,"October 1956 (age 63 years), Xinmin, Liaoning, Shenyang, China",China,Northeast Petroleum University,1956.0,2015.0
+3,Ben van Beurden,3,"April 23, 1958 (age 62 years), Netherlands",Netherlands,Delft University of Technology (1981–1983),1958.0,2015.0
+4,Wang Yilin,4,"September 1956 (age 63 years), Jiangsu, China",China,"China University of Petroleum, China University of Petroleum (Huadong)",1956.0,2015.0
+5,Rex W. Tillerson,5,"March 23, 1952 (age 68 years), Wichita Falls, TX",United States,"The University of Texas at Austin (1975), MORE",1952.0,2015.0
+6,Bob Dudley,6,"September 14, 1955 (age 64 years), Queens, New York, NY",United States,"University of Illinois at Urbana-Champaign, MORE",1955.0,2015.0
+7,Shu Yinbiao,7,1958 (age 62 years),,North China Electric Power University,1958.0,2015.0
+8,Martin Winterkorn,8,"May 24, 1947 (age 72 years), Leonberg, Germany",Germany,University of Stuttgart (1966–1973),1947.0,2015.0
+9,Akio Toyoda,9,"May 3, 1956 (age 64 years), Nagoya, Aichi, Japan",Japan,"Babson College, Keio University",1956.0,2015.0
+10,Ivan Glasenberg,10,"January 1957 (age 63 years), Johannesburg, South Africa",Africa,"Marshall Business School, USC, University of the Witwatersrand, Johannesburg, University of Southern California",1957.0,2015.0
+11,Patrick Pouyanné,11,"June 24, 1963 (age 56 years), Le Petit-Quevilly, France",France,École Polytechnique,1963.0,2015.0
+12,John S. Watson,12,"October 1956 (age 63 years), California",California,"The University of Chicago (1980), MORE",1956.0,2015.0
+13,Kwon Oh-hyun,13,"October 15, 1952 (age 67 years), South Korea",South Korea,"Seoul National University (1975), Stanford University, KAIST",1952.0,2015.0
+14,Warren Buffett,14,"August 30, 1930 (age 89 years), Omaha, NE",United States,"Columbia Business School (1950–1951), MORE",1930.0,2015.0
+15,Tim Cook,15,"November 1, 1960 (age 59 years), Mobile, AL",United States,"The Fuqua School of Business (1988), MORE",1960.0,2015.0
+16,John H. Hammergren,16,"February 20, 1959 (age 61 years), Saint Paul, MN",United States,"Williams College of Business (1987), MORE",1959.0,2015.0
+17,Dieter Zetsche,17,"May 5, 1953 (age 67 years), İstanbul, Turkey",Turkey,"University of Paderborn, Karlsruhe Institute of Technology",1953.0,2015.0
+18,Yi Huiman,18,"December 1964 (age 55 years), Cangnan County, Wenzhou, China",China,"Nanjing University, Zhejiang Financial College, Guanghua School of Management",1964.0,2015.0
+19,John Elkann,19,"April 1, 1976 (age 44 years), New York, NY",United States,Polytechnic University of Turin,1976.0,2015.0
+20,Henri de Castries,20,"August 15, 1954 (age 65 years), Bayonne, France",France,"École Nationale d'Administration (1980), HEC Paris""",1954.0,2015.0
+21,Mary T. Barra,21,"December 24, 1961 (age 58 years), Waterford, MI",United States,"Stanford Graduate School of Business (1988–1990), Kettering University, Mott High School",1961.0,2015.0
+22,Johannes Teyssen,22,"October 9, 1959 (age 60 years), Hildesheim, Germany",Germany,University of Göttingen,1959.0,2015.0
+23,Greg Garland,23,,,Texas A&M University,,2015.0
+24,Jeff Immelt,24,"February 19, 1956 (age 64 years), Cincinnati, OH",United States,"Harvard Business School (1982), Dartmouth College (1978), Harvard University, Finneytown Secondary Campus",1956.0,2015.0
+25,Claudio Descalzi,25,"1955 (age 65 years), Milan, Italy",Italy,University of Milan,1955.0,2015.0
+26,Aldemir Bendine,28,"December 10, 1963 (age 56 years), Paraguaçu Paulista, State of São Paulo, Brazil",Brazil,"PUC-Rio, Fundacao Instituto de Pesquisas Contabeis, Atuariais e Financeiras",1963.0,2015.0
+27,Larry J. Merlo,30,"1956 (age 64 years), Pittsburgh, PA",United States,University of Pittsburgh School of Pharmacy (1978),1956.0,2015.0
+28,Terry Gou,31,"October 18, 1950 (age 69 years), Banqiao District, Taipei, Taiwan",Taiwan,"Taipei College of Maritime Technology (1966–1971), New Taipei Municipal Panchiao Senior High School",1950.0,2015.0
+29,Oliver Bäte,32,"March 1, 1965 (age 55 years), Bergisch Gladbach, Germany",Germany,"University of Cologne (1988–1993), NYU Stern School of Business (1988–1993)",1965.0,2015.0
+30,Randall L. Stephenson,33,"April 22, 1960 (age 60 years), Oklahoma City, OK",United States,"The University of Oklahoma, University of Central Oklahoma",1960.0,2015.0
+31,Joseph W. Gorder,34,May 1957 (age 63 years),,"University of Missouri-St. Louis, Our Lady of the Lake School of Business",1957.0,2015.0
+32,Stephen J. Hemsley,35,"1952 (age 68 years), United States",United States,"Fordham University, Gabelli School of Business",1952.0,2015.0
+33,Liu Shiyu,36,"November 1961 (age 58 years), Guanyun County, Lianyungang, China",China,Tsinghua University,1961.0,2015.0
+34,Taizo Nishimuro,38,"December 19, 1935, Tsuru, Yamanashi, Japan",Japan,"Keio University, Musashi High School & Junior High School",1935.0,2015.0
+35,Jeremy Weir,40,"1964 (age 56 years), Melbourne, Australia",Australia,University of Melbourne,1964.0,2015.0
+36,Lowell C. McAdam,41,"May 28, 1954 (age 65 years), Buffalo, NY",United States,"University of San Diego School of Business Administration, MORE",1954.0,2015.0
+37,Jean-Laurent Bonnafé,42,"July 14, 1961 (age 58 years), Clichy, France",France,"École Polytechnique, Lycée Louis-le-Grand",1961.0,2015.0
+38,Takahiro Hachigo,44,"May 19, 1959 (age 60 years), Japan",Japan,Tokyo City University,1959.0,2015.0
+39,Steven H. Collis,46,"1961 (age 59 years), South Africa",Africa,"University of the Witwatersrand, Johannesburg",1961.0,2015.0
+40,Emilio Lozoya Austin,47,"December 9, 1974 (age 45 years), Mexico City, Mexico",Mexican,"Harvard University, National Autonomous University of Mexico, Instituto Tecnológico Autónomo de México",1974.0,2015.0
+41,Mario Greco,48,"June 16, 1959 (age 60 years), Naples, Italy",Italy,Sapienza University of Rome,1959.0,2015.0
+42,Frédéric Oudéa,49,"July 3, 1963 (age 56 years), Paris, France",France,"Sciences Po, École Nationale d'Administration, École Polytechnique""",1963.0,2015.0
+43,Timothy J. Mayopoulos,50,"March 7, 1959 (age 61 years), West Reading, PA",United States,"Cornell University, NYU School of Law",1959.0,2015.0
+44,W. Craig Jelinek,52,"August 8, 1952 (age 67 years), California",United States,San Diego State University (1975),1952.0,2015.0
+45,Dion Weisler,53,"August 20, 1967 (age 52 years), Australia",Australia,Monash University,1967.0,2015.0
+46,Rodney McMullen,54,"July 25, 1960 (age 59 years), Pineville, KY",United States,University of Kentucky,1960.0,2015.0
+47,Li Yue,55,"1959 (age 61 years), China",China,Beijing University of Posts and Telecommunications,1959.0,2015.0
+48,Harald Krüger,56,"October 13, 1965 (age 54 years), Freiburg im Breisgau, Germany",Germany,"RWTH Aachen University (1991), MORE",1965.0,2015.0
+49,Philippe Brassac,58,"August 31, 1959 (age 60 years), Nîmes, France",France,ENSAE Paris,1959.0,2015.0
+50,Carlos Ghosn,59,"March 9, 1954 (age 66 years), Guajará-Mirim, State of Rondônia, Brazil","Brazilian, Lebanese, French","Mines ParisTech (1978), École Polytechnique (1974), MORE",1954.0,2015.0
+51,Jamie Dimon,61,"March 13, 1956 (age 64 years), New York, NY",United States,"Harvard Business School (1982), Tufts University, Browning School",1956.0,2015.0
+52,David John Lewis,62,"May 1, 1869, Centre County, PA",United States,,1869.0,2015.0
+53,Joe Kaeser,63,"June 23, 1957 (age 62 years), Arnbruck, Germany",Germany,Ostbayerische Technische Hochschule (OTH) Regensburg,1957.0,2015.0
+54,Georges Plassat,64,"March 25, 1949 (age 71 years), Bollène, France",France,"Cornell University, EHL - Ecole hôtelière de Lausanne",1949.0,2015.0
+55,Hiroo Unoura,65,"January 13, 1949 (age 71 years), Nanao, Ishikawa, Japan",Japan,The University of Tokyo,1949.0,2015.0
+56,Tim Wentworth,66,,,"Cornell University, Monroe Community College",,2015.0
+57,José Antonio Alvarez,67,"January 6, 1960 (age 60 years), León, Spain",Spain,,1960.0,2015.0
+58,Wan Zulkiflee,68,"1961 (age 59 years), Malaysia",Malaysia,Malay College Kuala Kangsar,1961.0,2015.0
+59,Francesco Starace,69,"1955 (age 65 years), Rome, Italy",Italy,Politecnico di Milano,1955.0,2015.0
+60,Paul Bulcke,70,"September 8, 1954 (age 65 years), Roeselare, Belgium",Belgium,"IMD Business School, Vlerick Business School - Ghent, Katholieke Universiteit Leuven",1954.0,2015.0
+61,Guiqing Yao,71,,,,,2015.0
+62,Gérard Mestrallet,73,"April 1, 1949 (age 71 years), Paris, France",France,"École Nationale d'Administration, Sciences Po Toulouse, École Polytechnique"", 'Siblings: Michael Mestrallet, Patrick Mestrallet",1949.0,2015.0
+63,Michael A. Wells,74,"April 9, 1960 (age 60 years), Canada",Canada,San Diego State University,1960.0,2015.0
+64,Eldar Sætre,75,"February 8, 1956 (age 64 years), Vartdal, Norway",Norway,NHH Norwegian School of Economics,1956.0,2015.0
+65,Yusuf Alireza,77,,,,,2015.0
+66,Jean-Bernard Lévy,78,"March 18, 1955 (age 65 years), Suresnes, France",France,"École Polytechnique, Télécom Paris",1955.0,2015.0
+67,Brian Moynihan,80,"October 9, 1959 (age 60 years), Marietta, OH",United States,"Notre Dame Law School (1984), Brown University (1981), University of Notre Dame",1959.0,2015.0
+68,Stuart Gulliver,81,"March 9, 1959 (age 61 years), United Kingdom",United Kingdom,"University of Oxford, Worcester College",1959.0,2015.0
+69,Ginni Rometty,82,"July 29, 1957 (age 62 years), Chicago, IL",United States,Robert R. McCormick School of Engineering and Applied Science at Northwestern,1957.0,2015.0
+70,Gary R. Heminger,83,"Tiffin, OH",United States,"University of Dayton (1982), Tiffin University (1976)",,2015.0
+71,George S. Barrett,84,1957 (age 63 years),,"NYU Stern School of Business (1988), Brown University (1977), Staples High School, New York University",1957.0,2015.0
+72,Dennis Muilenburg,85,"1964 (age 56 years), Orange City, IA",United States,"Sioux Center Community School District (1982), University of Washington, Iowa State University",1964.0,2015.0
+73,Michael Corbat,86,"May 2, 1960 (age 60 years), Bristol, CT",United States,Harvard University (1983),1960.0,2015.0
+74,Jeff Bezos,88,"January 12, 1964 (age 56 years), Albuquerque, NM",United States,"Princeton University (1986), River Oaks Elementary School, Miami Palmetto Senior High School",1964.0,2015.0
+75,Hiroaki Nakanishi,89,"March 14, 1946 (age 74 years), Yokohama, Kanagawa, Japan",Japan,"Stanford University, The University of Tokyo",1946.0,2015.0
+76,John G. Stumpf,90,"September 15, 1953 (age 66 years), Pierz, MN",United States,"University of Minnesota, St. Cloud State University",1953.0,2015.0
+77,Ralph Hamers,91,"1966 (age 54 years), Simpelveld, Netherlands",Netherlands,Tilburg University,1966.0,2015.0
+78,Pailin Chuchottaworn,93,"July 8, 1956 (age 63 years), Bangkok, Thailand",Thailand,Faculty of Education Chulalongkorn University,1956.0,2015.0
+79,Satya Nadella,95,"August 19, 1967 (age 52 years), Hyderabad, India",India,"University of Wisconsin-Milwaukee (1990), MORE', ""Books: Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone"", 'Children: Zain Nadella, Tara Nadella, Divya Nadella",1967.0,2015.0
+80,Ma Mingzhe,96,"December 1955 (age 64 years), China",China,Zhongnan University of Economics and Law,1955.0,2015.0
+81,Olaf Koch,97,,,,,2015.0
+82,Chung Mong-koo,99,"March 19, 1938 (age 82 years), Tongchŏn, North Korea",South Korea,,1938.0,2015.0
+83,David S. Taylor,100,"April 20, 1958 (age 62 years), Charlotte, NC",United States,"Duke University (1980), West Charlotte High School",1958.0,2015.0
+84,Craig Menear,101,"1958 (age 62 years), Flint, MI",United States,"Eli Broad College of Business, Central High School, Michigan State University",1958.0,2015.0
+85,Timotheus Höttges,102,"September 18, 1962 (age 57 years), Solingen, Germany",Germany,University of Cologne,1962.0,2015.0
+86,Juan Ricardo Luciano,104,"1962 (age 58 years), Argentina",Argentina,Instituto Tecnológico de Buenos Aires,1962.0,2015.0
+87,Lakshmi Mittal,108,"June 15, 1950 (age 69 years), Sadulpur, India",India,,1950.0,2015.0
+88,Masayoshi Son,110,"August 11, 1957 (age 62 years), Tosu, Saga, Japan",Japan,"University of California, Berkeley (1980), MORE",1957.0,2015.0
+89,Frank Appel,111,"July 29, 1961 (age 58 years), Hamburg, Germany",Germany,"ETH Zürich (2001), Ludwig Maximilian University of Munich",1961.0,2015.0
+90,Roberto Setubal,112,"October 13, 1954 (age 65 years), São Paulo, State of São Paulo, Brazil",Brazil,"Stanford University (1979), Polytechnic School of the University of São Paulo (1977)",1954.0,2015.0
+91,Zhao Jianguo,113,"January 19, 1988 (age 32 years), Gansu, China",China,,1988.0,2015.0
+92,Stefano Pessina,114,"June 4, 1941 (age 78 years), Pescara, Italy",Italy,"University of Milan, Politecnico di Milano",1941.0,2015.0
+93,Kaz Hirai,116,"December 22, 1960 (age 59 years), Tokyo, Japan",Japan,"Valley Park Middle School, International Christian University",1960.0,2015.0
+94,Brian Cornell,117,"1958 (age 62 years), Queens, New York, NY",United States,"UCLA Anderson School of Management, University of California, Los Angeles",1958.0,2015.0
+95,Alex Gorsky,118,"May 24, 1960 (age 59 years), Kansas City, KS",United States,"Wharton School of the University of Pennsylvania, United States Military Academy",1960.0,2015.0
+96,Joseph R. Swedish,120,"May 17, 1951 (age 68 years), Richmond, VA",United States,"Benedictine College Preparatory, UNC Charlotte",1951.0,2015.0
+97,Steven A. Kandarian,121,"West Hartford, CT",United States,"Georgetown University Law Center, MORE",,2015.0
+98,Martin Senn,122,"March 22, 1954, Binningen, Switzerland",Switzerland,,1954.0,2015.0
+99,Larry Page,124,"March 26, 1973 (age 47 years), East Lansing, MI",United States,"East Lansing High School (1987–1991), MORE",1973.0,2015.0
+100,Michael L. Tipsord,127,"June 20, 1959 (age 60 years), Illinois",Illinois,"Illinois Wesleyan University (1981), University of Illinois at Urbana-Champaign",1959.0,2015.0
+101,Carlos Tavares,128,"August 14, 1958 (age 61 years), Lisbon, Portugal",Portugal,École Centrale Paris (1981),1958.0,2015.0
+102,Dwi Soetjipto,130,"November 10, 1955 (age 64 years), Surabaya, Indonesia",Indonesia,"Sepuluh Nopember Institute of Technology (ITS), University of Indonesia, Andalas University",1955.0,2015.0
+103,Kazuhiro Tsuga,131,"November 14, 1956 (age 63 years), Osaka, Osaka, Japan",Japan,"University of California, Santa Barbara (1986), Osaka University (1979)",1956.0,2015.0
+104,Honzokaku Natural Remedies Center,132,,,,,2015.0
+105,Donald H. Layton,133,1950 (age 70 years),,Massachusetts Institute of Technology,1950.0,2015.0
+106,François Pérol,134,"November 6, 1963 (age 56 years), Le Creusot, France",France,"HEC Paris, École Nationale d'Administration, Sciences Po""",1963.0,2015.0
+107,Brian L. Roberts,135,"June 28, 1959 (age 60 years), Philadelphia, PA",United States,"Wharton School of the University of Pennsylvania, University of Pennsylvania, Germantown Academy",1959.0,2015.0
+108,Vittorio Colao,136,"October 3, 1961 (age 58 years), Brescia, Italy",Italy,"Harvard Business School, Bocconi University, Harvard University",1961.0,2015.0
+109,Megan Brennan,137,"1961 (age 59 years), Pottsville, PA",United States,"MIT Sloan School of Management, Immaculata University",1961.0,2015.0
+110,Andrew Stewart Mackenzie,139,"December 20, 1956 (age 63 years), Scotland, United Kingdom",United Kingdom,"University of Bristol, University of St Andrews",1956.0,2015.0
+111,César Alierta,140,"May 5, 1945 (age 75 years), Zaragoza, Spain",Spain,"Columbia University (1970), University of Zaragoza (1967), Columbia Business School",1945.0,2015.0
+112,Indra Nooyi,141,"October 28, 1955 (age 64 years), Chennai, India",India,"Yale School of Management (1978–1980), MORE",1955.0,2015.0
+113,António Horta-Osório,145,"January 28, 1964 (age 56 years), Lisbon, Portugal",Portugal,"INSEAD Europe Campus, Catholic University of Portugal",1964.0,2015.0
+114,Motoya Okada,147,"June 17, 1951 (age 68 years), Yokkaichi, Mie, Japan",Japan,Babson College,1951.0,2015.0
+115,Gregory J. Hayes,149,United States,United States,"Cornell University, Krannert School of Management, Purdue University",,2015.0
+116,Volkmar Denner,150,"November 30, 1956 (age 63 years), Uhingen, Germany",Germany,"University of Stuttgart (1985), University of Stuttgart (1981)",1956.0,2015.0
+117,Peter Hancock,152,"London, United Kingdom",United Kingdom,University of Oxford,,2015.0
+118,Paul Polman,153,"July 11, 1956 (age 63 years), Enschede, Netherlands",Netherlands,"University of Cincinnati, University of Groningen",1956.0,2015.0
+119,Peter Terium,154,,,,,2015.0
+120,Daniel Hajj Aboumrad,155,"1966 (age 54 years), Mexico City, Mexico",Mexico,,1966.0,2015.0
+121,Oh-Joon Kwon,162,"July 6, 1950 (age 69 years)",,"University of Pittsburgh (1981–1985), MORE",1950.0,2015.0
+122,Alexander Wynaendts,163,,,,,2015.0
+123,Jürgen Fitschen,164,"September 1, 1948 (age 71 years), Harsefeld, Germany",Germany,University of Hamburg,1948.0,2015.0
+124,Frédéric Lavenir,166,"June 11, 1960 (age 59 years)",,HEC Paris,1960.0,2015.0
+125,David P. Abney,168,"1956 (age 64 years), Greenwood, MS",United States,"Delta State University, Pillow Academy",1956.0,2015.0
+126,Andrew N. Liveris,169,"May 5, 1954 (age 66 years), Darwin, Australia","American, Australian","The University of Queensland (1975), Darwin High School, Brisbane State High School",1954.0,2015.0
+127,Mark Bertolini,170,"1956 (age 64 years), Detroit, MI",United States,"Wayne State University, Cornell University",1956.0,2015.0
+128,Richard Goyder,171,"1960 (age 60 years), Tambellup, Australia",Australia,,1960.0,2015.0
+129,Soren Schroder,172,"Aarhus, Denmark",Denmark,Connecticut College,,2015.0
+130,Bon-Joon Koo,175,"December 24, 1951 (age 68 years)",,"The University of Chicago (1982), Seoul National University (1978), Kyungbock High School (1970)",1951.0,2015.0
+131,Robert Niblock,176,"1963 (age 57 years), Florida",Florida,UNC Charlotte (1984),1963.0,2015.0
+132,Herman Gref,177,"February 8, 1964 (age 56 years), Panfilovo, Kazakhstan",Russia,"Saint Petersburg State University (1990–1993), MORE",1964.0,2015.0
+133,Marijn Dekkers,178,"September 22, 1957 (age 62 years), Tilburg, Netherlands",Netherlands,"Radboud University Nijmegen, Eindhoven University of Technology",1957.0,2015.0
+134,Heinrich Hiesinger,179,"May 25, 1960 (age 59 years), Bopfingen, Germany",Germany,Technische Universität München,1960.0,2015.0
+135,Ryan Lance,180,"Butte, MT",United States,"Montana Tech (1984), Great Falls High School",,2015.0
+136,Brian Krzanich,182,"May 9, 1960 (age 59 years), Santa Clara County, CA",United States,San José State University (1982),1960.0,2015.0
+137,Toshifumi Suzuki,184,"December 1, 1932 (age 87 years), Sakaki, Nagano, Japan",Japan,Chuo University,1932.0,2015.0
+138,Luiz Carlos Trabuco Cappi,185,"October 6, 1951 (age 68 years), Marília, State of São Paulo, Brazil",Brazil,"Universidade Estadual Paulista em Marília, Fundação Escola de Sociologia e Política de São Paulo",1951.0,2015.0
+139,Chang Zhenming,186,"October 1956 (age 63 years), China",China,"Tsinghua University High School, Beijing International Studies University",1956.0,2015.0
+140,Douglas R. Oberhelman,187,"February 25, 1953 (age 67 years), Peoria, IL",United States,Millikin University,1953.0,2015.0
+141,Josu Jon Imaz,188,"September 6, 1963 (age 56 years), Zumarraga, Spain",Spain,Campus De Bizkaia - Campus of Biscay,1963.0,2015.0
+142,Severin Schwan,189,"November 17, 1967 (age 52 years), Austria",Austria,"University of York, University of Innsbruck",1967.0,2015.0
+143,Carlos Ghosn,191,"March 9, 1954 (age 66 years), Guajará-Mirim, State of Rondônia, Brazil","Brazilian, Lebanese, French","Mines ParisTech (1978), École Polytechnique (1974), MORE",1954.0,2015.0
+144,Pierre-André de Chalendar,192,"April 12, 1958 (age 62 years), Vichy, France",France,"ESSEC Business School, Établissement La Rochefoucauld : École, collège, et lycée catholique",1958.0,2015.0
+145,John Strangfeld,194,1954 (age 66 years),,"University of Virginia, Susquehanna University, Darden School of Business - University of Virginia",1954.0,2015.0
+146,John McFarlane,195,"June 14, 1947 (age 72 years), Dumfries, United Kingdom",United Kingdom,"Cranfield School of Management, London Business School, The University of Edinburgh",1947.0,2015.0
+147,Rüdiger Grube,197,"August 2, 1951 (age 68 years), Hamburg, Germany",Germany,University of Hamburg,1951.0,2015.0
+148,Stéphane Richard,199,"August 24, 1961 (age 58 years), Gironde, France",France,HEC Paris,1961.0,2015.0
+149,Xavier Huillard,200,"June 27, 1954 (age 65 years), Paris, France",France,"École des ponts ParisTech, École Polytechnique",1954.0,2015.0
+150,Florentino Pérez,203,"March 8, 1947 (age 73 years), Hortaleza, Madrid, Spain",Spain,,1947.0,2015.0
+151,Kosei Shindo,204,"September 14, 1949 (age 70 years), Akita, Japan",Japan,Harvard Business School,1949.0,2015.0
+152,Alistair Phillips-Davies,205,"1967 (age 53 years), Wiltshire, United Kingdom",United Kingdom,"St Catharine's College""",1967.0,2015.0
+153,Nils Smedegaard Andersen,208,"July 8, 1958 (age 61 years), Aarhus, Denmark",Denmark,Aarhus University (1982),1958.0,2015.0
+154,Yousef Al-Benyan,209,,,,,2015.0
+155,Ian C. Read,211,"1953 (age 67 years), Forfar, United Kingdom",United Kingdom,"Imperial College London (1974), Department of Chemical Engineering, Imperial College London",1953.0,2015.0
+156,Donald Guloien,212,"April 27, 1957 (age 63 years), Parry Sound",Sound,University of Toronto - St. George Campus,1957.0,2015.0
+157,Robert Allen Iger,214,"February 10, 1951 (age 69 years), New York, NY",United States,"Ithaca College (1973), Oceanside High School, Roy H. Park School of Communications, The Center for Early Education",1951.0,2015.0
+158,Paal Kibsgaard,215,"April 1967 (age 53 years), Alesund, Norway",Norway,Norwegian University of Science and Technology,1967.0,2015.0
+159,Bruce D. Broussard,216,1963 (age 57 years),,Texas A&M University,1963.0,2015.0
+160,Iain Conn,217,"October 22, 1962 (age 57 years), Edinburgh, United Kingdom",United Kingdom,"Loretto School, Imperial College London, Department of Chemical Engineering, Imperial College London",1962.0,2015.0
+161,Xu Lejiang,218,,,"Fudan University, Jiangxi University of Science and Technology",,2015.0
+162,Francisco González Rodríguez,221,"1944 (age 76 years), Chantada, Spain",Spain,Complutense University of Madrid,1944.0,2015.0
+163,Chuck Robbins,225,"Grayson, GA",United States,"University of North Carolina at Chapel Hill (1983–1987), Rocky Mt High School",,2015.0
+164,Carlos Brito,226,"1960 (age 60 years), Rio de Janeiro, State of Rio de Janeiro, Brazil",Brazil,"Stanford Graduate School of Business, Universidade Federal do Rio de Janeiro",1960.0,2015.0
+165,Chang Xiaobing,227,"March 1957 (age 63 years), She County, Hebei, Handan, China",China,"Faculty of Business, The Hong Kong Polytechnic University, Nanjing University of Posts and Telecommunications",1957.0,2015.0
+166,Ren Zhengfei,228,"October 25, 1944 (age 75 years), Zhenning Buyei and Miao Autonomous County, Anshun, China",China,Chongqing University,1944.0,2015.0
+167,William J. Delaney III,229,,,"Wharton School of the University of Pennsylvania (1982), University of Notre Dame (1977)",,2015.0
+168,Alain Monié,230,1951 (age 69 years),,"Arts et Métiers ParisTech, HEC Paris",1951.0,2015.0
+169,Yang Yuanqing,231,"November 12, 1964 (age 55 years), Hefei, China",China,"Shanghai Jiao Tong University, University of Science and Technology of China",1964.0,2015.0
+170,Muhtar Kent,232,"December 1, 1952 (age 67 years), New York, NY",United States,"University of Hull, Cass Business School, City, University of London, Tarsus American College",1952.0,2015.0
+171,Elmar Degenhart,233,"January 29, 1959 (age 61 years), Dossenheim, Germany",Germany,University of Stuttgart,1959.0,2015.0
+172,Zhang Shiping,234,"November 25, 1946, China",China,Anhui University of Finance and Economics,1946.0,2015.0
+173,Marillyn Hewson,237,"1954 (age 66 years), Junction City, KS",United States,"Columbia Business School, The University of Alabama, Harvard Business School",1954.0,2015.0
+174,Frederick W. Smith,238,"August 11, 1944 (age 75 years), Marks, MS",United States,"Yale University (1962–1966), Memphis University School, Presbyterian Day School",1944.0,2015.0
+175,Yu Yong MD,239,,,,,2015.0
+176,Ge Honglin,240,,,,,2015.0
+177,Olivier Brandicourt,241,"February 1956 (age 64 years), France",France,Paris Descartes University,1956.0,2015.0
+178,Martin Bouygues,244,"May 3, 1952 (age 68 years), Suresnes, France",France,Janson de Sailly School,1952.0,2015.0
+179,Alex Molinaroli,245,"October 7, 1959 (age 60 years), Parkersburg, WV",United States,"Northwestern University, University of South Carolina",1959.0,2015.0
+180,Federico Ghizzoni,246,"October 14, 1955 (age 64 years), Piacenza, Italy",Italy,,1955.0,2015.0
+181,Wang Wenyin,247,"1968 (age 52 years), Anhui, China",China,"Anhui Qianshan Yezhai Middle School, Nanjing University",1968.0,2015.0
+182,Dick Boer,248,"August 31, 1957 (age 62 years), Axel, Netherlands",Netherlands,,1957.0,2015.0
+183,Greg L. Armstrong,249,1959 (age 61 years),,Southeastern Oklahoma St University,1959.0,2015.0
+184,Kuok Khoon Hong,252,"1951 (age 69 years), Singapore",Singapore,"English College Johore Bahru, NUS Business School, Desautels Faculty of Management",1951.0,2015.0
+185,Cyrus Mistry,254,"July 4, 1968 (age 51 years), Mumbai, India",Irish,"Imperial College London, London Business School, The Cathedral And John Connon School, University of Mumbai",1968.0,2015.0
+186,Carl M. Casale,255,,,Oregon State University,,2015.0
+187,Doug Parker,257,1961 (age 59 years),,"Vanderbilt University, Albion College, Owen Graduate School of Management",1961.0,2015.0
+188,Kenneth C. Frazier,259,"December 17, 1954 (age 65 years), Philadelphia, PA",United States,"Harvard Law School (1978), Penn State University (1975), Northeast High School",1954.0,2015.0
+189,Arundhati Bhattacharya,260,"March 18, 1956 (age 64 years), Kolkata, India",India,"St. Xavier's School (Bokaro), Jadavpur University, Lady Brabourne College"", 'Children: Sukrita Bhattacharya",1956.0,2015.0
+190,Bernard Arnault,261,"March 5, 1949 (age 71 years), Roubaix, France",France,École Polytechnique (1969–1971),1949.0,2015.0
+191,Andrew Thorburn,266,"April 13, 1965 (age 55 years), Melbourne, Australia",Australia,,1965.0,2015.0
+192,Ian Narev,269,"April 22, 1967 (age 53 years), Auckland, New Zealand",Zealand,"Auckland Grammar School, University of Cambridge, The University of Auckland",1967.0,2015.0
+193,Ed Bastian,273,"June 6, 1957 (age 62 years), Poughkeepsie, NY",United States,"St. Bonaventure University, Our Lady of Lourdes High School",1957.0,2015.0
+194,David M. Cote,275,"1952 (age 68 years), Manchester, NH",United States,"University of New Hampshire (1976), Pembroke Academy School",1952.0,2015.0
+195,R. Milton Johnson,277,"December 15, 1956 (age 63 years), Nashville, TN",United States,"Belmont University, Nashville State Community College",1956.0,2015.0
+196,Lloyd Blankfein,278,"September 20, 1954 (age 65 years), New York, NY",United States,"Harvard Law School (1978), Harvard College (1975), Harvard University, Thomas Jefferson High School",1954.0,2015.0
+197,Gregory J. Goff,279,,,The University of Utah,,2015.0
+198,Hongqi,281,,,,,2015.0
+199,Ulrich Spiesshofer,284,"March 26, 1964 (age 56 years), Aalen, Germany",Germany,University of Stuttgart,1964.0,2015.0
+200,David H. Long,286,"1961 (age 59 years), Liverpool, United Kingdom",United States,Hartwick College,1961.0,2015.0
+201,Galen Weston,287,"October 29, 1940 (age 79 years), Marlow, United Kingdom",United Kingdom,"Huron University College, Upper Canada College, Western University",1940.0,2015.0
+202,Tidjane Thiam,289,"July 29, 1962 (age 57 years), Côte d'Ivoire"", 'Spouse: Annette Thiam","Ivorian, French","INSEAD Europe Campus (1986–1988), MORE', ""Siblings: Abdel Aziz Thiam, Yamousso Thiam, Augustin Thiam, Papa Ababakar Thiam, Daouda Thiam, N'deye Anna Thiam"", 'Nationality: Ivorian, French",1962.0,2015.0
+203,Oscar Munoz,294,"January 1959 (age 61 years), California",United States,"La Quinta High School, Marshall Business School, USC, University of Southern California, Pepperdine University",1959.0,2015.0
+204,Theodore A. Mathas,297,"1967 (age 53 years), Norfolk, VA",United States,,1967.0,2015.0
+205,David McKay,299,"March 31, 1995 (age 25 years), Melbourne, FL",United States,Viera High School,1995.0,2015.0
+206,Safra Catz,300,"December 1, 1961 (age 58 years), Holon, Israel",Israel,"Penn Law (1986), MORE",1961.0,2015.0
+207,Mike Coupe,301,"September 26, 1960 (age 59 years), Watford, United Kingdom",United Kingdom,The Weald Community School,1960.0,2015.0
+208,Ross McEwan,303,"July 16, 1957 (age 62 years), New Zealand",Zealand,"Hastings Boys' High School, Massey University""",1957.0,2015.0
+209,James P. Gorman,306,"July 14, 1958 (age 61 years), Melbourne, Australia","American, Australian","Columbia Business School, Newman College, University of Melbourne, Columbia University, Xavier College', ""Children: Caroline D'Arcy Gorman, Caroline Gorman"", 'Nationality: American, Australian",1958.0,2015.0
+210,Sergio Ermotti,308,"May 11, 1960 (age 59 years), Lugano, Switzerland",Switzerland,University of Oxford,1960.0,2015.0
+211,Andrew Witty,309,"August 22, 1964 (age 55 years), England, United Kingdom",United Kingdom,"Malbank High School and Sixth Form College, University of Nottingham",1964.0,2015.0
+212,Francesco Caio,310,"August 23, 1957 (age 62 years), Naples, Italy",Italy,Politecnico di Milano,1957.0,2015.0
+213,Donnie Smith,311,"1959 (age 61 years), Tennessee",Tennessee,University of Tennessee,1959.0,2015.0
+214,Michel M. Liès,313,,,,,2015.0
+215,Steven Williams,317,,,,,2015.0
+216,Donald J. Walker,318,"1956 (age 64 years), Canada",Canada,University of Waterloo,1956.0,2015.0
+217,Sun Li,321,"September 26, 1982 (age 37 years), Shanghai, China",China,,1982.0,2015.0
+218,Guillaume Pepy,322,"May 26, 1958 (age 61 years), Neuilly-sur-Seine, France",France,"École Nationale d'Administration (1984), École alsacienne, Sciences Po""",1958.0,2015.0
+219,Samuel R. Allen,323,"1954 (age 66 years), Sumter, SC",United States,"Purdue University (1975), Northwestern High School, Krannert School of Management",1954.0,2015.0
+220,Edward D. Breen,324,"1956 (age 64 years), Grove City, PA",United States,Grove City College (1978),1956.0,2015.0
+221,Kenneth I. Chenault,325,"June 2, 1951 (age 68 years), Mineola, NY",United States,"Bowdoin College (1973), Harvard Law School, Harvard University",1951.0,2015.0
+222,Nishi Vasudeva,327,"March 30, 1956 (age 64 years)",,Indian Institute of Management Calcutta,1956.0,2015.0
+223,Brian Hartzer,330,"1967 (age 53 years), Manhattan, New York, NY",United States,Princeton University,1967.0,2015.0
+224,Thomas J. Wilson,333,"1958 (age 62 years), St. Clair Shores, MI",United States,"Kellogg School of Management, Northwestern University, University of Michigan, Lake Shore High School",1958.0,2015.0
+225,Fujio Mitarai,334,"September 23, 1935 (age 84 years), Kamae, Ōita",,Chuo University,1935.0,2015.0
+226,Keith Skeoch,335,"November 1956 (age 63 years), Guisborough, United Kingdom",United Kingdom,University of Sussex,1956.0,2015.0
+227,Canning Fok,336,"August 22, 1952 (age 67 years), Hong Kong",,"Saint John's University, Shanghai St. John's University, Diocesan Boys' School"", 'Siblings: Winnie Fok",1952.0,2015.0
+228,David Cordani,338,"February 10, 1966 (age 54 years), Waterbury, CT",United States,"Texas A&M University, University of Hartford",1966.0,2015.0
+229,Masaaki Tsuya,340,"June 22, 1952 (age 67 years), Tokyo, Japan",Japan,Hitotsubashi University,1952.0,2015.0
+230,Youxi Zhang,341,,,,,2015.0
+231,Li Qingkui,345,"March 1956 (age 64 years), Shandong, China",China,North China Electric Power University,1956.0,2015.0
+232,Ezra Myung-Chul Chung,347,,,,,2015.0
+233,Irene Rosenfeld,348,"May 3, 1953 (age 67 years), Westbury, NY",United States,"Cornell University (1977), Cornell University (1975), W. Tresper Clarke High School",1953.0,2015.0
+234,Roger W. Ferguson Jr.,349,"October 28, 1951 (age 68 years), Washington, D.C.",,"Sidwell Friends School (1969), Harvard Law School, Harvard University, Pembroke College",1951.0,2015.0
+235,Dariusz Jacek Krawiec,353,"September 23, 1967 (age 52 years), Kolobrzeg, Poland",Poland,,1967.0,2015.0
+236,Roger W. Crandall,356,,,,,2015.0
+237,Bharat Masrani,357,"May 26, 1956 (age 63 years), Uganda",Canada,"Schulich School of Business (1979), York University (1978)",1956.0,2015.0
+238,Xi Jinping,358,"June 15, 1953 (age 66 years), Beijing, China",China,"Tsinghua University (1998–2002), MORE",1953.0,2015.0
+239,Marco Patuano,359,"June 6, 1964 (age 55 years), Alessandria, Italy",Italy,Bocconi University,1964.0,2015.0
+240,Michael D. White,360,1952 (age 68 years),,"Johns Hopkins University (1976), Boston College",1952.0,2015.0
+241,Hans Vestberg,363,"June 23, 1965 (age 54 years), Hudiksvall, Sweden",Sweden,Uppsala University,1965.0,2015.0
+242,Alexandre de Juniac,365,"November 10, 1962 (age 57 years), Neuilly-sur-Seine, France",France,Lycée Pasteur,1962.0,2015.0
+243,Jean-Pascal Tricoire,367,"November 5, 1963 (age 56 years), Beaupréau",,"ESEO, Emlyon Business School",1963.0,2015.0
+244,David J. Lesar,369,"May 30, 1953 (age 66 years), Madison, WI",,"University of Wisconsin-Madison, Wisconsin School of Business",1953.0,2015.0
+245,Pierre Nanterme,374,"1959, Lyon, France",France,ESSEC Business School,1959.0,2015.0
+246,James Murdoch,375,"December 13, 1972 (age 47 years), Wimbledon, London, United Kingdom",English,"Horace Mann School, Harvard University",1972.0,2015.0
+247,Antoine Frérot,376,"June 3, 1958 (age 61 years), Fontainebleau, France",France,"École des ponts ParisTech, École Polytechnique",1958.0,2015.0
+248,Inge Thulin,377,"November 9, 1953 (age 66 years), Malmö Municipality, Sweden",Sweden,"Gothenburg School of Economics (1978), Gothenburg University, IHM Business School",1953.0,2015.0
+249,Enrique Ochoa Reza,378,"September 1, 1972 (age 47 years), Morelia, Mexico",Mexico,"Columbia University (1999–2005), MORE",1972.0,2015.0
+250,Levent Çakıroğlu (Levent Cakiroglu),381,"1967 (age 53 years), Ankara, Turkey",Turkey,"Ankara University Faculty of Political Science - Civil (1988), University of Illinois at Urbana-Champaign",1967.0,2015.0
+251,Eddie Lampert,383,"July 19, 1962 (age 57 years), Roslyn, NY",United States,Yale University (1984),1962.0,2015.0
+252,Frans van Houten,385,"April 26, 1960 (age 60 years), Netherlands",Netherlands,Erasmus University Rotterdam,1960.0,2015.0
+253,Phebe Novakovic,386,"1957 (age 63 years), Pittsburgh, PA",United States,"Wharton School of the University of Pennsylvania, Smith College",1957.0,2015.0
+254,Ulf Mark Schneider,387,"September 9, 1965 (age 54 years), Neuwied, Germany",Germany,"Harvard Business School, University of St. Gallen",1965.0,2015.0
+255,Todd Jones,388,"April 24, 1968 (age 52 years), Marietta, GA",United States,"Osborne High School, Magnolia High School, Jacksonville State University",1968.0,2015.0
+256,Barry Lam,389,"April 24, 1949 (age 71 years), Shanghai, China",China,,1949.0,2015.0
+257,Wiebe Draijer,394,"August 27, 1965 (age 54 years), Enschede, Netherlands",Netherlands,Delft University of Technology,1965.0,2015.0
+258,Jean Paul Agon,395,"July 6, 1956 (age 63 years), Boulogne-Billancourt, France",France,HEC Paris,1956.0,2015.0
+259,André Calantzopoulos,398,"1958 (age 62 years), Archaeological Site of Olympia, Greece",Greece,"INSEAD Europe Campus, Swiss Federal Institute of Technology Lausanne",1958.0,2015.0
+260,Antonio Huertas,399,"January 18, 1964 (age 56 years), Villanueva de la Serena, Spain",Spain,University of Salamanca,1964.0,2015.0
+261,Andrey Kostin,404,"September 21, 1956 (age 63 years), Moscow, Russia",Russia,Moscow State University,1956.0,2015.0
+262,Philippe Wahl,408,"March 11, 1956 (age 64 years), Sarralbe, France",France,"École Nationale d'Administration, Sciences Po, Pantheon-Sorbonne University"", 'Parents: Georgette Meyer, Adrien Wahl",1956.0,2015.0
+263,Gavin Patterson,411,"September 6, 1967 (age 52 years), Altrincham, United Kingdom",United Kingdom,"Emmanuel College, University of Cambridge",1967.0,2015.0
+264,Arnaud de Puyfontaine,413,"April 26, 1964 (age 56 years), Paris, France",France,ESCP Business School,1964.0,2015.0
+265,Jeff Bewkes,415,"May 25, 1952 (age 67 years), Paterson, NJ",United States,"Stanford Graduate School of Business (1977), Deerfield Academy, Yale University, Stanford University",1952.0,2015.0
+266,Richard J. Cousins,418,"March 29, 1959, Leeds, United Kingdom",United Kingdom,"The Brakenhale School, Lancaster University Management School, The University of Sheffield",1959.0,2015.0
+267,Terry Lundgren,421,"1952 (age 68 years), Southern California, CA",United States,"The University of Arizona (1974), UA - Eller College of Management",1952.0,2015.0
+268,Emmanuel Faber,422,"January 22, 1964 (age 56 years), Grenoble, France",France,HEC Paris,1964.0,2015.0
+269,Mark Parker,425,"October 21, 1955 (age 64 years), Poughkeepsie, NY",United States,"Penn State University (1977), Westhill High School",1955.0,2015.0
+270,Rick Hamada,430,1958 (age 62 years),,,1958.0,2015.0
+271,Potts David T,431,,,,,2015.0
+272,Steve Easterbrook,434,"1967 (age 53 years), Watford, United Kingdom",United Kingdom,"St Chad's College • Durham University, Watford Boys Grammar School""",1967.0,2015.0
+273,Alan D. Schnitzer,438,"1965 (age 55 years), United States",United States,"Wharton School of the University of Pennsylvania, Columbia Law School",1965.0,2015.0
+274,Mark Cutifani,440,"May 2, 1958 (age 62 years), Wollongong, Australia",Australia,University of Wollongong,1958.0,2015.0
+275,William M. Walsh,443,"October 25, 1961 (age 58 years), Dublin, Ireland",Ireland,"Trinity College Dublin, Ardscoil Rís Secondary School",1961.0,2015.0
+276,Won Joon Lee,445,"October 23, 1985 (age 34 years), South Korea",South Korea,,1985.0,2015.0
+277,Alain Dehaze,446,"1963 (age 57 years), Belgium",Belgium,ICHEC Brussels Management School,1963.0,2015.0
+278,John T. Standley,447,,,,,2015.0
+279,Steven Mollenkopf,448,,,,,2015.0
+280,Zhang Guangning,451,"1953 (age 67 years), China",China,"University of Science and Technology Beijing, Guangzhou True Light Middle School",1953.0,2015.0
+281,Yasuyuki Yoshinaga,452,"March 5, 1954 (age 66 years), Japan",Japan,Seikei University,1954.0,2015.0
+282,Pascal Soriot,455,"May 23, 1959 (age 60 years), France",France,HEC Paris,1959.0,2015.0
+283,"Dr. Chang Soo Kim, MD",456,,,,,2015.0
+284,Jean-Dominique Senard,458,"March 7, 1953 (age 67 years), Neuilly-sur-Seine, France",France,HEC Paris,1953.0,2015.0
+285,Stephen Chazen,459,"1946 (age 74 years), United States",United States,"Rutgers University, Michigan State University, MORE",1946.0,2015.0
+286,Lynn Good,462,Ohio,,Miami University,,2015.0
+287,Jean-François van Boxmeer,463,"September 12, 1961 (age 58 years), Ixelles, Belgium",Belgium,University of Namur,1961.0,2015.0
+288,Li Xianhua,464,"1961 (age 59 years), Nanjing, China",China,University of Science and Technology of China,1961.0,2015.0
+289,Julian Roberts,466,"June 7, 1957 (age 62 years)",,University of Stirling,1957.0,2015.0
+290,Mark Tucker,467,"December 29, 1957 (age 62 years), England, United Kingdom",United Kingdom,University of Leeds,1957.0,2015.0
+291,Ian King,468,"April 24, 1956 (age 64 years), United Kingdom",United Kingdom,,1956.0,2015.0
+292,Friedrich Joussen,469,"April 19, 1963 (age 57 years), Duisburg, Germany",Germany,Landfermann-Gymnasium,1963.0,2015.0
+293,Albert Manifold,475,August 1962 (age 57 years),,,1962.0,2015.0
+294,Li Shufu,477,"June 25, 1963 (age 56 years), Taizhou, China",China,"Hubei University of Economics, Yanshan University, Harbin University of Science and Technology",1963.0,2015.0
+295,John F. Milligan,478,,,"Ohio Wesleyan University, University of Illinois at Urbana-Champaign",,2015.0
+296,Bill Winters,479,"September 1961 (age 58 years), Connecticut",Connecticut,"Wharton School of the University of Pennsylvania, Colgate University",1961.0,2015.0
+297,Sofyan Basir,480,"May 2, 1958 (age 62 years), Bogor, Indonesia",Indonesia,Sekolah Tinggi Ilmu Ekonomi Ganesha (2010),1958.0,2015.0
+298,Patrick Kron,482,"September 26, 1953 (age 66 years), Paris, France",France,École Polytechnique,1953.0,2015.0
+299,David Farr,484,"1955 (age 65 years), United States",United States,"Vanderbilt University (1980), Wake Forest University (1977), Owen Graduate School of Management",1955.0,2015.0
+300,Michel Landel,485,"November 7, 1951 (age 68 years), Meknes, Morocco",Morocco,European Business School Paris,1951.0,2015.0
+301,Joseph M. Tucci,487,"1947 (age 73 years), Brooklyn, New York, NY",United States,"Columbia University, Bethlehem Central High School, Manhattan College, Columbia Business School",1947.0,2015.0
+302,Stefan Sommer,488,"January 7, 1963 (age 57 years), Münster, Germany",Germany,Ruhr-Universität Bochum,1963.0,2015.0
+303,Gerald W. Schwartz,490,"November 24, 1941 (age 78 years), Winnipeg, Canada",Canada,,1941.0,2015.0
+304,Magnus Hall,491,"1959 (age 61 years), Sundsvall, Sweden",Sweden,"The Institute of Technology at Linköping University, Georgetown University",1959.0,2015.0
+305,Wesley G. Bush,494,"1961 (age 59 years), United States",United States,Massachusetts Institute of Technology,1961.0,2015.0
+306,Klaus Kleinfeld,495,"November 6, 1957 (age 62 years), Bremen, Germany",Germany,"Julius-Maximilians-Universität, University of Göttingen",1957.0,2015.0
+307,Richard Fairbank,496,"September 18, 1950 (age 69 years), California",California,"Stanford University, Stanford Graduate School of Business",1950.0,2015.0

@@ -1,4 +1,4 @@
-,ceo,company_rank,Born,Nationality,Education,BoY,ceo_year
+id,ceo,company_rank,Born,Nationality,Education,BoY,ceo_year
 1,Doug McMillon,1,"October 17, 1966 (age 53 years), Memphis, TN",United States,"Bentonville High School, Sam M. Walton College of Business, The University of Tulsa, University of Arkansas",1966.0,2018.0
 2,Zhang Jianhua,4,"September 1964 (age 55 years), Shanghai, China",China,East China University of Science and Technology,1964.0,2018.0
 3,Ben van Beurden,5,"April 23, 1958 (age 62 years), Netherlands",Netherlands,Delft University of Technology (1981–1983),1958.0,2018.0

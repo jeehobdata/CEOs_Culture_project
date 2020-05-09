@@ -1,4 +1,4 @@
-,rank,company,revenue % change,profits($M),profits % change,assets($M),employees,year
+id,rank,company,revenue % change,profits($M),profits % change,assets($M),employees,year
 0,1,Walmart,2.0%,"16,363",2.1%,"203,706","2,200,000",2015
 1,2,Sinopec Group,-2.3%,"5,177",-42.0%,"359,182.2","897,488",2015
 2,3,Royal Dutch Shell,-6.1%,"14,874",-9.1%,"353,116","94,000",2015

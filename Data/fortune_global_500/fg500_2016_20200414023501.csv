@@ -1,4 +1,4 @@
-,rank,company,employees,revenue % change,profits($M),profits % change,assets($M),year
+id,rank,company,employees,revenue % change,profits($M),profits % change,assets($M),year
 0,1,Walmart,"2,300,000",-0.7%,"$14,694",-10.2%,"$199,581",2016
 1,2,State Grid,"927,839",-2.9%,"$10,201",4.1%,"$478,539",2016
 2,3,China National Petroleum,"1,589,508",-30.2%,"$7,091",-56.7%,"$621,242",2016

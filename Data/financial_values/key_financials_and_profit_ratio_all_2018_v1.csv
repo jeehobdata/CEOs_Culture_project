@@ -1,4 +1,4 @@
-,Revenues_$M,Profits_$M,Assets_$M,Total_Stockholder_Equity_$M,Profit_as_%_of_Revenues,Profits_as_%_of_Assets,Profits_as_%_of_Stockholder_Equity,company,year
+id,Revenues_$M,Profits_$M,Assets_$M,Total_Stockholder_Equity_$M,Profit_as_%_of_Revenues,Profits_as_%_of_Assets,Profits_as_%_of_Stockholder_Equity,company,year
 1,"$500,343","$9,862.00","$204,522.00","$77,869.00",2%,4.8%,12.7%,Walmart,2018
 2,"$348,903","$9,533.40","$585,278","$239,743",2.7%,1.6%,4%,State Grid,2018
 3,"$326,953","$1,537.80","$346,544.50","$113,710.30",0.5%,0.4%,1.4%,Sinopec Group,2018

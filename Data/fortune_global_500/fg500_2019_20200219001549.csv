@@ -1,4 +1,4 @@
-,rank,company,revenues,revenue % change,profits($M),assets($M),profits % change,employees,change in rank 500,country/territory,year
+id,rank,company,revenues,revenue % change,profits($M),assets($M),profits % change,employees,change in rank 500,country/territory,year
 0,1,Walmart,"$514,405.00 ",2.80%,"$6,670.00 ","$219,295.00 ",-32.40%,"2,200,000",-,U.S.,2019
 1,2,Sinopec Group,"$414,649.90 ",26.80%,"$5,845.00 ","$329,186.30 ",280.10%,"619,151",1,China,2019
 2,3,Royal Dutch Shell,"$396,556.00 ",27.20%,"$23,352.00 ","$399,194.00 ",79.90%,"81,000",2,Netherlands,2019

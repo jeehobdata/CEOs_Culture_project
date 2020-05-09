@@ -1,4 +1,4 @@
-,rank,company,revenues,revenue % change,profits($M),assets($M),profits % change,employees,change in rank 500,year
+id,rank,company,revenues,revenue % change,profits($M),assets($M),profits % change,employees,change in rank 500,year
 0,1,Walmart,"$485,873",0.8%,"$13,643","$198,825",-7.2%,"2,300,000",-,2017
 1,2,State Grid,"$315,199",-4.4%,"$9,571.3","$489,838",-6.2%,"926,067",-,2017
 2,3,Sinopec Group,"$267,518",-9.1%,"$1,257.9","$310,726",-65%,"713,288",1,2017

@@ -277,6 +277,72 @@ COLLATE 'utf8mb4_0900_ai_ci';
 
 
 
+-- Create 2015 tables -------------------------------------------------------------------------------
+-- Create ceo_bio_2015 table
+Drop table if exists `ceo_bio_2015`;
+CREATE table ceo_bio_2015(
+id int(255) not null,
+ceo varchar(255),
+company_rank int(255) not null,
+Born varchar(500),
+Nationality varchar(255),
+Education varchar(10000),
+BoY varchar(50),
+`year` int(255),
+PRIMARY KEY (`id`))
+COLLATE 'utf8mb4_0900_ai_ci';
+
+ -- Create fg500_ceo_2015 table
+Drop table if exists `fg500_ceo_2015`;
+CREATE table fg500_ceo_2015(
+id int(255) not null,
+CEO varchar(255) ,
+Industry varchar(255),
+Sector varchar(255),
+`HQ Location` varchar(255),
+Website varchar(255),
+`Years on Global 500 List` varchar(100),
+company varchar(255),
+`year` int(255),
+PRIMARY KEY (`id`))
+COLLATE 'utf8mb4_0900_ai_ci';
+
+
+-- Create financial_values_2015 tables
+Drop table if exists `financial_values_2015`;
+CREATE table financial_values_2015(
+`id` int(255) not null,
+`Revenues_$M` varchar(300),
+`Profits_$M` varchar(300),
+`Assets_$M` varchar(300),
+`Total_Stockholder_Equity_$M` varchar(300),
+`Profit_as_%_of_Revenues` varchar(300),
+`Profits_as_%_of_Assets` varchar(300),
+`Profits_as_%_of_Stockholder_Equity` varchar(300),
+`company` varchar(255),
+`year` int(255),
+PRIMARY KEY (`id`))
+COLLATE 'utf8mb4_0900_ai_ci';
+
+
+ -- Create fg500_company_2015 table 
+Drop table if exists `fg500_company_2015`;
+CREATE table fg500_company_2015(
+id int(255) not null,
+`rank` varchar(255),
+`company` varchar(255),
+`employees` varchar(300),
+`revenue % change` varchar(300),
+`profits($M)` varchar(300),
+`profits % change` varchar(300),
+`assets($M)` varchar(300),
+`year` int(255),
+PRIMARY KEY (id))
+COLLATE 'utf8mb4_0900_ai_ci';
+
+
+
+
  -- Create globe_leadership table
 Drop table if exists `globe_leadership`;
 CREATE table globe_leadership(
@@ -356,6 +422,8 @@ uai varchar(50),
 ltowvs varchar(50),
 ivr varchar(50))
 COLLATE 'utf8mb4_0900_ai_ci';
+
+
 
 
  
@@ -484,6 +552,40 @@ INTO TABLE financial_values_2016
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+
+
+
+-- import data into 2015 tables -------------------------------------------------------------
+-- Import data into ceo_bio_2015 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/CEOs_info_2015_v1(May_5_2020).csv' 
+INTO TABLE ceo_bio_2015 
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+-- Import data into fg500_ceo_2015 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/fg500_CEOs_2015_v1(May_5_2020).csv' 
+INTO TABLE fg500_ceo_2015 
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+-- Import data into fg500_company_2015 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/fg500_2015_20200505022239.csv' 
+INTO TABLE fg500_company_2015
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+-- Import data into financial_values_2015 table
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/key_financials_and_profit_ratio_all_2015_v1.csv' 
+INTO TABLE financial_values_2015
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+
 
 
 
